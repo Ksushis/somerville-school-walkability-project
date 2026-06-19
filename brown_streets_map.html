@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Brown K-5 Streets — Distance to Winter Hill Site</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: system-ui, sans-serif; background: #f5f4f0; color: #1a1a18; }
+  #header { padding: 14px 18px 10px; background: #fff; border-bottom: 1px solid #e0dfd8; }
+  #header h1 { font-size: 15px; font-weight: 600; margin-bottom: 3px; }
+  #header p { font-size: 12px; color: #666; }
+  #map { height: calc(100vh - 130px); width: 100%; }
+  #legend { display: flex; align-items: center; gap: 16px; padding: 8px 18px; background: #fff; border-top: 1px solid #e0dfd8; font-size: 12px; flex-wrap: wrap; }
+  .leg { display: flex; align-items: center; gap: 5px; }
+  .dot { width: 11px; height: 11px; border-radius: 50%; flex-shrink: 0; }
+  .dot-in { background: #2563eb; border: 2px solid #1d4ed8; }
+  .dot-out { background: #dc2626; border: 2px solid #b91c1c; }
+  .dot-wh { background: #f59e0b; border: 2px solid #d97706; }
+  .dot-brown { background: #8b5cf6; border: 2px solid #7c3aed; }
+  .ring { width: 13px; height: 13px; border-radius: 50%; border: 2px dashed #2563eb; background: transparent; flex-shrink: 0; }
+  .info-box { position: absolute; top: 10px; right: 10px; z-index: 1000; background: white; border: 1px solid #e0dfd8; border-radius: 8px; padding: 12px 14px; min-width: 220px; font-size: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+  .info-box h3 { font-size: 13px; font-weight: 600; margin-bottom: 8px; }
+  .stat { display: flex; justify-content: space-between; gap: 12px; padding: 3px 0; border-bottom: 1px solid #f0efe8; }
+  .stat:last-child { border-bottom: none; }
+  .stat-label { color: #666; }
+  .stat-value { font-weight: 500; }
+  .within { color: #2563eb; }
+  .outside { color: #dc2626; }
+  .leaflet-popup-content { font-size: 13px; line-height: 1.5; min-width: 180px; }
+  .popup-street { font-weight: 600; font-size: 14px; margin-bottom: 4px; }
+  .popup-range { color: #888; font-size: 11px; margin-bottom: 6px; }
+  .popup-dist { margin: 3px 0; }
+  .badge { display: inline-block; padding: 2px 7px; border-radius: 10px; font-size: 11px; font-weight: 500; margin-top: 4px; }
+  .badge-in { background: #dbeafe; color: #1d4ed8; }
+  .badge-out { background: #fee2e2; color: #b91c1c; }
+  .badge-warn { background: #fef3c7; color: #92400e; font-size: 10px; display: block; margin-top: 4px; }
+</style>
+</head>
+<body>
+<div id="header">
+  <h1>Brown K-5 Streets — Distance to Winter Hill School Site (115 Sycamore St)</h1>
+  <p>Blue = within 2-mile radius &nbsp;·&nbsp; Red = beyond 2 miles &nbsp;·&nbsp; Dashed circle = 2-mile radius from 115 Sycamore St</p>
+</div>
+<div style="position:relative">
+  <div id="map"></div>
+  <div class="info-box">
+    <h3>Summary</h3>
+    <div class="stat"><span class="stat-label">Total Brown K-5 streets</span><span class="stat-value">44</span></div>
+    <div class="stat"><span class="stat-label">Within 2 miles of WH site</span><span class="stat-value within">43</span></div>
+    <div class="stat"><span class="stat-label">Beyond 2 miles</span><span class="stat-value outside">1 <span style="font-weight:400;color:#888">(Bristol Rd)</span></span></div>
+    <div class="stat" style="margin-top:6px"><span class="stat-label">Farthest from WH site</span><span class="stat-value">1.12 mi</span></div>
+    <div class="stat"><span class="stat-label">Closest to WH site</span><span class="stat-value">0.34 mi</span></div>
+    <div class="stat" style="margin-top:6px;font-size:11px;color:#888;border:none">WH = 115 Sycamore St (proposed site)<br>Brown = 201 Willow Ave (current school)</div>
+  </div>
+</div>
+<div id="legend">
+  <div class="leg"><div class="dot dot-in"></div> Within 2 mi of WH site (43 streets)</div>
+  <div class="leg"><div class="dot dot-out"></div> Beyond 2 mi (1 street)</div>
+  <div class="leg"><div class="dot dot-wh"></div> Winter Hill site (115 Sycamore)</div>
+  <div class="leg"><div class="dot dot-brown"></div> Brown School (201 Willow Ave)</div>
+  <div class="leg"><div class="ring"></div> 2-mile radius</div>
+</div>
+
+<script>
+const streets = [
+  {"street":"Albion Court","range":"","lat":42.392148,"lon":-71.109231,"dist_wh":0.49,"dist_brown":0.21,"within_2mi":true},
+  {"street":"Albion Place","range":"","lat":42.391989,"lon":-71.108488,"dist_wh":0.46,"dist_brown":0.19,"within_2mi":true},
+  {"street":"Albion Street","range":"94-179 only","lat":42.39192,"lon":-71.108758,"dist_wh":0.47,"dist_brown":0.19,"within_2mi":true},
+  {"street":"Albion Terrace","range":"","lat":42.39151,"lon":-71.107769,"dist_wh":0.43,"dist_brown":0.22,"within_2mi":true},
+  {"street":"Alpine Street","range":"","lat":42.392291,"lon":-71.107229,"dist_wh":0.39,"dist_brown":0.26,"within_2mi":true},
+  {"street":"Appleton Street","range":"","lat":42.397057,"lon":-71.117237,"dist_wh":0.93,"dist_brown":0.72,"within_2mi":true},
+  {"street":"Bay State Avenue","range":"","lat":42.39896,"lon":-71.115466,"dist_wh":0.9,"dist_brown":0.77,"within_2mi":true},
+  {"street":"Bellevue Terrace","range":"","lat":42.392544,"lon":-71.109573,"dist_wh":0.51,"dist_brown":0.2,"within_2mi":true},
+  {"street":"Boston Avenue","range":"1-158 only","lat":42.396997,"lon":-71.110007,"dist_wh":0.59,"dist_brown":0.47,"within_2mi":true},
+  {"street":"Bristol Road","range":"87-108 only","lat":42.336981,"lon":-71.222103,"dist_wh":7.36,"dist_brown":7.49,"within_2mi":false,"note":"Geocoded to Newton — most of this street is in Medford"},
+  {"street":"Broadway","range":"585-726 only","lat":42.399141,"lon":-71.109466,"dist_wh":0.65,"dist_brown":0.6,"within_2mi":true},
+  {"street":"Cedar Street","range":"107-165 odd, 154-end only","lat":42.393123,"lon":-71.111979,"dist_wh":0.63,"dist_brown":0.25,"within_2mi":true},
+  {"street":"Clifton Street","range":"","lat":42.396701,"lon":-71.117312,"dist_wh":0.93,"dist_brown":0.71,"within_2mi":true},
+  {"street":"Clyde Street","range":"","lat":42.394926,"lon":-71.109538,"dist_wh":0.52,"dist_brown":0.33,"within_2mi":true},
+  {"street":"College Avenue","range":"1-143 only","lat":42.399153,"lon":-71.120216,"dist_wh":1.12,"dist_brown":0.99,"within_2mi":true},
+  {"street":"Elm Court","range":"","lat":42.396936,"lon":-71.1211,"dist_wh":1.12,"dist_brown":0.96,"within_2mi":true},
+  {"street":"Ellington Road","range":"","lat":42.395713,"lon":-71.119095,"dist_wh":1.0,"dist_brown":0.82,"within_2mi":true},
+  {"street":"Foskett Street","range":"","lat":42.397014,"lon":-71.115322,"dist_wh":0.84,"dist_brown":0.67,"within_2mi":true},
+  {"street":"Francesca Avenue","range":"","lat":42.398523,"lon":-71.118423,"dist_wh":1.02,"dist_brown":0.88,"within_2mi":true},
+  {"street":"Grove Street","range":"","lat":42.396497,"lon":-71.119993,"dist_wh":1.06,"dist_brown":0.9,"within_2mi":true},
+  {"street":"Hall Avenue","range":"","lat":42.397677,"lon":-71.118157,"dist_wh":0.99,"dist_brown":0.82,"within_2mi":true},
+  {"street":"Highland Avenue","range":"219-407 odd only","lat":42.392657,"lon":-71.113795,"dist_wh":0.72,"dist_brown":0.28,"within_2mi":true},
+  {"street":"Highland Road","range":"","lat":42.396031,"lon":-71.112865,"dist_wh":0.7,"dist_brown":0.52,"within_2mi":true},
+  {"street":"Josephine Avenue","range":"","lat":42.398657,"lon":-71.112829,"dist_wh":0.77,"dist_brown":0.64,"within_2mi":true},
+  {"street":"Kidder Avenue","range":"","lat":42.396317,"lon":-71.110594,"dist_wh":0.6,"dist_brown":0.47,"within_2mi":true},
+  {"street":"Liberty Avenue","range":"","lat":42.399118,"lon":-71.116305,"dist_wh":0.94,"dist_brown":0.81,"within_2mi":true},
+  {"street":"Liberty Road","range":"","lat":42.396818,"lon":-71.117604,"dist_wh":0.95,"dist_brown":0.79,"within_2mi":true},
+  {"street":"Lowden Avenue","range":"","lat":42.399859,"lon":-71.113936,"dist_wh":0.86,"dist_brown":0.75,"within_2mi":true},
+  {"street":"Mallet Street","range":"","lat":42.399185,"lon":-71.113858,"dist_wh":0.83,"dist_brown":0.7,"within_2mi":true},
+  {"street":"Maxwell's Green","range":"","lat":42.393231,"lon":-71.106296,"dist_wh":0.34,"dist_brown":0.35,"within_2mi":true},
+  {"street":"Morrison Avenue","range":"","lat":42.394679,"lon":-71.111703,"dist_wh":0.62,"dist_brown":0.38,"within_2mi":true},
+  {"street":"Morrison Place","range":"","lat":42.396968,"lon":-71.118491,"dist_wh":0.99,"dist_brown":0.82,"within_2mi":true},
+  {"street":"Murdock Street","range":"","lat":42.396336,"lon":-71.109108,"dist_wh":0.53,"dist_brown":0.44,"within_2mi":true},
+  {"street":"Newman Place","range":"","lat":42.395698,"lon":-71.109624,"dist_wh":0.54,"dist_brown":0.38,"within_2mi":true},
+  {"street":"Pearson Avenue","range":"","lat":42.397465,"lon":-71.110982,"dist_wh":0.65,"dist_brown":0.53,"within_2mi":true},
+  {"street":"Pearson Road","range":"1-39 only","lat":42.401174,"lon":-71.114632,"dist_wh":0.94,"dist_brown":0.85,"within_2mi":true},
+  {"street":"Powder House Terrace","range":"","lat":42.399773,"lon":-71.11672,"dist_wh":0.98,"dist_brown":0.85,"within_2mi":true},
+  {"street":"Prichard Avenue","range":"","lat":42.39706,"lon":-71.11046,"dist_wh":0.61,"dist_brown":0.5,"within_2mi":true},
+  {"street":"Princeton Street","range":"","lat":42.393,"lon":-71.108093,"dist_wh":0.43,"dist_brown":0.25,"within_2mi":true},
+  {"street":"Rogers Avenue","range":"","lat":42.396259,"lon":-71.113604,"dist_wh":0.74,"dist_brown":0.52,"within_2mi":true},
+  {"street":"Warwick Street","range":"","lat":42.394269,"lon":-71.110106,"dist_wh":0.54,"dist_brown":0.32,"within_2mi":true},
+  {"street":"Willow Avenue","range":"130-end only","lat":42.395898,"lon":-71.115391,"dist_wh":0.82,"dist_brown":0.63,"within_2mi":true},
+  {"street":"Wilson Avenue","range":"","lat":42.398312,"lon":-71.10884,"dist_wh":0.58,"dist_brown":0.51,"within_2mi":true},
+  {"street":"Winslow Avenue","range":"","lat":42.396348,"lon":-71.118817,"dist_wh":1.0,"dist_brown":0.83,"within_2mi":true}
+];
+
+const WH = [42.3932, -71.0997];
+const BROWN = [42.3892, -71.1087];
+
+const map = L.map('map').setView([42.396, -71.113], 14);
+
+L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+  attribution: '© OpenStreetMap contributors © CARTO',
+  maxZoom: 18
+}).addTo(map);
+
+// 2-mile radius circle
+L.circle(WH, {
+  radius: 3218.69,
+  color: '#2563eb',
+  weight: 1.5,
+  dashArray: '6 5',
+  fillColor: '#2563eb',
+  fillOpacity: 0.04
+}).addTo(map);
+
+// Street points
+streets.forEach(s => {
+  const color = s.within_2mi ? '#2563eb' : '#dc2626';
+  const border = s.within_2mi ? '#1d4ed8' : '#b91c1c';
+  const marker = L.circleMarker([s.lat, s.lon], {
+    radius: 7,
+    fillColor: color,
+    color: border,
+    weight: 1.5,
+    fillOpacity: 0.85
+  }).addTo(map);
+
+  const rangeHtml = s.range ? `<div class="popup-range">${s.range}</div>` : '';
+  const noteHtml = s.note ? `<span class="badge badge-warn">⚠ ${s.note}</span>` : '';
+  const badge = s.within_2mi
+    ? `<span class="badge badge-in">Within 2 mi of WH site</span>`
+    : `<span class="badge badge-out">Beyond 2 mi (${s.dist_wh} mi)</span>`;
+
+  marker.bindPopup(`
+    <div class="popup-street">${s.street}</div>
+    ${rangeHtml}
+    <div class="popup-dist">📍 <strong>${s.dist_wh} mi</strong> from Winter Hill site</div>
+    <div class="popup-dist">🏫 <strong>${s.dist_brown} mi</strong> from Brown School (current)</div>
+    ${badge}
+    ${noteHtml}
+  `);
+});
+
+// Winter Hill site marker
+const whIcon = L.divIcon({
+  html: '<div style="width:14px;height:14px;background:#f59e0b;border:2.5px solid #d97706;border-radius:50%;"></div>',
+  className: '', iconAnchor: [7,7]
+});
+L.marker(WH, {icon: whIcon}).addTo(map)
+  .bindPopup('<strong>Winter Hill School site</strong><br>115 Sycamore St<br><span style="color:#666;font-size:11px">Proposed new location</span>');
+
+// Brown School marker
+const brownIcon = L.divIcon({
+  html: '<div style="width:14px;height:14px;background:#8b5cf6;border:2.5px solid #7c3aed;border-radius:50%;"></div>',
+  className: '', iconAnchor: [7,7]
+});
+L.marker(BROWN, {icon: brownIcon}).addTo(map)
+  .bindPopup('<strong>Benjamin G. Brown School</strong><br>201 Willow Ave<br><span style="color:#666;font-size:11px">Current location</span>');
+</script>
+</body>
+</html>

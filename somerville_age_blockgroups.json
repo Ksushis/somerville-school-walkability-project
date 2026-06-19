@@ -1,0 +1,712 @@
+[
+  {
+    "name": "Block Group 1; Census Tract 3501.05; Middlesex County; Massachusetts",
+    "tract": "350105",
+    "block_group": "1",
+    "under_5": 17,
+    "age_5_9": 12,
+    "age_10_14": 38,
+    "elementary_age_total": 50,
+    "pre_elementary_total": 17
+  },
+  {
+    "name": "Block Group 1; Census Tract 3501.06; Middlesex County; Massachusetts",
+    "tract": "350106",
+    "block_group": "1",
+    "under_5": 92,
+    "age_5_9": 22,
+    "age_10_14": 20,
+    "elementary_age_total": 42,
+    "pre_elementary_total": 92
+  },
+  {
+    "name": "Block Group 1; Census Tract 3501.07; Middlesex County; Massachusetts",
+    "tract": "350107",
+    "block_group": "1",
+    "under_5": 33,
+    "age_5_9": 79,
+    "age_10_14": 44,
+    "elementary_age_total": 123,
+    "pre_elementary_total": 33
+  },
+  {
+    "name": "Block Group 1; Census Tract 3501.08; Middlesex County; Massachusetts",
+    "tract": "350108",
+    "block_group": "1",
+    "under_5": 155,
+    "age_5_9": 125,
+    "age_10_14": 117,
+    "elementary_age_total": 242,
+    "pre_elementary_total": 155
+  },
+  {
+    "name": "Block Group 2; Census Tract 3501.08; Middlesex County; Massachusetts",
+    "tract": "350108",
+    "block_group": "2",
+    "under_5": 33,
+    "age_5_9": 80,
+    "age_10_14": 0,
+    "elementary_age_total": 80,
+    "pre_elementary_total": 33
+  },
+  {
+    "name": "Block Group 1; Census Tract 3501.09; Middlesex County; Massachusetts",
+    "tract": "350109",
+    "block_group": "1",
+    "under_5": 95,
+    "age_5_9": 117,
+    "age_10_14": 32,
+    "elementary_age_total": 149,
+    "pre_elementary_total": 95
+  },
+  {
+    "name": "Block Group 1; Census Tract 3502.01; Middlesex County; Massachusetts",
+    "tract": "350201",
+    "block_group": "1",
+    "under_5": 104,
+    "age_5_9": 92,
+    "age_10_14": 0,
+    "elementary_age_total": 92,
+    "pre_elementary_total": 104
+  },
+  {
+    "name": "Block Group 2; Census Tract 3502.01; Middlesex County; Massachusetts",
+    "tract": "350201",
+    "block_group": "2",
+    "under_5": 37,
+    "age_5_9": 49,
+    "age_10_14": 0,
+    "elementary_age_total": 49,
+    "pre_elementary_total": 37
+  },
+  {
+    "name": "Block Group 3; Census Tract 3502.01; Middlesex County; Massachusetts",
+    "tract": "350201",
+    "block_group": "3",
+    "under_5": 58,
+    "age_5_9": 0,
+    "age_10_14": 0,
+    "elementary_age_total": 0,
+    "pre_elementary_total": 58
+  },
+  {
+    "name": "Block Group 1; Census Tract 3502.02; Middlesex County; Massachusetts",
+    "tract": "350202",
+    "block_group": "1",
+    "under_5": 0,
+    "age_5_9": 50,
+    "age_10_14": 17,
+    "elementary_age_total": 67,
+    "pre_elementary_total": 0
+  },
+  {
+    "name": "Block Group 2; Census Tract 3502.02; Middlesex County; Massachusetts",
+    "tract": "350202",
+    "block_group": "2",
+    "under_5": 149,
+    "age_5_9": 107,
+    "age_10_14": 238,
+    "elementary_age_total": 345,
+    "pre_elementary_total": 149
+  },
+  {
+    "name": "Block Group 3; Census Tract 3502.02; Middlesex County; Massachusetts",
+    "tract": "350202",
+    "block_group": "3",
+    "under_5": 46,
+    "age_5_9": 43,
+    "age_10_14": 24,
+    "elementary_age_total": 67,
+    "pre_elementary_total": 46
+  },
+  {
+    "name": "Block Group 1; Census Tract 3503; Middlesex County; Massachusetts",
+    "tract": "350300",
+    "block_group": "1",
+    "under_5": 72,
+    "age_5_9": 67,
+    "age_10_14": 48,
+    "elementary_age_total": 115,
+    "pre_elementary_total": 72
+  },
+  {
+    "name": "Block Group 2; Census Tract 3503; Middlesex County; Massachusetts",
+    "tract": "350300",
+    "block_group": "2",
+    "under_5": 54,
+    "age_5_9": 26,
+    "age_10_14": 18,
+    "elementary_age_total": 44,
+    "pre_elementary_total": 54
+  },
+  {
+    "name": "Block Group 3; Census Tract 3503; Middlesex County; Massachusetts",
+    "tract": "350300",
+    "block_group": "3",
+    "under_5": 11,
+    "age_5_9": 0,
+    "age_10_14": 0,
+    "elementary_age_total": 0,
+    "pre_elementary_total": 11
+  },
+  {
+    "name": "Block Group 1; Census Tract 3504; Middlesex County; Massachusetts",
+    "tract": "350400",
+    "block_group": "1",
+    "under_5": 90,
+    "age_5_9": 22,
+    "age_10_14": 11,
+    "elementary_age_total": 33,
+    "pre_elementary_total": 90
+  },
+  {
+    "name": "Block Group 2; Census Tract 3504; Middlesex County; Massachusetts",
+    "tract": "350400",
+    "block_group": "2",
+    "under_5": 40,
+    "age_5_9": 38,
+    "age_10_14": 57,
+    "elementary_age_total": 95,
+    "pre_elementary_total": 40
+  },
+  {
+    "name": "Block Group 3; Census Tract 3504; Middlesex County; Massachusetts",
+    "tract": "350400",
+    "block_group": "3",
+    "under_5": 0,
+    "age_5_9": 0,
+    "age_10_14": 0,
+    "elementary_age_total": 0,
+    "pre_elementary_total": 0
+  },
+  {
+    "name": "Block Group 4; Census Tract 3504; Middlesex County; Massachusetts",
+    "tract": "350400",
+    "block_group": "4",
+    "under_5": 85,
+    "age_5_9": 66,
+    "age_10_14": 30,
+    "elementary_age_total": 96,
+    "pre_elementary_total": 85
+  },
+  {
+    "name": "Block Group 5; Census Tract 3504; Middlesex County; Massachusetts",
+    "tract": "350400",
+    "block_group": "5",
+    "under_5": 0,
+    "age_5_9": 15,
+    "age_10_14": 0,
+    "elementary_age_total": 15,
+    "pre_elementary_total": 0
+  },
+  {
+    "name": "Block Group 1; Census Tract 3505; Middlesex County; Massachusetts",
+    "tract": "350500",
+    "block_group": "1",
+    "under_5": 28,
+    "age_5_9": 11,
+    "age_10_14": 18,
+    "elementary_age_total": 29,
+    "pre_elementary_total": 28
+  },
+  {
+    "name": "Block Group 2; Census Tract 3505; Middlesex County; Massachusetts",
+    "tract": "350500",
+    "block_group": "2",
+    "under_5": 22,
+    "age_5_9": 17,
+    "age_10_14": 35,
+    "elementary_age_total": 52,
+    "pre_elementary_total": 22
+  },
+  {
+    "name": "Block Group 1; Census Tract 3506; Middlesex County; Massachusetts",
+    "tract": "350600",
+    "block_group": "1",
+    "under_5": 0,
+    "age_5_9": 0,
+    "age_10_14": 0,
+    "elementary_age_total": 0,
+    "pre_elementary_total": 0
+  },
+  {
+    "name": "Block Group 2; Census Tract 3506; Middlesex County; Massachusetts",
+    "tract": "350600",
+    "block_group": "2",
+    "under_5": 31,
+    "age_5_9": 11,
+    "age_10_14": 0,
+    "elementary_age_total": 11,
+    "pre_elementary_total": 31
+  },
+  {
+    "name": "Block Group 3; Census Tract 3506; Middlesex County; Massachusetts",
+    "tract": "350600",
+    "block_group": "3",
+    "under_5": 23,
+    "age_5_9": 15,
+    "age_10_14": 7,
+    "elementary_age_total": 22,
+    "pre_elementary_total": 23
+  },
+  {
+    "name": "Block Group 4; Census Tract 3506; Middlesex County; Massachusetts",
+    "tract": "350600",
+    "block_group": "4",
+    "under_5": 67,
+    "age_5_9": 27,
+    "age_10_14": 25,
+    "elementary_age_total": 52,
+    "pre_elementary_total": 67
+  },
+  {
+    "name": "Block Group 1; Census Tract 3507.01; Middlesex County; Massachusetts",
+    "tract": "350701",
+    "block_group": "1",
+    "under_5": 69,
+    "age_5_9": 31,
+    "age_10_14": 0,
+    "elementary_age_total": 31,
+    "pre_elementary_total": 69
+  },
+  {
+    "name": "Block Group 2; Census Tract 3507.01; Middlesex County; Massachusetts",
+    "tract": "350701",
+    "block_group": "2",
+    "under_5": 0,
+    "age_5_9": 0,
+    "age_10_14": 0,
+    "elementary_age_total": 0,
+    "pre_elementary_total": 0
+  },
+  {
+    "name": "Block Group 3; Census Tract 3507.01; Middlesex County; Massachusetts",
+    "tract": "350701",
+    "block_group": "3",
+    "under_5": 62,
+    "age_5_9": 26,
+    "age_10_14": 0,
+    "elementary_age_total": 26,
+    "pre_elementary_total": 62
+  },
+  {
+    "name": "Block Group 1; Census Tract 3507.02; Middlesex County; Massachusetts",
+    "tract": "350702",
+    "block_group": "1",
+    "under_5": 49,
+    "age_5_9": 6,
+    "age_10_14": 15,
+    "elementary_age_total": 21,
+    "pre_elementary_total": 49
+  },
+  {
+    "name": "Block Group 2; Census Tract 3507.02; Middlesex County; Massachusetts",
+    "tract": "350702",
+    "block_group": "2",
+    "under_5": 75,
+    "age_5_9": 101,
+    "age_10_14": 100,
+    "elementary_age_total": 201,
+    "pre_elementary_total": 75
+  },
+  {
+    "name": "Block Group 3; Census Tract 3507.02; Middlesex County; Massachusetts",
+    "tract": "350702",
+    "block_group": "3",
+    "under_5": 121,
+    "age_5_9": 43,
+    "age_10_14": 139,
+    "elementary_age_total": 182,
+    "pre_elementary_total": 121
+  },
+  {
+    "name": "Block Group 1; Census Tract 3508; Middlesex County; Massachusetts",
+    "tract": "350800",
+    "block_group": "1",
+    "under_5": 85,
+    "age_5_9": 13,
+    "age_10_14": 7,
+    "elementary_age_total": 20,
+    "pre_elementary_total": 85
+  },
+  {
+    "name": "Block Group 2; Census Tract 3508; Middlesex County; Massachusetts",
+    "tract": "350800",
+    "block_group": "2",
+    "under_5": 34,
+    "age_5_9": 10,
+    "age_10_14": 2,
+    "elementary_age_total": 12,
+    "pre_elementary_total": 34
+  },
+  {
+    "name": "Block Group 1; Census Tract 3509; Middlesex County; Massachusetts",
+    "tract": "350900",
+    "block_group": "1",
+    "under_5": 12,
+    "age_5_9": 24,
+    "age_10_14": 47,
+    "elementary_age_total": 71,
+    "pre_elementary_total": 12
+  },
+  {
+    "name": "Block Group 2; Census Tract 3509; Middlesex County; Massachusetts",
+    "tract": "350900",
+    "block_group": "2",
+    "under_5": 78,
+    "age_5_9": 0,
+    "age_10_14": 94,
+    "elementary_age_total": 94,
+    "pre_elementary_total": 78
+  },
+  {
+    "name": "Block Group 3; Census Tract 3509; Middlesex County; Massachusetts",
+    "tract": "350900",
+    "block_group": "3",
+    "under_5": 56,
+    "age_5_9": 14,
+    "age_10_14": 0,
+    "elementary_age_total": 14,
+    "pre_elementary_total": 56
+  },
+  {
+    "name": "Block Group 1; Census Tract 3510.01; Middlesex County; Massachusetts",
+    "tract": "351001",
+    "block_group": "1",
+    "under_5": 0,
+    "age_5_9": 44,
+    "age_10_14": 64,
+    "elementary_age_total": 108,
+    "pre_elementary_total": 0
+  },
+  {
+    "name": "Block Group 2; Census Tract 3510.01; Middlesex County; Massachusetts",
+    "tract": "351001",
+    "block_group": "2",
+    "under_5": 56,
+    "age_5_9": 24,
+    "age_10_14": 0,
+    "elementary_age_total": 24,
+    "pre_elementary_total": 56
+  },
+  {
+    "name": "Block Group 3; Census Tract 3510.01; Middlesex County; Massachusetts",
+    "tract": "351001",
+    "block_group": "3",
+    "under_5": 0,
+    "age_5_9": 0,
+    "age_10_14": 12,
+    "elementary_age_total": 12,
+    "pre_elementary_total": 0
+  },
+  {
+    "name": "Block Group 1; Census Tract 3510.02; Middlesex County; Massachusetts",
+    "tract": "351002",
+    "block_group": "1",
+    "under_5": 60,
+    "age_5_9": 56,
+    "age_10_14": 0,
+    "elementary_age_total": 56,
+    "pre_elementary_total": 60
+  },
+  {
+    "name": "Block Group 2; Census Tract 3510.02; Middlesex County; Massachusetts",
+    "tract": "351002",
+    "block_group": "2",
+    "under_5": 54,
+    "age_5_9": 26,
+    "age_10_14": 28,
+    "elementary_age_total": 54,
+    "pre_elementary_total": 54
+  },
+  {
+    "name": "Block Group 3; Census Tract 3510.02; Middlesex County; Massachusetts",
+    "tract": "351002",
+    "block_group": "3",
+    "under_5": 19,
+    "age_5_9": 15,
+    "age_10_14": 0,
+    "elementary_age_total": 15,
+    "pre_elementary_total": 19
+  },
+  {
+    "name": "Block Group 1; Census Tract 3511.01; Middlesex County; Massachusetts",
+    "tract": "351101",
+    "block_group": "1",
+    "under_5": 10,
+    "age_5_9": 0,
+    "age_10_14": 34,
+    "elementary_age_total": 34,
+    "pre_elementary_total": 10
+  },
+  {
+    "name": "Block Group 2; Census Tract 3511.01; Middlesex County; Massachusetts",
+    "tract": "351101",
+    "block_group": "2",
+    "under_5": 23,
+    "age_5_9": 12,
+    "age_10_14": 69,
+    "elementary_age_total": 81,
+    "pre_elementary_total": 23
+  },
+  {
+    "name": "Block Group 3; Census Tract 3511.01; Middlesex County; Massachusetts",
+    "tract": "351101",
+    "block_group": "3",
+    "under_5": 32,
+    "age_5_9": 32,
+    "age_10_14": 0,
+    "elementary_age_total": 32,
+    "pre_elementary_total": 32
+  },
+  {
+    "name": "Block Group 1; Census Tract 3511.02; Middlesex County; Massachusetts",
+    "tract": "351102",
+    "block_group": "1",
+    "under_5": 50,
+    "age_5_9": 5,
+    "age_10_14": 0,
+    "elementary_age_total": 5,
+    "pre_elementary_total": 50
+  },
+  {
+    "name": "Block Group 2; Census Tract 3511.02; Middlesex County; Massachusetts",
+    "tract": "351102",
+    "block_group": "2",
+    "under_5": 82,
+    "age_5_9": 80,
+    "age_10_14": 6,
+    "elementary_age_total": 86,
+    "pre_elementary_total": 82
+  },
+  {
+    "name": "Block Group 1; Census Tract 3512.03; Middlesex County; Massachusetts",
+    "tract": "351203",
+    "block_group": "1",
+    "under_5": 12,
+    "age_5_9": 6,
+    "age_10_14": 18,
+    "elementary_age_total": 24,
+    "pre_elementary_total": 12
+  },
+  {
+    "name": "Block Group 2; Census Tract 3512.03; Middlesex County; Massachusetts",
+    "tract": "351203",
+    "block_group": "2",
+    "under_5": 35,
+    "age_5_9": 15,
+    "age_10_14": 3,
+    "elementary_age_total": 18,
+    "pre_elementary_total": 35
+  },
+  {
+    "name": "Block Group 3; Census Tract 3512.03; Middlesex County; Massachusetts",
+    "tract": "351203",
+    "block_group": "3",
+    "under_5": 36,
+    "age_5_9": 17,
+    "age_10_14": 5,
+    "elementary_age_total": 22,
+    "pre_elementary_total": 36
+  },
+  {
+    "name": "Block Group 4; Census Tract 3512.03; Middlesex County; Massachusetts",
+    "tract": "351203",
+    "block_group": "4",
+    "under_5": 25,
+    "age_5_9": 14,
+    "age_10_14": 0,
+    "elementary_age_total": 14,
+    "pre_elementary_total": 25
+  },
+  {
+    "name": "Block Group 1; Census Tract 3512.04; Middlesex County; Massachusetts",
+    "tract": "351204",
+    "block_group": "1",
+    "under_5": 24,
+    "age_5_9": 0,
+    "age_10_14": 10,
+    "elementary_age_total": 10,
+    "pre_elementary_total": 24
+  },
+  {
+    "name": "Block Group 2; Census Tract 3512.04; Middlesex County; Massachusetts",
+    "tract": "351204",
+    "block_group": "2",
+    "under_5": 42,
+    "age_5_9": 23,
+    "age_10_14": 38,
+    "elementary_age_total": 61,
+    "pre_elementary_total": 42
+  },
+  {
+    "name": "Block Group 3; Census Tract 3512.04; Middlesex County; Massachusetts",
+    "tract": "351204",
+    "block_group": "3",
+    "under_5": 89,
+    "age_5_9": 32,
+    "age_10_14": 0,
+    "elementary_age_total": 32,
+    "pre_elementary_total": 89
+  },
+  {
+    "name": "Block Group 1; Census Tract 3513; Middlesex County; Massachusetts",
+    "tract": "351300",
+    "block_group": "1",
+    "under_5": 43,
+    "age_5_9": 75,
+    "age_10_14": 32,
+    "elementary_age_total": 107,
+    "pre_elementary_total": 43
+  },
+  {
+    "name": "Block Group 2; Census Tract 3513; Middlesex County; Massachusetts",
+    "tract": "351300",
+    "block_group": "2",
+    "under_5": 149,
+    "age_5_9": 85,
+    "age_10_14": 74,
+    "elementary_age_total": 159,
+    "pre_elementary_total": 149
+  },
+  {
+    "name": "Block Group 3; Census Tract 3513; Middlesex County; Massachusetts",
+    "tract": "351300",
+    "block_group": "3",
+    "under_5": 14,
+    "age_5_9": 55,
+    "age_10_14": 39,
+    "elementary_age_total": 94,
+    "pre_elementary_total": 14
+  },
+  {
+    "name": "Block Group 1; Census Tract 3514.03; Middlesex County; Massachusetts",
+    "tract": "351403",
+    "block_group": "1",
+    "under_5": 0,
+    "age_5_9": 17,
+    "age_10_14": 0,
+    "elementary_age_total": 17,
+    "pre_elementary_total": 0
+  },
+  {
+    "name": "Block Group 2; Census Tract 3514.03; Middlesex County; Massachusetts",
+    "tract": "351403",
+    "block_group": "2",
+    "under_5": 75,
+    "age_5_9": 42,
+    "age_10_14": 0,
+    "elementary_age_total": 42,
+    "pre_elementary_total": 75
+  },
+  {
+    "name": "Block Group 3; Census Tract 3514.03; Middlesex County; Massachusetts",
+    "tract": "351403",
+    "block_group": "3",
+    "under_5": 13,
+    "age_5_9": 0,
+    "age_10_14": 8,
+    "elementary_age_total": 8,
+    "pre_elementary_total": 13
+  },
+  {
+    "name": "Block Group 4; Census Tract 3514.03; Middlesex County; Massachusetts",
+    "tract": "351403",
+    "block_group": "4",
+    "under_5": 0,
+    "age_5_9": 43,
+    "age_10_14": 83,
+    "elementary_age_total": 126,
+    "pre_elementary_total": 0
+  },
+  {
+    "name": "Block Group 5; Census Tract 3514.03; Middlesex County; Massachusetts",
+    "tract": "351403",
+    "block_group": "5",
+    "under_5": 33,
+    "age_5_9": 35,
+    "age_10_14": 27,
+    "elementary_age_total": 62,
+    "pre_elementary_total": 33
+  },
+  {
+    "name": "Block Group 1; Census Tract 3514.04; Middlesex County; Massachusetts",
+    "tract": "351404",
+    "block_group": "1",
+    "under_5": 0,
+    "age_5_9": 6,
+    "age_10_14": 24,
+    "elementary_age_total": 30,
+    "pre_elementary_total": 0
+  },
+  {
+    "name": "Block Group 2; Census Tract 3514.04; Middlesex County; Massachusetts",
+    "tract": "351404",
+    "block_group": "2",
+    "under_5": 0,
+    "age_5_9": 50,
+    "age_10_14": 39,
+    "elementary_age_total": 89,
+    "pre_elementary_total": 0
+  },
+  {
+    "name": "Block Group 3; Census Tract 3514.04; Middlesex County; Massachusetts",
+    "tract": "351404",
+    "block_group": "3",
+    "under_5": 37,
+    "age_5_9": 60,
+    "age_10_14": 53,
+    "elementary_age_total": 113,
+    "pre_elementary_total": 37
+  },
+  {
+    "name": "Block Group 4; Census Tract 3514.04; Middlesex County; Massachusetts",
+    "tract": "351404",
+    "block_group": "4",
+    "under_5": 54,
+    "age_5_9": 53,
+    "age_10_14": 13,
+    "elementary_age_total": 66,
+    "pre_elementary_total": 54
+  },
+  {
+    "name": "Block Group 1; Census Tract 3515; Middlesex County; Massachusetts",
+    "tract": "351500",
+    "block_group": "1",
+    "under_5": 0,
+    "age_5_9": 0,
+    "age_10_14": 0,
+    "elementary_age_total": 0,
+    "pre_elementary_total": 0
+  },
+  {
+    "name": "Block Group 2; Census Tract 3515; Middlesex County; Massachusetts",
+    "tract": "351500",
+    "block_group": "2",
+    "under_5": 27,
+    "age_5_9": 21,
+    "age_10_14": 0,
+    "elementary_age_total": 21,
+    "pre_elementary_total": 27
+  },
+  {
+    "name": "Block Group 3; Census Tract 3515; Middlesex County; Massachusetts",
+    "tract": "351500",
+    "block_group": "3",
+    "under_5": 25,
+    "age_5_9": 29,
+    "age_10_14": 0,
+    "elementary_age_total": 29,
+    "pre_elementary_total": 25
+  },
+  {
+    "name": "Block Group 4; Census Tract 3515; Middlesex County; Massachusetts",
+    "tract": "351500",
+    "block_group": "4",
+    "under_5": 0,
+    "age_5_9": 0,
+    "age_10_14": 0,
+    "elementary_age_total": 0,
+    "pre_elementary_total": 0
+  }
+]

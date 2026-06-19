@@ -1,0 +1,99 @@
+address,street,point
+"5 Albion Street, Somerville MA 02145",Albion Street 5-90,start
+"90 Albion Street, Somerville MA 02145",Albion Street 5-90,end
+"67 Benton Road, Somerville MA 02145",Benton Road 67-85,start
+"85 Benton Road, Somerville MA 02145",Benton Road 67-85,end
+"254 Broadway, Somerville MA 02145",Broadway 254-514 even,start
+"514 Broadway, Somerville MA 02145",Broadway 254-514 even,end
+"85 Central Street, Somerville MA 02145",Central Street 85-197,start
+"197 Central Street, Somerville MA 02145",Central Street 85-197,end
+"85 Centre Street, Somerville MA 02145",Centre Street 85-200,start
+"200 Centre Street, Somerville MA 02145",Centre Street 85-200,end
+"1 Hudson Street, Somerville MA 02145",Hudson Street 1-92,start
+"92 Hudson Street, Somerville MA 02145",Hudson Street 1-92,end
+"235 Lowell Street, Somerville MA 02145",Lowell Street 235-366,start
+"366 Lowell Street, Somerville MA 02145",Lowell Street 235-366,end
+"255 Medford Street, Somerville MA 02145",Medford Street 255-515,start
+"515 Medford Street, Somerville MA 02145",Medford Street 255-515,end
+"1 Oxford Street, Somerville MA 02145",Oxford Street 1-98,start
+"98 Oxford Street, Somerville MA 02145",Oxford Street 1-98,end
+"214 Pearl Street, Somerville MA 02145",Pearl Street 214-247,start
+"247 Pearl Street, Somerville MA 02145",Pearl Street 214-247,end
+"121 School Street, Somerville MA 02145",School Street 121-End,start
+"200 School Street, Somerville MA 02145",School Street 121-End,end
+"101 Walnut Street, Somerville MA 02145",Walnut Street 101-185,start
+"185 Walnut Street, Somerville MA 02145",Walnut Street 101-185,end
+"Adams Street, Somerville MA 02145",Adams Street,mid
+"Ames Street, Somerville MA 02145",Ames Street,mid
+"Bartlett Street, Somerville MA 02145",Bartlett Street,mid
+"Berwick Street, Somerville MA 02145",Berwick Street,mid
+"Bradford Avenue, Somerville MA 02145",Bradford Avenue,mid
+"Bradley Street, Somerville MA 02145",Bradley Street,mid
+"Browning Road, Somerville MA 02145",Browning Road,mid
+"Cambria Street, Somerville MA 02145",Cambria Street,mid
+"Central Road, Somerville MA 02145",Central Road,mid
+"Charles E Ryan Road, Somerville MA 02145",Charles E Ryan Road,mid
+"Charles Ryan Road, Somerville MA 02145",Charles Ryan Road,mid
+"13 Cutler Street, Somerville MA 02145",Cutler Street 12-14,mid
+"Dartmouth Street, Somerville MA 02145",Dartmouth Street,mid
+"Direnzo Terrace, Somerville MA 02145",Direnzo Terrace,mid
+"0 Downer Street, Somerville MA 02145",Downer Street,mid
+"Essex Street, Somerville MA 02145",Essex Street,mid
+"Evergreen Avenue, Somerville MA 02145",Evergreen Avenue,mid
+"Fairview Terrace, Somerville MA 02145",Fairview Terrace,mid
+"Fennell Street, Somerville MA 02145",Fennell Street,mid
+"Fisk Avenue, Somerville MA 02145",Fisk Avenue,mid
+"Forster Street, Somerville MA 02145",Forster Street,mid
+"Gibbens Street, Somerville MA 02145",Gibbens Street,mid
+"Glenwood Road, Somerville MA 02145",Glenwood Road,mid
+"Glover Circle, Somerville MA 02145",Glover Circle,mid
+"Gordon Street, Somerville MA 02145",Gordon Street,mid
+"Henderson Street, Somerville MA 02145",Henderson Street,mid
+"Hersey Street, Somerville MA 02145",Hersey Street,mid
+"Hinckley Street, Somerville MA 02145",Hinckley Street,mid
+"Howe Street, Somerville MA 02145",Howe Street,mid
+"Jackson Road, Somerville MA 02145",Jackson Road,mid
+"James Street, Somerville MA 02145",James Street,mid
+"Kenneson Road, Somerville MA 02145",Kenneson Road,mid
+"Lee Street, Somerville MA 02145",Lee Street,mid
+"Lowell Terrace, Somerville MA 02145",Lowell Terrace,mid
+"Madison Street, Somerville MA 02145",Madison Street,mid
+"Maple Avenue, Somerville MA 02145",Maple Avenue,mid
+"Marshall Street, Somerville MA 02145",Marshall Street,mid
+"Miner Street, Somerville MA 02145",Miner Street,mid
+"Montrose Court, Somerville MA 02145",Montrose Court,mid
+"Montrose Street, Somerville MA 02145",Montrose Street,mid
+"Mortimer Place, Somerville MA 02145",Mortimer Place,mid
+"Murdock Street, Somerville MA 02145",Murdock Street,mid
+"Nashua Street, Somerville MA 02145",Nashua Street,mid
+"Newman Place, Somerville MA 02145",Newman Place,mid
+"Norwood Avenue, Somerville MA 02145",Norwood Avenue,mid
+"Oakland Avenue, Somerville MA 02145",Oakland Avenue,mid
+"Partridge Avenue, Somerville MA 02145",Partridge Avenue,mid
+"Pembroke Court, Somerville MA 02145",Pembroke Court,mid
+"Pembroke Street, Somerville MA 02145",Pembroke Street,mid
+"Radcliffe Road, Somerville MA 02145",Radcliffe Road,mid
+"Richardson Street, Somerville MA 02145",Richardson Street,mid
+"Richardson Terrace, Somerville MA 02145",Richardson Terrace,mid
+"Richdale Avenue, Somerville MA 02145",Richdale Avenue,mid
+"Roberts Street, Somerville MA 02145",Roberts Street,mid
+"Robinson Street, Somerville MA 02145",Robinson Street,mid
+"Sargent Avenue, Somerville MA 02145",Sargent Avenue,mid
+"Sellon Place, Somerville MA 02145",Sellon Place,mid
+"Sherman Court, Somerville MA 02145",Sherman Court,mid
+"Stickney Avenue, Somerville MA 02145",Stickney Avenue,mid
+"Sycamore Street, Somerville MA 02145",Sycamore Street,mid
+"Sycamore Terrace, Somerville MA 02145",Sycamore Terrace,mid
+"Tennyson Street, Somerville MA 02145",Tennyson Street,mid
+"Thurston Street, Somerville MA 02145",Thurston Street,mid
+"Trull Street, Somerville MA 02145",Trull Street,mid
+"Vernon Street, Somerville MA 02145",Vernon Street,mid
+"Vinal Street, Somerville MA 02145",Vinal Street,mid
+"Waldo Street, Somerville MA 02145",Waldo Street,mid
+"Walnut Road, Somerville MA 02145",Walnut Road,mid
+"Walter Terrace, Somerville MA 02145",Walter Terrace,mid
+"Wellington Avenue, Somerville MA 02145",Wellington Avenue,mid
+"Westwood Road, Somerville MA 02145",Westwood Road,mid
+"Willoughby Street, Somerville MA 02145",Willoughby Street,mid
+"Wilton Street, Somerville MA 02145",Wilton Street,mid
+"Woodbine Street, Somerville MA 02145",Woodbine Street,mid

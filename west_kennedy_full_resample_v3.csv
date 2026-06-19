@@ -1,0 +1,1001 @@
+address,street,num,school,range_low,range_high
+"2 Alewife Brook Pkwy, Somerville MA",Alewife Brook Pkwy,2,WEST SOMERVILLE,2,499
+"85 Alewife Brook Pkwy, Somerville MA",Alewife Brook Pkwy,85,WEST SOMERVILLE,2,499
+"168 Alewife Brook Pkwy, Somerville MA",Alewife Brook Pkwy,168,WEST SOMERVILLE,2,499
+"250 Alewife Brook Pkwy, Somerville MA",Alewife Brook Pkwy,250,WEST SOMERVILLE,2,499
+"333 Alewife Brook Pkwy, Somerville MA",Alewife Brook Pkwy,333,WEST SOMERVILLE,2,499
+"416 Alewife Brook Pkwy, Somerville MA",Alewife Brook Pkwy,416,WEST SOMERVILLE,2,499
+"499 Alewife Brook Pkwy, Somerville MA",Alewife Brook Pkwy,499,WEST SOMERVILLE,2,499
+"1 Bailey Street, Somerville MA",Bailey Street,1,WEST SOMERVILLE,1,99
+"26 Bailey Street, Somerville MA",Bailey Street,26,WEST SOMERVILLE,1,99
+"50 Bailey Street, Somerville MA",Bailey Street,50,WEST SOMERVILLE,1,99
+"74 Bailey Street, Somerville MA",Bailey Street,74,WEST SOMERVILLE,1,99
+"99 Bailey Street, Somerville MA",Bailey Street,99,WEST SOMERVILLE,1,99
+"1 Barton Street, Somerville MA",Barton Street,1,WEST SOMERVILLE,1,99
+"26 Barton Street, Somerville MA",Barton Street,26,WEST SOMERVILLE,1,99
+"50 Barton Street, Somerville MA",Barton Street,50,WEST SOMERVILLE,1,99
+"74 Barton Street, Somerville MA",Barton Street,74,WEST SOMERVILLE,1,99
+"99 Barton Street, Somerville MA",Barton Street,99,WEST SOMERVILLE,1,99
+"1 Belknap Street, Somerville MA",Belknap Street,1,WEST SOMERVILLE,1,99
+"26 Belknap Street, Somerville MA",Belknap Street,26,WEST SOMERVILLE,1,99
+"50 Belknap Street, Somerville MA",Belknap Street,50,WEST SOMERVILLE,1,99
+"74 Belknap Street, Somerville MA",Belknap Street,74,WEST SOMERVILLE,1,99
+"99 Belknap Street, Somerville MA",Belknap Street,99,WEST SOMERVILLE,1,99
+"1 Billingham Street, Somerville MA",Billingham Street,1,WEST SOMERVILLE,1,99
+"26 Billingham Street, Somerville MA",Billingham Street,26,WEST SOMERVILLE,1,99
+"50 Billingham Street, Somerville MA",Billingham Street,50,WEST SOMERVILLE,1,99
+"74 Billingham Street, Somerville MA",Billingham Street,74,WEST SOMERVILLE,1,99
+"99 Billingham Street, Somerville MA",Billingham Street,99,WEST SOMERVILLE,1,99
+"1 Bromfield Road, Somerville MA",Bromfield Road,1,WEST SOMERVILLE,1,199
+"34 Bromfield Road, Somerville MA",Bromfield Road,34,WEST SOMERVILLE,1,199
+"67 Bromfield Road, Somerville MA",Bromfield Road,67,WEST SOMERVILLE,1,199
+"100 Bromfield Road, Somerville MA",Bromfield Road,100,WEST SOMERVILLE,1,199
+"133 Bromfield Road, Somerville MA",Bromfield Road,133,WEST SOMERVILLE,1,199
+"166 Bromfield Road, Somerville MA",Bromfield Road,166,WEST SOMERVILLE,1,199
+"199 Bromfield Road, Somerville MA",Bromfield Road,199,WEST SOMERVILLE,1,199
+"1 Burnham Street, Somerville MA",Burnham Street,1,WEST SOMERVILLE,1,99
+"26 Burnham Street, Somerville MA",Burnham Street,26,WEST SOMERVILLE,1,99
+"50 Burnham Street, Somerville MA",Burnham Street,50,WEST SOMERVILLE,1,99
+"74 Burnham Street, Somerville MA",Burnham Street,74,WEST SOMERVILLE,1,99
+"99 Burnham Street, Somerville MA",Burnham Street,99,WEST SOMERVILLE,1,99
+"1 Cady Avenue, Somerville MA",Cady Avenue,1,WEST SOMERVILLE,1,99
+"26 Cady Avenue, Somerville MA",Cady Avenue,26,WEST SOMERVILLE,1,99
+"50 Cady Avenue, Somerville MA",Cady Avenue,50,WEST SOMERVILLE,1,99
+"74 Cady Avenue, Somerville MA",Cady Avenue,74,WEST SOMERVILLE,1,99
+"99 Cady Avenue, Somerville MA",Cady Avenue,99,WEST SOMERVILLE,1,99
+"1 Cameron Avenue, Somerville MA",Cameron Avenue,1,WEST SOMERVILLE,1,98
+"25 Cameron Avenue, Somerville MA",Cameron Avenue,25,WEST SOMERVILLE,1,98
+"50 Cameron Avenue, Somerville MA",Cameron Avenue,50,WEST SOMERVILLE,1,98
+"74 Cameron Avenue, Somerville MA",Cameron Avenue,74,WEST SOMERVILLE,1,98
+"98 Cameron Avenue, Somerville MA",Cameron Avenue,98,WEST SOMERVILLE,1,98
+"1 Campbell Park, Somerville MA",Campbell Park,1,WEST SOMERVILLE,1,99
+"26 Campbell Park, Somerville MA",Campbell Park,26,WEST SOMERVILLE,1,99
+"50 Campbell Park, Somerville MA",Campbell Park,50,WEST SOMERVILLE,1,99
+"74 Campbell Park, Somerville MA",Campbell Park,74,WEST SOMERVILLE,1,99
+"99 Campbell Park, Somerville MA",Campbell Park,99,WEST SOMERVILLE,1,99
+"1 Campbell Park Place, Somerville MA",Campbell Park Place,1,WEST SOMERVILLE,1,99
+"26 Campbell Park Place, Somerville MA",Campbell Park Place,26,WEST SOMERVILLE,1,99
+"50 Campbell Park Place, Somerville MA",Campbell Park Place,50,WEST SOMERVILLE,1,99
+"74 Campbell Park Place, Somerville MA",Campbell Park Place,74,WEST SOMERVILLE,1,99
+"99 Campbell Park Place, Somerville MA",Campbell Park Place,99,WEST SOMERVILLE,1,99
+"1 Capen Court, Somerville MA",Capen Court,1,WEST SOMERVILLE,1,99
+"26 Capen Court, Somerville MA",Capen Court,26,WEST SOMERVILLE,1,99
+"50 Capen Court, Somerville MA",Capen Court,50,WEST SOMERVILLE,1,99
+"74 Capen Court, Somerville MA",Capen Court,74,WEST SOMERVILLE,1,99
+"99 Capen Court, Somerville MA",Capen Court,99,WEST SOMERVILLE,1,99
+"1 Capen Street, Somerville MA",Capen Street,1,WEST SOMERVILLE,1,199
+"34 Capen Street, Somerville MA",Capen Street,34,WEST SOMERVILLE,1,199
+"67 Capen Street, Somerville MA",Capen Street,67,WEST SOMERVILLE,1,199
+"100 Capen Street, Somerville MA",Capen Street,100,WEST SOMERVILLE,1,199
+"133 Capen Street, Somerville MA",Capen Street,133,WEST SOMERVILLE,1,199
+"166 Capen Street, Somerville MA",Capen Street,166,WEST SOMERVILLE,1,199
+"199 Capen Street, Somerville MA",Capen Street,199,WEST SOMERVILLE,1,199
+"1 Chandler Street, Somerville MA",Chandler Street,1,WEST SOMERVILLE,1,99
+"26 Chandler Street, Somerville MA",Chandler Street,26,WEST SOMERVILLE,1,99
+"50 Chandler Street, Somerville MA",Chandler Street,50,WEST SOMERVILLE,1,99
+"74 Chandler Street, Somerville MA",Chandler Street,74,WEST SOMERVILLE,1,99
+"99 Chandler Street, Somerville MA",Chandler Street,99,WEST SOMERVILLE,1,99
+"1 Chapel Street, Somerville MA",Chapel Street,1,WEST SOMERVILLE,1,99
+"26 Chapel Street, Somerville MA",Chapel Street,26,WEST SOMERVILLE,1,99
+"50 Chapel Street, Somerville MA",Chapel Street,50,WEST SOMERVILLE,1,99
+"74 Chapel Street, Somerville MA",Chapel Street,74,WEST SOMERVILLE,1,99
+"99 Chapel Street, Somerville MA",Chapel Street,99,WEST SOMERVILLE,1,99
+"1 Chetwynd Road, Somerville MA",Chetwynd Road,1,WEST SOMERVILLE,1,99
+"26 Chetwynd Road, Somerville MA",Chetwynd Road,26,WEST SOMERVILLE,1,99
+"50 Chetwynd Road, Somerville MA",Chetwynd Road,50,WEST SOMERVILLE,1,99
+"74 Chetwynd Road, Somerville MA",Chetwynd Road,74,WEST SOMERVILLE,1,99
+"99 Chetwynd Road, Somerville MA",Chetwynd Road,99,WEST SOMERVILLE,1,99
+"1 Clarendon Avenue, Somerville MA",Clarendon Avenue,1,WEST SOMERVILLE,1,99
+"26 Clarendon Avenue, Somerville MA",Clarendon Avenue,26,WEST SOMERVILLE,1,99
+"50 Clarendon Avenue, Somerville MA",Clarendon Avenue,50,WEST SOMERVILLE,1,99
+"74 Clarendon Avenue, Somerville MA",Clarendon Avenue,74,WEST SOMERVILLE,1,99
+"99 Clarendon Avenue, Somerville MA",Clarendon Avenue,99,WEST SOMERVILLE,1,99
+"1 Claremon Street, Somerville MA",Claremon Street,1,WEST SOMERVILLE,1,99
+"26 Claremon Street, Somerville MA",Claremon Street,26,WEST SOMERVILLE,1,99
+"50 Claremon Street, Somerville MA",Claremon Street,50,WEST SOMERVILLE,1,99
+"74 Claremon Street, Somerville MA",Claremon Street,74,WEST SOMERVILLE,1,99
+"99 Claremon Street, Somerville MA",Claremon Street,99,WEST SOMERVILLE,1,99
+"1 College Hill Road, Somerville MA",College Hill Road,1,WEST SOMERVILLE,1,99
+"26 College Hill Road, Somerville MA",College Hill Road,26,WEST SOMERVILLE,1,99
+"50 College Hill Road, Somerville MA",College Hill Road,50,WEST SOMERVILLE,1,99
+"74 College Hill Road, Somerville MA",College Hill Road,74,WEST SOMERVILLE,1,99
+"99 College Hill Road, Somerville MA",College Hill Road,99,WEST SOMERVILLE,1,99
+"1 Conwell Avenue, Somerville MA",Conwell Avenue,1,WEST SOMERVILLE,1,199
+"34 Conwell Avenue, Somerville MA",Conwell Avenue,34,WEST SOMERVILLE,1,199
+"67 Conwell Avenue, Somerville MA",Conwell Avenue,67,WEST SOMERVILLE,1,199
+"100 Conwell Avenue, Somerville MA",Conwell Avenue,100,WEST SOMERVILLE,1,199
+"133 Conwell Avenue, Somerville MA",Conwell Avenue,133,WEST SOMERVILLE,1,199
+"166 Conwell Avenue, Somerville MA",Conwell Avenue,166,WEST SOMERVILLE,1,199
+"199 Conwell Avenue, Somerville MA",Conwell Avenue,199,WEST SOMERVILLE,1,199
+"1 Corinthian Road, Somerville MA",Corinthian Road,1,WEST SOMERVILLE,1,99
+"26 Corinthian Road, Somerville MA",Corinthian Road,26,WEST SOMERVILLE,1,99
+"50 Corinthian Road, Somerville MA",Corinthian Road,50,WEST SOMERVILLE,1,99
+"74 Corinthian Road, Somerville MA",Corinthian Road,74,WEST SOMERVILLE,1,99
+"99 Corinthian Road, Somerville MA",Corinthian Road,99,WEST SOMERVILLE,1,99
+"1 Curtis Avenue, Somerville MA",Curtis Avenue,1,WEST SOMERVILLE,1,99
+"26 Curtis Avenue, Somerville MA",Curtis Avenue,26,WEST SOMERVILLE,1,99
+"50 Curtis Avenue, Somerville MA",Curtis Avenue,50,WEST SOMERVILLE,1,99
+"74 Curtis Avenue, Somerville MA",Curtis Avenue,74,WEST SOMERVILLE,1,99
+"99 Curtis Avenue, Somerville MA",Curtis Avenue,99,WEST SOMERVILLE,1,99
+"1 Curtis Street, Somerville MA",Curtis Street,1,WEST SOMERVILLE,1,199
+"34 Curtis Street, Somerville MA",Curtis Street,34,WEST SOMERVILLE,1,199
+"67 Curtis Street, Somerville MA",Curtis Street,67,WEST SOMERVILLE,1,199
+"100 Curtis Street, Somerville MA",Curtis Street,100,WEST SOMERVILLE,1,199
+"133 Curtis Street, Somerville MA",Curtis Street,133,WEST SOMERVILLE,1,199
+"166 Curtis Street, Somerville MA",Curtis Street,166,WEST SOMERVILLE,1,199
+"199 Curtis Street, Somerville MA",Curtis Street,199,WEST SOMERVILLE,1,199
+"1 Davis Square, Somerville MA",Davis Square,1,WEST SOMERVILLE,1,99
+"26 Davis Square, Somerville MA",Davis Square,26,WEST SOMERVILLE,1,99
+"50 Davis Square, Somerville MA",Davis Square,50,WEST SOMERVILLE,1,99
+"74 Davis Square, Somerville MA",Davis Square,74,WEST SOMERVILLE,1,99
+"99 Davis Square, Somerville MA",Davis Square,99,WEST SOMERVILLE,1,99
+"14 Day Street, Somerville MA",Day Street,14,WEST SOMERVILLE,14,199
+"45 Day Street, Somerville MA",Day Street,45,WEST SOMERVILLE,14,199
+"76 Day Street, Somerville MA",Day Street,76,WEST SOMERVILLE,14,199
+"106 Day Street, Somerville MA",Day Street,106,WEST SOMERVILLE,14,199
+"137 Day Street, Somerville MA",Day Street,137,WEST SOMERVILLE,14,199
+"168 Day Street, Somerville MA",Day Street,168,WEST SOMERVILLE,14,199
+"199 Day Street, Somerville MA",Day Street,199,WEST SOMERVILLE,14,199
+"1 Dearborn Road, Somerville MA",Dearborn Road,1,WEST SOMERVILLE,1,99
+"26 Dearborn Road, Somerville MA",Dearborn Road,26,WEST SOMERVILLE,1,99
+"50 Dearborn Road, Somerville MA",Dearborn Road,50,WEST SOMERVILLE,1,99
+"74 Dearborn Road, Somerville MA",Dearborn Road,74,WEST SOMERVILLE,1,99
+"99 Dearborn Road, Somerville MA",Dearborn Road,99,WEST SOMERVILLE,1,99
+"1 Dickson Street, Somerville MA",Dickson Street,1,WEST SOMERVILLE,1,99
+"26 Dickson Street, Somerville MA",Dickson Street,26,WEST SOMERVILLE,1,99
+"50 Dickson Street, Somerville MA",Dickson Street,50,WEST SOMERVILLE,1,99
+"74 Dickson Street, Somerville MA",Dickson Street,74,WEST SOMERVILLE,1,99
+"99 Dickson Street, Somerville MA",Dickson Street,99,WEST SOMERVILLE,1,99
+"45 Dover Street, Somerville MA",Dover Street,45,WEST SOMERVILLE,45,199
+"71 Dover Street, Somerville MA",Dover Street,71,WEST SOMERVILLE,45,199
+"96 Dover Street, Somerville MA",Dover Street,96,WEST SOMERVILLE,45,199
+"122 Dover Street, Somerville MA",Dover Street,122,WEST SOMERVILLE,45,199
+"148 Dover Street, Somerville MA",Dover Street,148,WEST SOMERVILLE,45,199
+"173 Dover Street, Somerville MA",Dover Street,173,WEST SOMERVILLE,45,199
+"199 Dover Street, Somerville MA",Dover Street,199,WEST SOMERVILLE,45,199
+"1 Dow Street, Somerville MA",Dow Street,1,WEST SOMERVILLE,1,99
+"26 Dow Street, Somerville MA",Dow Street,26,WEST SOMERVILLE,1,99
+"50 Dow Street, Somerville MA",Dow Street,50,WEST SOMERVILLE,1,99
+"74 Dow Street, Somerville MA",Dow Street,74,WEST SOMERVILLE,1,99
+"99 Dow Street, Somerville MA",Dow Street,99,WEST SOMERVILLE,1,99
+"1 Electric Avenue, Somerville MA",Electric Avenue,1,WEST SOMERVILLE,1,199
+"34 Electric Avenue, Somerville MA",Electric Avenue,34,WEST SOMERVILLE,1,199
+"67 Electric Avenue, Somerville MA",Electric Avenue,67,WEST SOMERVILLE,1,199
+"100 Electric Avenue, Somerville MA",Electric Avenue,100,WEST SOMERVILLE,1,199
+"133 Electric Avenue, Somerville MA",Electric Avenue,133,WEST SOMERVILLE,1,199
+"166 Electric Avenue, Somerville MA",Electric Avenue,166,WEST SOMERVILLE,1,199
+"199 Electric Avenue, Somerville MA",Electric Avenue,199,WEST SOMERVILLE,1,199
+"1 Elmwood Street, Somerville MA",Elmwood Street,1,WEST SOMERVILLE,1,99
+"26 Elmwood Street, Somerville MA",Elmwood Street,26,WEST SOMERVILLE,1,99
+"50 Elmwood Street, Somerville MA",Elmwood Street,50,WEST SOMERVILLE,1,99
+"74 Elmwood Street, Somerville MA",Elmwood Street,74,WEST SOMERVILLE,1,99
+"99 Elmwood Street, Somerville MA",Elmwood Street,99,WEST SOMERVILLE,1,99
+"1 Elmwood Terrace, Somerville MA",Elmwood Terrace,1,WEST SOMERVILLE,1,99
+"26 Elmwood Terrace, Somerville MA",Elmwood Terrace,26,WEST SOMERVILLE,1,99
+"50 Elmwood Terrace, Somerville MA",Elmwood Terrace,50,WEST SOMERVILLE,1,99
+"74 Elmwood Terrace, Somerville MA",Elmwood Terrace,74,WEST SOMERVILLE,1,99
+"99 Elmwood Terrace, Somerville MA",Elmwood Terrace,99,WEST SOMERVILLE,1,99
+"1 Endicott Avenue, Somerville MA",Endicott Avenue,1,WEST SOMERVILLE,1,99
+"26 Endicott Avenue, Somerville MA",Endicott Avenue,26,WEST SOMERVILLE,1,99
+"50 Endicott Avenue, Somerville MA",Endicott Avenue,50,WEST SOMERVILLE,1,99
+"74 Endicott Avenue, Somerville MA",Endicott Avenue,74,WEST SOMERVILLE,1,99
+"99 Endicott Avenue, Somerville MA",Endicott Avenue,99,WEST SOMERVILLE,1,99
+"1 Fairfax Street, Somerville MA",Fairfax Street,1,WEST SOMERVILLE,1,99
+"26 Fairfax Street, Somerville MA",Fairfax Street,26,WEST SOMERVILLE,1,99
+"50 Fairfax Street, Somerville MA",Fairfax Street,50,WEST SOMERVILLE,1,99
+"74 Fairfax Street, Somerville MA",Fairfax Street,74,WEST SOMERVILLE,1,99
+"99 Fairfax Street, Somerville MA",Fairfax Street,99,WEST SOMERVILLE,1,99
+"1 Fairmount Avenue, Somerville MA",Fairmount Avenue,1,WEST SOMERVILLE,1,99
+"26 Fairmount Avenue, Somerville MA",Fairmount Avenue,26,WEST SOMERVILLE,1,99
+"50 Fairmount Avenue, Somerville MA",Fairmount Avenue,50,WEST SOMERVILLE,1,99
+"74 Fairmount Avenue, Somerville MA",Fairmount Avenue,74,WEST SOMERVILLE,1,99
+"99 Fairmount Avenue, Somerville MA",Fairmount Avenue,99,WEST SOMERVILLE,1,99
+"1 Farragut Avenue, Somerville MA",Farragut Avenue,1,WEST SOMERVILLE,1,99
+"26 Farragut Avenue, Somerville MA",Farragut Avenue,26,WEST SOMERVILLE,1,99
+"50 Farragut Avenue, Somerville MA",Farragut Avenue,50,WEST SOMERVILLE,1,99
+"74 Farragut Avenue, Somerville MA",Farragut Avenue,74,WEST SOMERVILLE,1,99
+"99 Farragut Avenue, Somerville MA",Farragut Avenue,99,WEST SOMERVILLE,1,99
+"1 Garrison Avenue, Somerville MA",Garrison Avenue,1,WEST SOMERVILLE,1,99
+"26 Garrison Avenue, Somerville MA",Garrison Avenue,26,WEST SOMERVILLE,1,99
+"50 Garrison Avenue, Somerville MA",Garrison Avenue,50,WEST SOMERVILLE,1,99
+"74 Garrison Avenue, Somerville MA",Garrison Avenue,74,WEST SOMERVILLE,1,99
+"99 Garrison Avenue, Somerville MA",Garrison Avenue,99,WEST SOMERVILLE,1,99
+"1 Glendale Avenue, Somerville MA",Glendale Avenue,1,WEST SOMERVILLE,1,99
+"26 Glendale Avenue, Somerville MA",Glendale Avenue,26,WEST SOMERVILLE,1,99
+"50 Glendale Avenue, Somerville MA",Glendale Avenue,50,WEST SOMERVILLE,1,99
+"74 Glendale Avenue, Somerville MA",Glendale Avenue,74,WEST SOMERVILLE,1,99
+"99 Glendale Avenue, Somerville MA",Glendale Avenue,99,WEST SOMERVILLE,1,99
+"1 Gorham Street, Somerville MA",Gorham Street,1,WEST SOMERVILLE,1,99
+"26 Gorham Street, Somerville MA",Gorham Street,26,WEST SOMERVILLE,1,99
+"50 Gorham Street, Somerville MA",Gorham Street,50,WEST SOMERVILLE,1,99
+"74 Gorham Street, Somerville MA",Gorham Street,74,WEST SOMERVILLE,1,99
+"99 Gorham Street, Somerville MA",Gorham Street,99,WEST SOMERVILLE,1,99
+"1 Hamilton Road, Somerville MA",Hamilton Road,1,WEST SOMERVILLE,1,99
+"26 Hamilton Road, Somerville MA",Hamilton Road,26,WEST SOMERVILLE,1,99
+"50 Hamilton Road, Somerville MA",Hamilton Road,50,WEST SOMERVILLE,1,99
+"74 Hamilton Road, Somerville MA",Hamilton Road,74,WEST SOMERVILLE,1,99
+"99 Hamilton Road, Somerville MA",Hamilton Road,99,WEST SOMERVILLE,1,99
+"1 Hardan Road, Somerville MA",Hardan Road,1,WEST SOMERVILLE,1,99
+"26 Hardan Road, Somerville MA",Hardan Road,26,WEST SOMERVILLE,1,99
+"50 Hardan Road, Somerville MA",Hardan Road,50,WEST SOMERVILLE,1,99
+"74 Hardan Road, Somerville MA",Hardan Road,74,WEST SOMERVILLE,1,99
+"99 Hardan Road, Somerville MA",Hardan Road,99,WEST SOMERVILLE,1,99
+"1 Harrison Road, Somerville MA",Harrison Road,1,WEST SOMERVILLE,1,99
+"26 Harrison Road, Somerville MA",Harrison Road,26,WEST SOMERVILLE,1,99
+"50 Harrison Road, Somerville MA",Harrison Road,50,WEST SOMERVILLE,1,99
+"74 Harrison Road, Somerville MA",Harrison Road,74,WEST SOMERVILLE,1,99
+"99 Harrison Road, Somerville MA",Harrison Road,99,WEST SOMERVILLE,1,99
+"1 Herbert Street, Somerville MA",Herbert Street,1,WEST SOMERVILLE,1,99
+"26 Herbert Street, Somerville MA",Herbert Street,26,WEST SOMERVILLE,1,99
+"50 Herbert Street, Somerville MA",Herbert Street,50,WEST SOMERVILLE,1,99
+"74 Herbert Street, Somerville MA",Herbert Street,74,WEST SOMERVILLE,1,99
+"99 Herbert Street, Somerville MA",Herbert Street,99,WEST SOMERVILLE,1,99
+"1 High Street, Somerville MA",High Street,1,WEST SOMERVILLE,1,99
+"26 High Street, Somerville MA",High Street,26,WEST SOMERVILLE,1,99
+"50 High Street, Somerville MA",High Street,50,WEST SOMERVILLE,1,99
+"74 High Street, Somerville MA",High Street,74,WEST SOMERVILLE,1,99
+"99 High Street, Somerville MA",High Street,99,WEST SOMERVILLE,1,99
+"1 Hill Street, Somerville MA",Hill Street,1,WEST SOMERVILLE,1,99
+"26 Hill Street, Somerville MA",Hill Street,26,WEST SOMERVILLE,1,99
+"50 Hill Street, Somerville MA",Hill Street,50,WEST SOMERVILLE,1,99
+"74 Hill Street, Somerville MA",Hill Street,74,WEST SOMERVILLE,1,99
+"99 Hill Street, Somerville MA",Hill Street,99,WEST SOMERVILLE,1,99
+"89 Hillsdale Road, Somerville MA",Hillsdale Road,89,WEST SOMERVILLE,89,199
+"116 Hillsdale Road, Somerville MA",Hillsdale Road,116,WEST SOMERVILLE,89,199
+"144 Hillsdale Road, Somerville MA",Hillsdale Road,144,WEST SOMERVILLE,89,199
+"172 Hillsdale Road, Somerville MA",Hillsdale Road,172,WEST SOMERVILLE,89,199
+"199 Hillsdale Road, Somerville MA",Hillsdale Road,199,WEST SOMERVILLE,89,199
+"1 Holland Street, Somerville MA",Holland Street,1,WEST SOMERVILLE,1,299
+"51 Holland Street, Somerville MA",Holland Street,51,WEST SOMERVILLE,1,299
+"100 Holland Street, Somerville MA",Holland Street,100,WEST SOMERVILLE,1,299
+"150 Holland Street, Somerville MA",Holland Street,150,WEST SOMERVILLE,1,299
+"200 Holland Street, Somerville MA",Holland Street,200,WEST SOMERVILLE,1,299
+"249 Holland Street, Somerville MA",Holland Street,249,WEST SOMERVILLE,1,299
+"299 Holland Street, Somerville MA",Holland Street,299,WEST SOMERVILLE,1,299
+"1 Hooker Avenue, Somerville MA",Hooker Avenue,1,WEST SOMERVILLE,1,99
+"26 Hooker Avenue, Somerville MA",Hooker Avenue,26,WEST SOMERVILLE,1,99
+"50 Hooker Avenue, Somerville MA",Hooker Avenue,50,WEST SOMERVILLE,1,99
+"74 Hooker Avenue, Somerville MA",Hooker Avenue,74,WEST SOMERVILLE,1,99
+"99 Hooker Avenue, Somerville MA",Hooker Avenue,99,WEST SOMERVILLE,1,99
+"1 Howard Street, Somerville MA",Howard Street,1,WEST SOMERVILLE,1,99
+"26 Howard Street, Somerville MA",Howard Street,26,WEST SOMERVILLE,1,99
+"50 Howard Street, Somerville MA",Howard Street,50,WEST SOMERVILLE,1,99
+"74 Howard Street, Somerville MA",Howard Street,74,WEST SOMERVILLE,1,99
+"99 Howard Street, Somerville MA",Howard Street,99,WEST SOMERVILLE,1,99
+"1 Irving Street, Somerville MA",Irving Street,1,WEST SOMERVILLE,1,99
+"26 Irving Street, Somerville MA",Irving Street,26,WEST SOMERVILLE,1,99
+"50 Irving Street, Somerville MA",Irving Street,50,WEST SOMERVILLE,1,99
+"74 Irving Street, Somerville MA",Irving Street,74,WEST SOMERVILLE,1,99
+"99 Irving Street, Somerville MA",Irving Street,99,WEST SOMERVILLE,1,99
+"1 Irvington Road, Somerville MA",Irvington Road,1,WEST SOMERVILLE,1,99
+"26 Irvington Road, Somerville MA",Irvington Road,26,WEST SOMERVILLE,1,99
+"50 Irvington Road, Somerville MA",Irvington Road,50,WEST SOMERVILLE,1,99
+"74 Irvington Road, Somerville MA",Irvington Road,74,WEST SOMERVILLE,1,99
+"99 Irvington Road, Somerville MA",Irvington Road,99,WEST SOMERVILLE,1,99
+"1 Jay Street, Somerville MA",Jay Street,1,WEST SOMERVILLE,1,99
+"26 Jay Street, Somerville MA",Jay Street,26,WEST SOMERVILLE,1,99
+"50 Jay Street, Somerville MA",Jay Street,50,WEST SOMERVILLE,1,99
+"74 Jay Street, Somerville MA",Jay Street,74,WEST SOMERVILLE,1,99
+"99 Jay Street, Somerville MA",Jay Street,99,WEST SOMERVILLE,1,99
+"1 Jerome Street, Somerville MA",Jerome Street,1,WEST SOMERVILLE,1,99
+"26 Jerome Street, Somerville MA",Jerome Street,26,WEST SOMERVILLE,1,99
+"50 Jerome Street, Somerville MA",Jerome Street,50,WEST SOMERVILLE,1,99
+"74 Jerome Street, Somerville MA",Jerome Street,74,WEST SOMERVILLE,1,99
+"99 Jerome Street, Somerville MA",Jerome Street,99,WEST SOMERVILLE,1,99
+"1 Kenwood Street, Somerville MA",Kenwood Street,1,WEST SOMERVILLE,1,99
+"26 Kenwood Street, Somerville MA",Kenwood Street,26,WEST SOMERVILLE,1,99
+"50 Kenwood Street, Somerville MA",Kenwood Street,50,WEST SOMERVILLE,1,99
+"74 Kenwood Street, Somerville MA",Kenwood Street,74,WEST SOMERVILLE,1,99
+"99 Kenwood Street, Somerville MA",Kenwood Street,99,WEST SOMERVILLE,1,99
+"1 Kingston Street, Somerville MA",Kingston Street,1,WEST SOMERVILLE,1,99
+"26 Kingston Street, Somerville MA",Kingston Street,26,WEST SOMERVILLE,1,99
+"50 Kingston Street, Somerville MA",Kingston Street,50,WEST SOMERVILLE,1,99
+"74 Kingston Street, Somerville MA",Kingston Street,74,WEST SOMERVILLE,1,99
+"99 Kingston Street, Somerville MA",Kingston Street,99,WEST SOMERVILLE,1,99
+"1 Leonard Street, Somerville MA",Leonard Street,1,WEST SOMERVILLE,1,99
+"26 Leonard Street, Somerville MA",Leonard Street,26,WEST SOMERVILLE,1,99
+"50 Leonard Street, Somerville MA",Leonard Street,50,WEST SOMERVILLE,1,99
+"74 Leonard Street, Somerville MA",Leonard Street,74,WEST SOMERVILLE,1,99
+"99 Leonard Street, Somerville MA",Leonard Street,99,WEST SOMERVILLE,1,99
+"1 Lester Terrace, Somerville MA",Lester Terrace,1,WEST SOMERVILLE,1,99
+"26 Lester Terrace, Somerville MA",Lester Terrace,26,WEST SOMERVILLE,1,99
+"50 Lester Terrace, Somerville MA",Lester Terrace,50,WEST SOMERVILLE,1,99
+"74 Lester Terrace, Somerville MA",Lester Terrace,74,WEST SOMERVILLE,1,99
+"99 Lester Terrace, Somerville MA",Lester Terrace,99,WEST SOMERVILLE,1,99
+"1 Lovell Street, Somerville MA",Lovell Street,1,WEST SOMERVILLE,1,99
+"26 Lovell Street, Somerville MA",Lovell Street,26,WEST SOMERVILLE,1,99
+"50 Lovell Street, Somerville MA",Lovell Street,50,WEST SOMERVILLE,1,99
+"74 Lovell Street, Somerville MA",Lovell Street,74,WEST SOMERVILLE,1,99
+"99 Lovell Street, Somerville MA",Lovell Street,99,WEST SOMERVILLE,1,99
+"1 Malvern Avenue, Somerville MA",Malvern Avenue,1,WEST SOMERVILLE,1,99
+"26 Malvern Avenue, Somerville MA",Malvern Avenue,26,WEST SOMERVILLE,1,99
+"50 Malvern Avenue, Somerville MA",Malvern Avenue,50,WEST SOMERVILLE,1,99
+"74 Malvern Avenue, Somerville MA",Malvern Avenue,74,WEST SOMERVILLE,1,99
+"99 Malvern Avenue, Somerville MA",Malvern Avenue,99,WEST SOMERVILLE,1,99
+"1 Mason Street, Somerville MA",Mason Street,1,WEST SOMERVILLE,1,99
+"26 Mason Street, Somerville MA",Mason Street,26,WEST SOMERVILLE,1,99
+"50 Mason Street, Somerville MA",Mason Street,50,WEST SOMERVILLE,1,99
+"74 Mason Street, Somerville MA",Mason Street,74,WEST SOMERVILLE,1,99
+"99 Mason Street, Somerville MA",Mason Street,99,WEST SOMERVILLE,1,99
+"23 Meacham Road, Somerville MA",Meacham Road,23,WEST SOMERVILLE,23,99
+"48 Meacham Road, Somerville MA",Meacham Road,48,WEST SOMERVILLE,23,99
+"74 Meacham Road, Somerville MA",Meacham Road,74,WEST SOMERVILLE,23,99
+"99 Meacham Road, Somerville MA",Meacham Road,99,WEST SOMERVILLE,23,99
+"1 Mead Street, Somerville MA",Mead Street,1,WEST SOMERVILLE,1,99
+"26 Mead Street, Somerville MA",Mead Street,26,WEST SOMERVILLE,1,99
+"50 Mead Street, Somerville MA",Mead Street,50,WEST SOMERVILLE,1,99
+"74 Mead Street, Somerville MA",Mead Street,74,WEST SOMERVILLE,1,99
+"99 Mead Street, Somerville MA",Mead Street,99,WEST SOMERVILLE,1,99
+"19 Milton Street, Somerville MA",Milton Street,19,WEST SOMERVILLE,19,99
+"46 Milton Street, Somerville MA",Milton Street,46,WEST SOMERVILLE,19,99
+"72 Milton Street, Somerville MA",Milton Street,72,WEST SOMERVILLE,19,99
+"99 Milton Street, Somerville MA",Milton Street,99,WEST SOMERVILLE,19,99
+"1 Moore Street, Somerville MA",Moore Street,1,WEST SOMERVILLE,1,99
+"26 Moore Street, Somerville MA",Moore Street,26,WEST SOMERVILLE,1,99
+"50 Moore Street, Somerville MA",Moore Street,50,WEST SOMERVILLE,1,99
+"74 Moore Street, Somerville MA",Moore Street,74,WEST SOMERVILLE,1,99
+"99 Moore Street, Somerville MA",Moore Street,99,WEST SOMERVILLE,1,99
+"485 Mystic Valley Pkwy, Somerville MA",Mystic Valley Pkwy,485,WEST SOMERVILLE,485,2199
+"771 Mystic Valley Pkwy, Somerville MA",Mystic Valley Pkwy,771,WEST SOMERVILLE,485,2199
+"1056 Mystic Valley Pkwy, Somerville MA",Mystic Valley Pkwy,1056,WEST SOMERVILLE,485,2199
+"1342 Mystic Valley Pkwy, Somerville MA",Mystic Valley Pkwy,1342,WEST SOMERVILLE,485,2199
+"1628 Mystic Valley Pkwy, Somerville MA",Mystic Valley Pkwy,1628,WEST SOMERVILLE,485,2199
+"1913 Mystic Valley Pkwy, Somerville MA",Mystic Valley Pkwy,1913,WEST SOMERVILLE,485,2199
+"2199 Mystic Valley Pkwy, Somerville MA",Mystic Valley Pkwy,2199,WEST SOMERVILLE,485,2199
+"1 Newberne Street, Somerville MA",Newberne Street,1,WEST SOMERVILLE,1,99
+"26 Newberne Street, Somerville MA",Newberne Street,26,WEST SOMERVILLE,1,99
+"50 Newberne Street, Somerville MA",Newberne Street,50,WEST SOMERVILLE,1,99
+"74 Newberne Street, Somerville MA",Newberne Street,74,WEST SOMERVILLE,1,99
+"99 Newberne Street, Somerville MA",Newberne Street,99,WEST SOMERVILLE,1,99
+"1 Newbury Street, Somerville MA",Newbury Street,1,WEST SOMERVILLE,1,99
+"26 Newbury Street, Somerville MA",Newbury Street,26,WEST SOMERVILLE,1,99
+"50 Newbury Street, Somerville MA",Newbury Street,50,WEST SOMERVILLE,1,99
+"74 Newbury Street, Somerville MA",Newbury Street,74,WEST SOMERVILLE,1,99
+"99 Newbury Street, Somerville MA",Newbury Street,99,WEST SOMERVILLE,1,99
+"1 North Street, Somerville MA",North Street,1,WEST SOMERVILLE,1,298
+"50 North Street, Somerville MA",North Street,50,WEST SOMERVILLE,1,298
+"100 North Street, Somerville MA",North Street,100,WEST SOMERVILLE,1,298
+"150 North Street, Somerville MA",North Street,150,WEST SOMERVILLE,1,298
+"199 North Street, Somerville MA",North Street,199,WEST SOMERVILLE,1,298
+"248 North Street, Somerville MA",North Street,248,WEST SOMERVILLE,1,298
+"298 North Street, Somerville MA",North Street,298,WEST SOMERVILLE,1,298
+"1 Ossipee Road, Somerville MA",Ossipee Road,1,WEST SOMERVILLE,1,99
+"26 Ossipee Road, Somerville MA",Ossipee Road,26,WEST SOMERVILLE,1,99
+"50 Ossipee Road, Somerville MA",Ossipee Road,50,WEST SOMERVILLE,1,99
+"74 Ossipee Road, Somerville MA",Ossipee Road,74,WEST SOMERVILLE,1,99
+"99 Ossipee Road, Somerville MA",Ossipee Road,99,WEST SOMERVILLE,1,99
+"1 Packard Avenue, Somerville MA",Packard Avenue,1,WEST SOMERVILLE,1,100
+"26 Packard Avenue, Somerville MA",Packard Avenue,26,WEST SOMERVILLE,1,100
+"50 Packard Avenue, Somerville MA",Packard Avenue,50,WEST SOMERVILLE,1,100
+"75 Packard Avenue, Somerville MA",Packard Avenue,75,WEST SOMERVILLE,1,100
+"100 Packard Avenue, Somerville MA",Packard Avenue,100,WEST SOMERVILLE,1,100
+"1 Park Avenue, Somerville MA",Park Avenue,1,WEST SOMERVILLE,1,99
+"26 Park Avenue, Somerville MA",Park Avenue,26,WEST SOMERVILLE,1,99
+"50 Park Avenue, Somerville MA",Park Avenue,50,WEST SOMERVILLE,1,99
+"74 Park Avenue, Somerville MA",Park Avenue,74,WEST SOMERVILLE,1,99
+"99 Park Avenue, Somerville MA",Park Avenue,99,WEST SOMERVILLE,1,99
+"1 Paulina Street, Somerville MA",Paulina Street,1,WEST SOMERVILLE,1,99
+"26 Paulina Street, Somerville MA",Paulina Street,26,WEST SOMERVILLE,1,99
+"50 Paulina Street, Somerville MA",Paulina Street,50,WEST SOMERVILLE,1,99
+"74 Paulina Street, Somerville MA",Paulina Street,74,WEST SOMERVILLE,1,99
+"99 Paulina Street, Somerville MA",Paulina Street,99,WEST SOMERVILLE,1,99
+"1 Powder House Blvd, Somerville MA",Powder House Blvd,1,WEST SOMERVILLE,1,299
+"51 Powder House Blvd, Somerville MA",Powder House Blvd,51,WEST SOMERVILLE,1,299
+"100 Powder House Blvd, Somerville MA",Powder House Blvd,100,WEST SOMERVILLE,1,299
+"150 Powder House Blvd, Somerville MA",Powder House Blvd,150,WEST SOMERVILLE,1,299
+"200 Powder House Blvd, Somerville MA",Powder House Blvd,200,WEST SOMERVILLE,1,299
+"249 Powder House Blvd, Somerville MA",Powder House Blvd,249,WEST SOMERVILLE,1,299
+"299 Powder House Blvd, Somerville MA",Powder House Blvd,299,WEST SOMERVILLE,1,299
+"1 Raymond Avenue, Somerville MA",Raymond Avenue,1,WEST SOMERVILLE,1,199
+"34 Raymond Avenue, Somerville MA",Raymond Avenue,34,WEST SOMERVILLE,1,199
+"67 Raymond Avenue, Somerville MA",Raymond Avenue,67,WEST SOMERVILLE,1,199
+"100 Raymond Avenue, Somerville MA",Raymond Avenue,100,WEST SOMERVILLE,1,199
+"133 Raymond Avenue, Somerville MA",Raymond Avenue,133,WEST SOMERVILLE,1,199
+"166 Raymond Avenue, Somerville MA",Raymond Avenue,166,WEST SOMERVILLE,1,199
+"199 Raymond Avenue, Somerville MA",Raymond Avenue,199,WEST SOMERVILLE,1,199
+"1 Russell Road, Somerville MA",Russell Road,1,WEST SOMERVILLE,1,99
+"26 Russell Road, Somerville MA",Russell Road,26,WEST SOMERVILLE,1,99
+"50 Russell Road, Somerville MA",Russell Road,50,WEST SOMERVILLE,1,99
+"74 Russell Road, Somerville MA",Russell Road,74,WEST SOMERVILLE,1,99
+"99 Russell Road, Somerville MA",Russell Road,99,WEST SOMERVILLE,1,99
+"1 Simpson Avenue, Somerville MA",Simpson Avenue,1,WEST SOMERVILLE,1,99
+"26 Simpson Avenue, Somerville MA",Simpson Avenue,26,WEST SOMERVILLE,1,99
+"50 Simpson Avenue, Somerville MA",Simpson Avenue,50,WEST SOMERVILLE,1,99
+"74 Simpson Avenue, Somerville MA",Simpson Avenue,74,WEST SOMERVILLE,1,99
+"99 Simpson Avenue, Somerville MA",Simpson Avenue,99,WEST SOMERVILLE,1,99
+"1 Summit Street, Somerville MA",Summit Street,1,WEST SOMERVILLE,1,99
+"26 Summit Street, Somerville MA",Summit Street,26,WEST SOMERVILLE,1,99
+"50 Summit Street, Somerville MA",Summit Street,50,WEST SOMERVILLE,1,99
+"74 Summit Street, Somerville MA",Summit Street,74,WEST SOMERVILLE,1,99
+"99 Summit Street, Somerville MA",Summit Street,99,WEST SOMERVILLE,1,99
+"1 Sunset Road, Somerville MA",Sunset Road,1,WEST SOMERVILLE,1,99
+"26 Sunset Road, Somerville MA",Sunset Road,26,WEST SOMERVILLE,1,99
+"50 Sunset Road, Somerville MA",Sunset Road,50,WEST SOMERVILLE,1,99
+"74 Sunset Road, Somerville MA",Sunset Road,74,WEST SOMERVILLE,1,99
+"99 Sunset Road, Somerville MA",Sunset Road,99,WEST SOMERVILLE,1,99
+"2 Tannery Brook Row, Somerville MA",Tannery Brook Row,2,WEST SOMERVILLE,2,99
+"26 Tannery Brook Row, Somerville MA",Tannery Brook Row,26,WEST SOMERVILLE,2,99
+"50 Tannery Brook Row, Somerville MA",Tannery Brook Row,50,WEST SOMERVILLE,2,99
+"75 Tannery Brook Row, Somerville MA",Tannery Brook Row,75,WEST SOMERVILLE,2,99
+"99 Tannery Brook Row, Somerville MA",Tannery Brook Row,99,WEST SOMERVILLE,2,99
+"1 Teele Avenue, Somerville MA",Teele Avenue,1,WEST SOMERVILLE,1,99
+"26 Teele Avenue, Somerville MA",Teele Avenue,26,WEST SOMERVILLE,1,99
+"50 Teele Avenue, Somerville MA",Teele Avenue,50,WEST SOMERVILLE,1,99
+"74 Teele Avenue, Somerville MA",Teele Avenue,74,WEST SOMERVILLE,1,99
+"99 Teele Avenue, Somerville MA",Teele Avenue,99,WEST SOMERVILLE,1,99
+"1 Thorndike Street, Somerville MA",Thorndike Street,1,WEST SOMERVILLE,1,99
+"26 Thorndike Street, Somerville MA",Thorndike Street,26,WEST SOMERVILLE,1,99
+"50 Thorndike Street, Somerville MA",Thorndike Street,50,WEST SOMERVILLE,1,99
+"74 Thorndike Street, Somerville MA",Thorndike Street,74,WEST SOMERVILLE,1,99
+"99 Thorndike Street, Somerville MA",Thorndike Street,99,WEST SOMERVILLE,1,99
+"1 Upland Road, Somerville MA",Upland Road,1,WEST SOMERVILLE,1,99
+"26 Upland Road, Somerville MA",Upland Road,26,WEST SOMERVILLE,1,99
+"50 Upland Road, Somerville MA",Upland Road,50,WEST SOMERVILLE,1,99
+"74 Upland Road, Somerville MA",Upland Road,74,WEST SOMERVILLE,1,99
+"99 Upland Road, Somerville MA",Upland Road,99,WEST SOMERVILLE,1,99
+"1 Victoria Street, Somerville MA",Victoria Street,1,WEST SOMERVILLE,1,99
+"26 Victoria Street, Somerville MA",Victoria Street,26,WEST SOMERVILLE,1,99
+"50 Victoria Street, Somerville MA",Victoria Street,50,WEST SOMERVILLE,1,99
+"74 Victoria Street, Somerville MA",Victoria Street,74,WEST SOMERVILLE,1,99
+"99 Victoria Street, Somerville MA",Victoria Street,99,WEST SOMERVILLE,1,99
+"1 Walker Street, Somerville MA",Walker Street,1,WEST SOMERVILLE,1,99
+"26 Walker Street, Somerville MA",Walker Street,26,WEST SOMERVILLE,1,99
+"50 Walker Street, Somerville MA",Walker Street,50,WEST SOMERVILLE,1,99
+"74 Walker Street, Somerville MA",Walker Street,74,WEST SOMERVILLE,1,99
+"99 Walker Street, Somerville MA",Walker Street,99,WEST SOMERVILLE,1,99
+"1 Wallace Street, Somerville MA",Wallace Street,1,WEST SOMERVILLE,1,199
+"34 Wallace Street, Somerville MA",Wallace Street,34,WEST SOMERVILLE,1,199
+"67 Wallace Street, Somerville MA",Wallace Street,67,WEST SOMERVILLE,1,199
+"100 Wallace Street, Somerville MA",Wallace Street,100,WEST SOMERVILLE,1,199
+"133 Wallace Street, Somerville MA",Wallace Street,133,WEST SOMERVILLE,1,199
+"166 Wallace Street, Somerville MA",Wallace Street,166,WEST SOMERVILLE,1,199
+"199 Wallace Street, Somerville MA",Wallace Street,199,WEST SOMERVILLE,1,199
+"1 Ware Street, Somerville MA",Ware Street,1,WEST SOMERVILLE,1,99
+"26 Ware Street, Somerville MA",Ware Street,26,WEST SOMERVILLE,1,99
+"50 Ware Street, Somerville MA",Ware Street,50,WEST SOMERVILLE,1,99
+"74 Ware Street, Somerville MA",Ware Street,74,WEST SOMERVILLE,1,99
+"99 Ware Street, Somerville MA",Ware Street,99,WEST SOMERVILLE,1,99
+"1 Warner Street, Somerville MA",Warner Street,1,WEST SOMERVILLE,1,38
+"20 Warner Street, Somerville MA",Warner Street,20,WEST SOMERVILLE,1,38
+"38 Warner Street, Somerville MA",Warner Street,38,WEST SOMERVILLE,1,38
+"1 Waterhouse Street, Somerville MA",Waterhouse Street,1,WEST SOMERVILLE,1,199
+"34 Waterhouse Street, Somerville MA",Waterhouse Street,34,WEST SOMERVILLE,1,199
+"67 Waterhouse Street, Somerville MA",Waterhouse Street,67,WEST SOMERVILLE,1,199
+"100 Waterhouse Street, Somerville MA",Waterhouse Street,100,WEST SOMERVILLE,1,199
+"133 Waterhouse Street, Somerville MA",Waterhouse Street,133,WEST SOMERVILLE,1,199
+"166 Waterhouse Street, Somerville MA",Waterhouse Street,166,WEST SOMERVILLE,1,199
+"199 Waterhouse Street, Somerville MA",Waterhouse Street,199,WEST SOMERVILLE,1,199
+"1 Watson Street, Somerville MA",Watson Street,1,WEST SOMERVILLE,1,99
+"26 Watson Street, Somerville MA",Watson Street,26,WEST SOMERVILLE,1,99
+"50 Watson Street, Somerville MA",Watson Street,50,WEST SOMERVILLE,1,99
+"74 Watson Street, Somerville MA",Watson Street,74,WEST SOMERVILLE,1,99
+"99 Watson Street, Somerville MA",Watson Street,99,WEST SOMERVILLE,1,99
+"1 Westminster Street, Somerville MA",Westminster Street,1,WEST SOMERVILLE,1,99
+"26 Westminster Street, Somerville MA",Westminster Street,26,WEST SOMERVILLE,1,99
+"50 Westminster Street, Somerville MA",Westminster Street,50,WEST SOMERVILLE,1,99
+"74 Westminster Street, Somerville MA",Westminster Street,74,WEST SOMERVILLE,1,99
+"99 Westminster Street, Somerville MA",Westminster Street,99,WEST SOMERVILLE,1,99
+"1 Weston Avenue, Somerville MA",Weston Avenue,1,WEST SOMERVILLE,1,99
+"26 Weston Avenue, Somerville MA",Weston Avenue,26,WEST SOMERVILLE,1,99
+"50 Weston Avenue, Somerville MA",Weston Avenue,50,WEST SOMERVILLE,1,99
+"74 Weston Avenue, Somerville MA",Weston Avenue,74,WEST SOMERVILLE,1,99
+"99 Weston Avenue, Somerville MA",Weston Avenue,99,WEST SOMERVILLE,1,99
+"1 Whitfield Road, Somerville MA",Whitfield Road,1,WEST SOMERVILLE,1,99
+"26 Whitfield Road, Somerville MA",Whitfield Road,26,WEST SOMERVILLE,1,99
+"50 Whitfield Road, Somerville MA",Whitfield Road,50,WEST SOMERVILLE,1,99
+"74 Whitfield Road, Somerville MA",Whitfield Road,74,WEST SOMERVILLE,1,99
+"99 Whitfield Road, Somerville MA",Whitfield Road,99,WEST SOMERVILLE,1,99
+"1 Whitman Street, Somerville MA",Whitman Street,1,WEST SOMERVILLE,1,99
+"26 Whitman Street, Somerville MA",Whitman Street,26,WEST SOMERVILLE,1,99
+"50 Whitman Street, Somerville MA",Whitman Street,50,WEST SOMERVILLE,1,99
+"74 Whitman Street, Somerville MA",Whitman Street,74,WEST SOMERVILLE,1,99
+"99 Whitman Street, Somerville MA",Whitman Street,99,WEST SOMERVILLE,1,99
+"1 William Street, Somerville MA",William Street,1,WEST SOMERVILLE,1,99
+"26 William Street, Somerville MA",William Street,26,WEST SOMERVILLE,1,99
+"50 William Street, Somerville MA",William Street,50,WEST SOMERVILLE,1,99
+"74 William Street, Somerville MA",William Street,74,WEST SOMERVILLE,1,99
+"99 William Street, Somerville MA",William Street,99,WEST SOMERVILLE,1,99
+"1 Winter Street, Somerville MA",Winter Street,1,WEST SOMERVILLE,1,99
+"26 Winter Street, Somerville MA",Winter Street,26,WEST SOMERVILLE,1,99
+"50 Winter Street, Somerville MA",Winter Street,50,WEST SOMERVILLE,1,99
+"74 Winter Street, Somerville MA",Winter Street,74,WEST SOMERVILLE,1,99
+"99 Winter Street, Somerville MA",Winter Street,99,WEST SOMERVILLE,1,99
+"1 Woods Avenue, Somerville MA",Woods Avenue,1,WEST SOMERVILLE,1,199
+"34 Woods Avenue, Somerville MA",Woods Avenue,34,WEST SOMERVILLE,1,199
+"67 Woods Avenue, Somerville MA",Woods Avenue,67,WEST SOMERVILLE,1,199
+"100 Woods Avenue, Somerville MA",Woods Avenue,100,WEST SOMERVILLE,1,199
+"133 Woods Avenue, Somerville MA",Woods Avenue,133,WEST SOMERVILLE,1,199
+"166 Woods Avenue, Somerville MA",Woods Avenue,166,WEST SOMERVILLE,1,199
+"199 Woods Avenue, Somerville MA",Woods Avenue,199,WEST SOMERVILLE,1,199
+"1 Woodstock Street, Somerville MA",Woodstock Street,1,WEST SOMERVILLE,1,199
+"34 Woodstock Street, Somerville MA",Woodstock Street,34,WEST SOMERVILLE,1,199
+"67 Woodstock Street, Somerville MA",Woodstock Street,67,WEST SOMERVILLE,1,199
+"100 Woodstock Street, Somerville MA",Woodstock Street,100,WEST SOMERVILLE,1,199
+"133 Woodstock Street, Somerville MA",Woodstock Street,133,WEST SOMERVILLE,1,199
+"166 Woodstock Street, Somerville MA",Woodstock Street,166,WEST SOMERVILLE,1,199
+"199 Woodstock Street, Somerville MA",Woodstock Street,199,WEST SOMERVILLE,1,199
+"1 Yorktown Street, Somerville MA",Yorktown Street,1,WEST SOMERVILLE,1,199
+"34 Yorktown Street, Somerville MA",Yorktown Street,34,WEST SOMERVILLE,1,199
+"67 Yorktown Street, Somerville MA",Yorktown Street,67,WEST SOMERVILLE,1,199
+"100 Yorktown Street, Somerville MA",Yorktown Street,100,WEST SOMERVILLE,1,199
+"133 Yorktown Street, Somerville MA",Yorktown Street,133,WEST SOMERVILLE,1,199
+"166 Yorktown Street, Somerville MA",Yorktown Street,166,WEST SOMERVILLE,1,199
+"199 Yorktown Street, Somerville MA",Yorktown Street,199,WEST SOMERVILLE,1,199
+"1 Aberdeen Road, Somerville MA",Aberdeen Road,1,KENNEDY,1,99
+"26 Aberdeen Road, Somerville MA",Aberdeen Road,26,KENNEDY,1,99
+"50 Aberdeen Road, Somerville MA",Aberdeen Road,50,KENNEDY,1,99
+"74 Aberdeen Road, Somerville MA",Aberdeen Road,74,KENNEDY,1,99
+"99 Aberdeen Road, Somerville MA",Aberdeen Road,99,KENNEDY,1,99
+"1 Acadia Park, Somerville MA",Acadia Park,1,KENNEDY,1,99
+"26 Acadia Park, Somerville MA",Acadia Park,26,KENNEDY,1,99
+"50 Acadia Park, Somerville MA",Acadia Park,50,KENNEDY,1,99
+"74 Acadia Park, Somerville MA",Acadia Park,74,KENNEDY,1,99
+"99 Acadia Park, Somerville MA",Acadia Park,99,KENNEDY,1,99
+"1 Adelaide Road, Somerville MA",Adelaide Road,1,KENNEDY,1,99
+"26 Adelaide Road, Somerville MA",Adelaide Road,26,KENNEDY,1,99
+"50 Adelaide Road, Somerville MA",Adelaide Road,50,KENNEDY,1,99
+"74 Adelaide Road, Somerville MA",Adelaide Road,74,KENNEDY,1,99
+"99 Adelaide Road, Somerville MA",Adelaide Road,99,KENNEDY,1,99
+"1 Arnold Avenue, Somerville MA",Arnold Avenue,1,KENNEDY,1,99
+"26 Arnold Avenue, Somerville MA",Arnold Avenue,26,KENNEDY,1,99
+"50 Arnold Avenue, Somerville MA",Arnold Avenue,50,KENNEDY,1,99
+"74 Arnold Avenue, Somerville MA",Arnold Avenue,74,KENNEDY,1,99
+"99 Arnold Avenue, Somerville MA",Arnold Avenue,99,KENNEDY,1,99
+"1 Ashland Street, Somerville MA",Ashland Street,1,KENNEDY,1,99
+"26 Ashland Street, Somerville MA",Ashland Street,26,KENNEDY,1,99
+"50 Ashland Street, Somerville MA",Ashland Street,50,KENNEDY,1,99
+"74 Ashland Street, Somerville MA",Ashland Street,74,KENNEDY,1,99
+"99 Ashland Street, Somerville MA",Ashland Street,99,KENNEDY,1,99
+"1 Atherton Street, Somerville MA",Atherton Street,1,KENNEDY,1,99
+"26 Atherton Street, Somerville MA",Atherton Street,26,KENNEDY,1,99
+"50 Atherton Street, Somerville MA",Atherton Street,50,KENNEDY,1,99
+"74 Atherton Street, Somerville MA",Atherton Street,74,KENNEDY,1,99
+"99 Atherton Street, Somerville MA",Atherton Street,99,KENNEDY,1,99
+"1 Banks Street, Somerville MA",Banks Street,1,KENNEDY,1,99
+"26 Banks Street, Somerville MA",Banks Street,26,KENNEDY,1,99
+"50 Banks Street, Somerville MA",Banks Street,50,KENNEDY,1,99
+"74 Banks Street, Somerville MA",Banks Street,74,KENNEDY,1,99
+"99 Banks Street, Somerville MA",Banks Street,99,KENNEDY,1,99
+"1 Beacon Terrace, Somerville MA",Beacon Terrace,1,KENNEDY,1,99
+"26 Beacon Terrace, Somerville MA",Beacon Terrace,26,KENNEDY,1,99
+"50 Beacon Terrace, Somerville MA",Beacon Terrace,50,KENNEDY,1,99
+"74 Beacon Terrace, Somerville MA",Beacon Terrace,74,KENNEDY,1,99
+"99 Beacon Terrace, Somerville MA",Beacon Terrace,99,KENNEDY,1,99
+"1 Beckwith Circle, Somerville MA",Beckwith Circle,1,KENNEDY,1,298
+"50 Beckwith Circle, Somerville MA",Beckwith Circle,50,KENNEDY,1,298
+"100 Beckwith Circle, Somerville MA",Beckwith Circle,100,KENNEDY,1,298
+"150 Beckwith Circle, Somerville MA",Beckwith Circle,150,KENNEDY,1,298
+"199 Beckwith Circle, Somerville MA",Beckwith Circle,199,KENNEDY,1,298
+"248 Beckwith Circle, Somerville MA",Beckwith Circle,248,KENNEDY,1,298
+"298 Beckwith Circle, Somerville MA",Beckwith Circle,298,KENNEDY,1,298
+"1 Belmont Place, Somerville MA",Belmont Place,1,KENNEDY,1,99
+"26 Belmont Place, Somerville MA",Belmont Place,26,KENNEDY,1,99
+"50 Belmont Place, Somerville MA",Belmont Place,50,KENNEDY,1,99
+"74 Belmont Place, Somerville MA",Belmont Place,74,KENNEDY,1,99
+"99 Belmont Place, Somerville MA",Belmont Place,99,KENNEDY,1,99
+"1 Belmont Square, Somerville MA",Belmont Square,1,KENNEDY,1,99
+"26 Belmont Square, Somerville MA",Belmont Square,26,KENNEDY,1,99
+"50 Belmont Square, Somerville MA",Belmont Square,50,KENNEDY,1,99
+"74 Belmont Square, Somerville MA",Belmont Square,74,KENNEDY,1,99
+"99 Belmont Square, Somerville MA",Belmont Square,99,KENNEDY,1,99
+"1 Belmont Street, Somerville MA",Belmont Street,1,KENNEDY,1,199
+"34 Belmont Street, Somerville MA",Belmont Street,34,KENNEDY,1,199
+"67 Belmont Street, Somerville MA",Belmont Street,67,KENNEDY,1,199
+"100 Belmont Street, Somerville MA",Belmont Street,100,KENNEDY,1,199
+"133 Belmont Street, Somerville MA",Belmont Street,133,KENNEDY,1,199
+"166 Belmont Street, Somerville MA",Belmont Street,166,KENNEDY,1,199
+"199 Belmont Street, Somerville MA",Belmont Street,199,KENNEDY,1,199
+"1 Belmont Terrace, Somerville MA",Belmont Terrace,1,KENNEDY,1,99
+"26 Belmont Terrace, Somerville MA",Belmont Terrace,26,KENNEDY,1,99
+"50 Belmont Terrace, Somerville MA",Belmont Terrace,50,KENNEDY,1,99
+"74 Belmont Terrace, Somerville MA",Belmont Terrace,74,KENNEDY,1,99
+"99 Belmont Terrace, Somerville MA",Belmont Terrace,99,KENNEDY,1,99
+"1 Bowers Avenue, Somerville MA",Bowers Avenue,1,KENNEDY,1,99
+"26 Bowers Avenue, Somerville MA",Bowers Avenue,26,KENNEDY,1,99
+"50 Bowers Avenue, Somerville MA",Bowers Avenue,50,KENNEDY,1,99
+"74 Bowers Avenue, Somerville MA",Bowers Avenue,74,KENNEDY,1,99
+"99 Bowers Avenue, Somerville MA",Bowers Avenue,99,KENNEDY,1,99
+"1 Brastow Avenue, Somerville MA",Brastow Avenue,1,KENNEDY,1,99
+"26 Brastow Avenue, Somerville MA",Brastow Avenue,26,KENNEDY,1,99
+"50 Brastow Avenue, Somerville MA",Brastow Avenue,50,KENNEDY,1,99
+"74 Brastow Avenue, Somerville MA",Brastow Avenue,74,KENNEDY,1,99
+"99 Brastow Avenue, Somerville MA",Brastow Avenue,99,KENNEDY,1,99
+"1 Burnside Avenue, Somerville MA",Burnside Avenue,1,KENNEDY,1,99
+"26 Burnside Avenue, Somerville MA",Burnside Avenue,26,KENNEDY,1,99
+"50 Burnside Avenue, Somerville MA",Burnside Avenue,50,KENNEDY,1,99
+"74 Burnside Avenue, Somerville MA",Burnside Avenue,74,KENNEDY,1,99
+"99 Burnside Avenue, Somerville MA",Burnside Avenue,99,KENNEDY,1,99
+"1 Carver Street, Somerville MA",Carver Street,1,KENNEDY,1,99
+"26 Carver Street, Somerville MA",Carver Street,26,KENNEDY,1,99
+"50 Carver Street, Somerville MA",Carver Street,50,KENNEDY,1,99
+"74 Carver Street, Somerville MA",Carver Street,74,KENNEDY,1,99
+"99 Carver Street, Somerville MA",Carver Street,99,KENNEDY,1,99
+"1 Cedar Avenue, Somerville MA",Cedar Avenue,1,KENNEDY,1,99
+"26 Cedar Avenue, Somerville MA",Cedar Avenue,26,KENNEDY,1,99
+"50 Cedar Avenue, Somerville MA",Cedar Avenue,50,KENNEDY,1,99
+"74 Cedar Avenue, Somerville MA",Cedar Avenue,74,KENNEDY,1,99
+"99 Cedar Avenue, Somerville MA",Cedar Avenue,99,KENNEDY,1,99
+"1 Cedar Street Place, Somerville MA",Cedar Street Place,1,KENNEDY,1,99
+"26 Cedar Street Place, Somerville MA",Cedar Street Place,26,KENNEDY,1,99
+"50 Cedar Street Place, Somerville MA",Cedar Street Place,50,KENNEDY,1,99
+"74 Cedar Street Place, Somerville MA",Cedar Street Place,74,KENNEDY,1,99
+"99 Cedar Street Place, Somerville MA",Cedar Street Place,99,KENNEDY,1,99
+"1 Charnwood Road, Somerville MA",Charnwood Road,1,KENNEDY,1,99
+"26 Charnwood Road, Somerville MA",Charnwood Road,26,KENNEDY,1,99
+"50 Charnwood Road, Somerville MA",Charnwood Road,50,KENNEDY,1,99
+"74 Charnwood Road, Somerville MA",Charnwood Road,74,KENNEDY,1,99
+"99 Charnwood Road, Somerville MA",Charnwood Road,99,KENNEDY,1,99
+"1 Cherry Street, Somerville MA",Cherry Street,1,KENNEDY,1,99
+"26 Cherry Street, Somerville MA",Cherry Street,26,KENNEDY,1,99
+"50 Cherry Street, Somerville MA",Cherry Street,50,KENNEDY,1,99
+"74 Cherry Street, Somerville MA",Cherry Street,74,KENNEDY,1,99
+"99 Cherry Street, Somerville MA",Cherry Street,99,KENNEDY,1,99
+"1 Chester Place, Somerville MA",Chester Place,1,KENNEDY,1,99
+"26 Chester Place, Somerville MA",Chester Place,26,KENNEDY,1,99
+"50 Chester Place, Somerville MA",Chester Place,50,KENNEDY,1,99
+"74 Chester Place, Somerville MA",Chester Place,74,KENNEDY,1,99
+"99 Chester Place, Somerville MA",Chester Place,99,KENNEDY,1,99
+"14 Chester Street, Somerville MA",Chester Street,14,KENNEDY,14,99
+"42 Chester Street, Somerville MA",Chester Street,42,KENNEDY,14,99
+"71 Chester Street, Somerville MA",Chester Street,71,KENNEDY,14,99
+"99 Chester Street, Somerville MA",Chester Street,99,KENNEDY,14,99
+"1 Conwell Street, Somerville MA",Conwell Street,1,KENNEDY,1,99
+"26 Conwell Street, Somerville MA",Conwell Street,26,KENNEDY,1,99
+"50 Conwell Street, Somerville MA",Conwell Street,50,KENNEDY,1,99
+"74 Conwell Street, Somerville MA",Conwell Street,74,KENNEDY,1,99
+"99 Conwell Street, Somerville MA",Conwell Street,99,KENNEDY,1,99
+"1 Cottage Avenue, Somerville MA",Cottage Avenue,1,KENNEDY,1,99
+"26 Cottage Avenue, Somerville MA",Cottage Avenue,26,KENNEDY,1,99
+"50 Cottage Avenue, Somerville MA",Cottage Avenue,50,KENNEDY,1,99
+"74 Cottage Avenue, Somerville MA",Cottage Avenue,74,KENNEDY,1,99
+"99 Cottage Avenue, Somerville MA",Cottage Avenue,99,KENNEDY,1,99
+"1 Cottage Circle, Somerville MA",Cottage Circle,1,KENNEDY,1,99
+"26 Cottage Circle, Somerville MA",Cottage Circle,26,KENNEDY,1,99
+"50 Cottage Circle, Somerville MA",Cottage Circle,50,KENNEDY,1,99
+"74 Cottage Circle, Somerville MA",Cottage Circle,74,KENNEDY,1,99
+"99 Cottage Circle, Somerville MA",Cottage Circle,99,KENNEDY,1,99
+"1 Craigie Street, Somerville MA",Craigie Street,1,KENNEDY,1,99
+"26 Craigie Street, Somerville MA",Craigie Street,26,KENNEDY,1,99
+"50 Craigie Street, Somerville MA",Craigie Street,50,KENNEDY,1,99
+"74 Craigie Street, Somerville MA",Craigie Street,74,KENNEDY,1,99
+"99 Craigie Street, Somerville MA",Craigie Street,99,KENNEDY,1,99
+"1 Craigie Terrace, Somerville MA",Craigie Terrace,1,KENNEDY,1,99
+"26 Craigie Terrace, Somerville MA",Craigie Terrace,26,KENNEDY,1,99
+"50 Craigie Terrace, Somerville MA",Craigie Terrace,50,KENNEDY,1,99
+"74 Craigie Terrace, Somerville MA",Craigie Terrace,74,KENNEDY,1,99
+"99 Craigie Terrace, Somerville MA",Craigie Terrace,99,KENNEDY,1,99
+"1 Crocker Street, Somerville MA",Crocker Street,1,KENNEDY,1,99
+"26 Crocker Street, Somerville MA",Crocker Street,26,KENNEDY,1,99
+"50 Crocker Street, Somerville MA",Crocker Street,50,KENNEDY,1,99
+"74 Crocker Street, Somerville MA",Crocker Street,74,KENNEDY,1,99
+"99 Crocker Street, Somerville MA",Crocker Street,99,KENNEDY,1,99
+"1 Crown Street, Somerville MA",Crown Street,1,KENNEDY,1,99
+"26 Crown Street, Somerville MA",Crown Street,26,KENNEDY,1,99
+"50 Crown Street, Somerville MA",Crown Street,50,KENNEDY,1,99
+"74 Crown Street, Somerville MA",Crown Street,74,KENNEDY,1,99
+"99 Crown Street, Somerville MA",Crown Street,99,KENNEDY,1,99
+"1 Cutter Avenue, Somerville MA",Cutter Avenue,1,KENNEDY,1,99
+"26 Cutter Avenue, Somerville MA",Cutter Avenue,26,KENNEDY,1,99
+"50 Cutter Avenue, Somerville MA",Cutter Avenue,50,KENNEDY,1,99
+"74 Cutter Avenue, Somerville MA",Cutter Avenue,74,KENNEDY,1,99
+"99 Cutter Avenue, Somerville MA",Cutter Avenue,99,KENNEDY,1,99
+"1 Cutter Park, Somerville MA",Cutter Park,1,KENNEDY,1,99
+"26 Cutter Park, Somerville MA",Cutter Park,26,KENNEDY,1,99
+"50 Cutter Park, Somerville MA",Cutter Park,50,KENNEDY,1,99
+"74 Cutter Park, Somerville MA",Cutter Park,74,KENNEDY,1,99
+"99 Cutter Park, Somerville MA",Cutter Park,99,KENNEDY,1,99
+"1 Dresden Circle, Somerville MA",Dresden Circle,1,KENNEDY,1,99
+"26 Dresden Circle, Somerville MA",Dresden Circle,26,KENNEDY,1,99
+"50 Dresden Circle, Somerville MA",Dresden Circle,50,KENNEDY,1,99
+"74 Dresden Circle, Somerville MA",Dresden Circle,74,KENNEDY,1,99
+"99 Dresden Circle, Somerville MA",Dresden Circle,99,KENNEDY,1,99
+"1 Eastman Road, Somerville MA",Eastman Road,1,KENNEDY,1,99
+"26 Eastman Road, Somerville MA",Eastman Road,26,KENNEDY,1,99
+"50 Eastman Road, Somerville MA",Eastman Road,50,KENNEDY,1,99
+"74 Eastman Road, Somerville MA",Eastman Road,74,KENNEDY,1,99
+"99 Eastman Road, Somerville MA",Eastman Road,99,KENNEDY,1,99
+"1 Elm Place, Somerville MA",Elm Place,1,KENNEDY,1,99
+"26 Elm Place, Somerville MA",Elm Place,26,KENNEDY,1,99
+"50 Elm Place, Somerville MA",Elm Place,50,KENNEDY,1,99
+"74 Elm Place, Somerville MA",Elm Place,74,KENNEDY,1,99
+"99 Elm Place, Somerville MA",Elm Place,99,KENNEDY,1,99
+"1 Elm Street, Somerville MA",Elm Street,1,KENNEDY,1,299
+"51 Elm Street, Somerville MA",Elm Street,51,KENNEDY,1,299
+"100 Elm Street, Somerville MA",Elm Street,100,KENNEDY,1,299
+"150 Elm Street, Somerville MA",Elm Street,150,KENNEDY,1,299
+"200 Elm Street, Somerville MA",Elm Street,200,KENNEDY,1,299
+"249 Elm Street, Somerville MA",Elm Street,249,KENNEDY,1,299
+"299 Elm Street, Somerville MA",Elm Street,299,KENNEDY,1,299
+"1 Elston Street, Somerville MA",Elston Street,1,KENNEDY,1,99
+"26 Elston Street, Somerville MA",Elston Street,26,KENNEDY,1,99
+"50 Elston Street, Somerville MA",Elston Street,50,KENNEDY,1,99
+"74 Elston Street, Somerville MA",Elston Street,74,KENNEDY,1,99
+"99 Elston Street, Somerville MA",Elston Street,99,KENNEDY,1,99
+"72 Eustis Street, Somerville MA",Eustis Street,72,KENNEDY,72,99
+"99 Eustis Street, Somerville MA",Eustis Street,99,KENNEDY,72,99
+"1 Evergreen Square, Somerville MA",Evergreen Square,1,KENNEDY,1,99
+"26 Evergreen Square, Somerville MA",Evergreen Square,26,KENNEDY,1,99
+"50 Evergreen Square, Somerville MA",Evergreen Square,50,KENNEDY,1,99
+"74 Evergreen Square, Somerville MA",Evergreen Square,74,KENNEDY,1,99
+"99 Evergreen Square, Somerville MA",Evergreen Square,99,KENNEDY,1,99
+"1 Fairlee Street, Somerville MA",Fairlee Street,1,KENNEDY,1,99
+"26 Fairlee Street, Somerville MA",Fairlee Street,26,KENNEDY,1,99
+"50 Fairlee Street, Somerville MA",Fairlee Street,50,KENNEDY,1,99
+"74 Fairlee Street, Somerville MA",Fairlee Street,74,KENNEDY,1,99
+"99 Fairlee Street, Somerville MA",Fairlee Street,99,KENNEDY,1,99
+"28 Forest Street, Somerville MA",Forest Street,28,KENNEDY,28,99
+"52 Forest Street, Somerville MA",Forest Street,52,KENNEDY,28,99
+"75 Forest Street, Somerville MA",Forest Street,75,KENNEDY,28,99
+"99 Forest Street, Somerville MA",Forest Street,99,KENNEDY,28,99
+"1 Francis Street, Somerville MA",Francis Street,1,KENNEDY,1,99
+"26 Francis Street, Somerville MA",Francis Street,26,KENNEDY,1,99
+"50 Francis Street, Somerville MA",Francis Street,50,KENNEDY,1,99
+"74 Francis Street, Somerville MA",Francis Street,74,KENNEDY,1,99
+"99 Francis Street, Somerville MA",Francis Street,99,KENNEDY,1,99
+"1 Garden Court, Somerville MA",Garden Court,1,KENNEDY,1,99
+"26 Garden Court, Somerville MA",Garden Court,26,KENNEDY,1,99
+"50 Garden Court, Somerville MA",Garden Court,50,KENNEDY,1,99
+"74 Garden Court, Somerville MA",Garden Court,74,KENNEDY,1,99
+"99 Garden Court, Somerville MA",Garden Court,99,KENNEDY,1,99
+"1 Gilson Terrace, Somerville MA",Gilson Terrace,1,KENNEDY,1,99
+"26 Gilson Terrace, Somerville MA",Gilson Terrace,26,KENNEDY,1,99
+"50 Gilson Terrace, Somerville MA",Gilson Terrace,50,KENNEDY,1,99
+"74 Gilson Terrace, Somerville MA",Gilson Terrace,74,KENNEDY,1,99
+"99 Gilson Terrace, Somerville MA",Gilson Terrace,99,KENNEDY,1,99
+"1 Gould Avenue, Somerville MA",Gould Avenue,1,KENNEDY,1,99
+"26 Gould Avenue, Somerville MA",Gould Avenue,26,KENNEDY,1,99
+"50 Gould Avenue, Somerville MA",Gould Avenue,50,KENNEDY,1,99
+"74 Gould Avenue, Somerville MA",Gould Avenue,74,KENNEDY,1,99
+"99 Gould Avenue, Somerville MA",Gould Avenue,99,KENNEDY,1,99
+"1 Greenwood Terrace, Somerville MA",Greenwood Terrace,1,KENNEDY,1,99
+"26 Greenwood Terrace, Somerville MA",Greenwood Terrace,26,KENNEDY,1,99
+"50 Greenwood Terrace, Somerville MA",Greenwood Terrace,50,KENNEDY,1,99
+"74 Greenwood Terrace, Somerville MA",Greenwood Terrace,74,KENNEDY,1,99
+"99 Greenwood Terrace, Somerville MA",Greenwood Terrace,99,KENNEDY,1,99
+"1 Gussie Terrace, Somerville MA",Gussie Terrace,1,KENNEDY,1,99
+"26 Gussie Terrace, Somerville MA",Gussie Terrace,26,KENNEDY,1,99
+"50 Gussie Terrace, Somerville MA",Gussie Terrace,50,KENNEDY,1,99
+"74 Gussie Terrace, Somerville MA",Gussie Terrace,74,KENNEDY,1,99
+"99 Gussie Terrace, Somerville MA",Gussie Terrace,99,KENNEDY,1,99
+"1 Hall Street, Somerville MA",Hall Street,1,KENNEDY,1,99
+"26 Hall Street, Somerville MA",Hall Street,26,KENNEDY,1,99
+"50 Hall Street, Somerville MA",Hall Street,50,KENNEDY,1,99
+"74 Hall Street, Somerville MA",Hall Street,74,KENNEDY,1,99
+"99 Hall Street, Somerville MA",Hall Street,99,KENNEDY,1,99
+"1 Harvard Place, Somerville MA",Harvard Place,1,KENNEDY,1,99
+"26 Harvard Place, Somerville MA",Harvard Place,26,KENNEDY,1,99
+"50 Harvard Place, Somerville MA",Harvard Place,50,KENNEDY,1,99
+"74 Harvard Place, Somerville MA",Harvard Place,74,KENNEDY,1,99
+"99 Harvard Place, Somerville MA",Harvard Place,99,KENNEDY,1,99
+"1 Harvard Street, Somerville MA",Harvard Street,1,KENNEDY,1,99
+"26 Harvard Street, Somerville MA",Harvard Street,26,KENNEDY,1,99
+"50 Harvard Street, Somerville MA",Harvard Street,50,KENNEDY,1,99
+"74 Harvard Street, Somerville MA",Harvard Street,74,KENNEDY,1,99
+"99 Harvard Street, Somerville MA",Harvard Street,99,KENNEDY,1,99
+"1 Hawthorne Street, Somerville MA",Hawthorne Street,1,KENNEDY,1,99
+"26 Hawthorne Street, Somerville MA",Hawthorne Street,26,KENNEDY,1,99
+"50 Hawthorne Street, Somerville MA",Hawthorne Street,50,KENNEDY,1,99
+"74 Hawthorne Street, Somerville MA",Hawthorne Street,74,KENNEDY,1,99
+"99 Hawthorne Street, Somerville MA",Hawthorne Street,99,KENNEDY,1,99
+"1 Hayden Terrace, Somerville MA",Hayden Terrace,1,KENNEDY,1,99
+"26 Hayden Terrace, Somerville MA",Hayden Terrace,26,KENNEDY,1,99
+"50 Hayden Terrace, Somerville MA",Hayden Terrace,50,KENNEDY,1,99
+"74 Hayden Terrace, Somerville MA",Hayden Terrace,74,KENNEDY,1,99
+"99 Hayden Terrace, Somerville MA",Hayden Terrace,99,KENNEDY,1,99
+"1 Henry Avenue, Somerville MA",Henry Avenue,1,KENNEDY,1,99
+"26 Henry Avenue, Somerville MA",Henry Avenue,26,KENNEDY,1,99
+"50 Henry Avenue, Somerville MA",Henry Avenue,50,KENNEDY,1,99
+"74 Henry Avenue, Somerville MA",Henry Avenue,74,KENNEDY,1,99
+"99 Henry Avenue, Somerville MA",Henry Avenue,99,KENNEDY,1,99
+"1 Hillside Circle, Somerville MA",Hillside Circle,1,KENNEDY,1,99
+"26 Hillside Circle, Somerville MA",Hillside Circle,26,KENNEDY,1,99
+"50 Hillside Circle, Somerville MA",Hillside Circle,50,KENNEDY,1,99
+"74 Hillside Circle, Somerville MA",Hillside Circle,74,KENNEDY,1,99
+"99 Hillside Circle, Somerville MA",Hillside Circle,99,KENNEDY,1,99
+"1 Holyoke Road, Somerville MA",Holyoke Road,1,KENNEDY,1,99
+"26 Holyoke Road, Somerville MA",Holyoke Road,26,KENNEDY,1,99
+"50 Holyoke Road, Somerville MA",Holyoke Road,50,KENNEDY,1,99
+"74 Holyoke Road, Somerville MA",Holyoke Road,74,KENNEDY,1,99
+"99 Holyoke Road, Somerville MA",Holyoke Road,99,KENNEDY,1,99
+"1 Ibbetson Street, Somerville MA",Ibbetson Street,1,KENNEDY,1,99
+"26 Ibbetson Street, Somerville MA",Ibbetson Street,26,KENNEDY,1,99
+"50 Ibbetson Street, Somerville MA",Ibbetson Street,50,KENNEDY,1,99
+"74 Ibbetson Street, Somerville MA",Ibbetson Street,74,KENNEDY,1,99
+"99 Ibbetson Street, Somerville MA",Ibbetson Street,99,KENNEDY,1,99
+"1 Kent Court, Somerville MA",Kent Court,1,KENNEDY,1,99
+"26 Kent Court, Somerville MA",Kent Court,26,KENNEDY,1,99
+"50 Kent Court, Somerville MA",Kent Court,50,KENNEDY,1,99
+"74 Kent Court, Somerville MA",Kent Court,74,KENNEDY,1,99
+"99 Kent Court, Somerville MA",Kent Court,99,KENNEDY,1,99
+"1 Kent Street, Somerville MA",Kent Street,1,KENNEDY,1,99
+"26 Kent Street, Somerville MA",Kent Street,26,KENNEDY,1,99
+"50 Kent Street, Somerville MA",Kent Street,50,KENNEDY,1,99
+"74 Kent Street, Somerville MA",Kent Street,74,KENNEDY,1,99
+"99 Kent Street, Somerville MA",Kent Street,99,KENNEDY,1,99
+"3 Kimball Street, Somerville MA",Kimball Street,3,KENNEDY,3,99
+"27 Kimball Street, Somerville MA",Kimball Street,27,KENNEDY,3,99
+"51 Kimball Street, Somerville MA",Kimball Street,51,KENNEDY,3,99
+"75 Kimball Street, Somerville MA",Kimball Street,75,KENNEDY,3,99
+"99 Kimball Street, Somerville MA",Kimball Street,99,KENNEDY,3,99
+"1 Lesley Avenue, Somerville MA",Lesley Avenue,1,KENNEDY,1,99
+"26 Lesley Avenue, Somerville MA",Lesley Avenue,26,KENNEDY,1,99
+"50 Lesley Avenue, Somerville MA",Lesley Avenue,50,KENNEDY,1,99
+"74 Lesley Avenue, Somerville MA",Lesley Avenue,74,KENNEDY,1,99
+"99 Lesley Avenue, Somerville MA",Lesley Avenue,99,KENNEDY,1,99
+"1 Lexington Avenue, Somerville MA",Lexington Avenue,1,KENNEDY,1,199
+"34 Lexington Avenue, Somerville MA",Lexington Avenue,34,KENNEDY,1,199
+"67 Lexington Avenue, Somerville MA",Lexington Avenue,67,KENNEDY,1,199
+"100 Lexington Avenue, Somerville MA",Lexington Avenue,100,KENNEDY,1,199
+"133 Lexington Avenue, Somerville MA",Lexington Avenue,133,KENNEDY,1,199
+"166 Lexington Avenue, Somerville MA",Lexington Avenue,166,KENNEDY,1,199
+"199 Lexington Avenue, Somerville MA",Lexington Avenue,199,KENNEDY,1,199
+"1 Linden Avenue, Somerville MA",Linden Avenue,1,KENNEDY,1,99
+"26 Linden Avenue, Somerville MA",Linden Avenue,26,KENNEDY,1,99
+"50 Linden Avenue, Somerville MA",Linden Avenue,50,KENNEDY,1,99
+"74 Linden Avenue, Somerville MA",Linden Avenue,74,KENNEDY,1,99
+"99 Linden Avenue, Somerville MA",Linden Avenue,99,KENNEDY,1,99
+"1 Linden Circle, Somerville MA",Linden Circle,1,KENNEDY,1,99
+"26 Linden Circle, Somerville MA",Linden Circle,26,KENNEDY,1,99
+"50 Linden Circle, Somerville MA",Linden Circle,50,KENNEDY,1,99
+"74 Linden Circle, Somerville MA",Linden Circle,74,KENNEDY,1,99
+"99 Linden Circle, Somerville MA",Linden Circle,99,KENNEDY,1,99
+"1 Linden Place, Somerville MA",Linden Place,1,KENNEDY,1,99
+"26 Linden Place, Somerville MA",Linden Place,26,KENNEDY,1,99
+"50 Linden Place, Somerville MA",Linden Place,50,KENNEDY,1,99
+"74 Linden Place, Somerville MA",Linden Place,74,KENNEDY,1,99
+"99 Linden Place, Somerville MA",Linden Place,99,KENNEDY,1,99
+"1 Lowell Circle, Somerville MA",Lowell Circle,1,KENNEDY,1,99
+"26 Lowell Circle, Somerville MA",Lowell Circle,26,KENNEDY,1,99
+"50 Lowell Circle, Somerville MA",Lowell Circle,50,KENNEDY,1,99
+"74 Lowell Circle, Somerville MA",Lowell Circle,74,KENNEDY,1,99
+"99 Lowell Circle, Somerville MA",Lowell Circle,99,KENNEDY,1,99
+"1 Mardell Circle, Somerville MA",Mardell Circle,1,KENNEDY,1,99
+"26 Mardell Circle, Somerville MA",Mardell Circle,26,KENNEDY,1,99
+"50 Mardell Circle, Somerville MA",Mardell Circle,50,KENNEDY,1,99
+"74 Mardell Circle, Somerville MA",Mardell Circle,74,KENNEDY,1,99
+"99 Mardell Circle, Somerville MA",Mardell Circle,99,KENNEDY,1,99
+"1 Miller Street, Somerville MA",Miller Street,1,KENNEDY,1,99
+"26 Miller Street, Somerville MA",Miller Street,26,KENNEDY,1,99
+"50 Miller Street, Somerville MA",Miller Street,50,KENNEDY,1,99
+"74 Miller Street, Somerville MA",Miller Street,74,KENNEDY,1,99
+"99 Miller Street, Somerville MA",Miller Street,99,KENNEDY,1,99
+"1 Mossland Street, Somerville MA",Mossland Street,1,KENNEDY,1,99
+"26 Mossland Street, Somerville MA",Mossland Street,26,KENNEDY,1,99
+"50 Mossland Street, Somerville MA",Mossland Street,50,KENNEDY,1,99
+"74 Mossland Street, Somerville MA",Mossland Street,74,KENNEDY,1,99
+"99 Mossland Street, Somerville MA",Mossland Street,99,KENNEDY,1,99
+"1 Mountain Avenue, Somerville MA",Mountain Avenue,1,KENNEDY,1,99
+"26 Mountain Avenue, Somerville MA",Mountain Avenue,26,KENNEDY,1,99
+"50 Mountain Avenue, Somerville MA",Mountain Avenue,50,KENNEDY,1,99
+"74 Mountain Avenue, Somerville MA",Mountain Avenue,74,KENNEDY,1,99
+"99 Mountain Avenue, Somerville MA",Mountain Avenue,99,KENNEDY,1,99
+"113 Museum Street, Somerville MA",Museum Street,113,KENNEDY,113,199
+"142 Museum Street, Somerville MA",Museum Street,142,KENNEDY,113,199
+"170 Museum Street, Somerville MA",Museum Street,170,KENNEDY,113,199
+"199 Museum Street, Somerville MA",Museum Street,199,KENNEDY,113,199
+"1 Oak Terrace, Somerville MA",Oak Terrace,1,KENNEDY,1,99
+"26 Oak Terrace, Somerville MA",Oak Terrace,26,KENNEDY,1,99
+"50 Oak Terrace, Somerville MA",Oak Terrace,50,KENNEDY,1,99
+"74 Oak Terrace, Somerville MA",Oak Terrace,74,KENNEDY,1,99
+"99 Oak Terrace, Somerville MA",Oak Terrace,99,KENNEDY,1,99
+"1 Olive Avenue, Somerville MA",Olive Avenue,1,KENNEDY,1,99
+"26 Olive Avenue, Somerville MA",Olive Avenue,26,KENNEDY,1,99
+"50 Olive Avenue, Somerville MA",Olive Avenue,50,KENNEDY,1,99
+"74 Olive Avenue, Somerville MA",Olive Avenue,74,KENNEDY,1,99
+"99 Olive Avenue, Somerville MA",Olive Avenue,99,KENNEDY,1,99
+"85 Orchard Street, Somerville MA",Orchard Street,85,KENNEDY,85,199
+"114 Orchard Street, Somerville MA",Orchard Street,114,KENNEDY,85,199
+"142 Orchard Street, Somerville MA",Orchard Street,142,KENNEDY,85,199
+"170 Orchard Street, Somerville MA",Orchard Street,170,KENNEDY,85,199
+"199 Orchard Street, Somerville MA",Orchard Street,199,KENNEDY,85,199
+"1 Parker Place, Somerville MA",Parker Place,1,KENNEDY,1,99
+"26 Parker Place, Somerville MA",Parker Place,26,KENNEDY,1,99
+"50 Parker Place, Somerville MA",Parker Place,50,KENNEDY,1,99
+"74 Parker Place, Somerville MA",Parker Place,74,KENNEDY,1,99
+"99 Parker Place, Somerville MA",Parker Place,99,KENNEDY,1,99
+"1 Porter Avenue, Somerville MA",Porter Avenue,1,KENNEDY,1,99
+"26 Porter Avenue, Somerville MA",Porter Avenue,26,KENNEDY,1,99
+"50 Porter Avenue, Somerville MA",Porter Avenue,50,KENNEDY,1,99
+"74 Porter Avenue, Somerville MA",Porter Avenue,74,KENNEDY,1,99
+"99 Porter Avenue, Somerville MA",Porter Avenue,99,KENNEDY,1,99
+"1 Porter Street, Somerville MA",Porter Street,1,KENNEDY,1,199
+"34 Porter Street, Somerville MA",Porter Street,34,KENNEDY,1,199
+"67 Porter Street, Somerville MA",Porter Street,67,KENNEDY,1,199
+"100 Porter Street, Somerville MA",Porter Street,100,KENNEDY,1,199
+"133 Porter Street, Somerville MA",Porter Street,133,KENNEDY,1,199
+"166 Porter Street, Somerville MA",Porter Street,166,KENNEDY,1,199
+"199 Porter Street, Somerville MA",Porter Street,199,KENNEDY,1,199
+"78 Prentiss Street, Somerville MA",Prentiss Street,78,KENNEDY,78,99
+"99 Prentiss Street, Somerville MA",Prentiss Street,99,KENNEDY,78,99
+"57 Roseland Street, Somerville MA",Roseland Street,57,KENNEDY,57,99
+"78 Roseland Street, Somerville MA",Roseland Street,78,KENNEDY,57,99
+"99 Roseland Street, Somerville MA",Roseland Street,99,KENNEDY,57,99
+"14 Russell Street, Somerville MA",Russell Street,14,KENNEDY,14,99
+"42 Russell Street, Somerville MA",Russell Street,42,KENNEDY,14,99
+"71 Russell Street, Somerville MA",Russell Street,71,KENNEDY,14,99
+"99 Russell Street, Somerville MA",Russell Street,99,KENNEDY,14,99
+"76 Sacramento Street, Somerville MA",Sacramento Street,76,KENNEDY,76,199
+"101 Sacramento Street, Somerville MA",Sacramento Street,101,KENNEDY,76,199
+"125 Sacramento Street, Somerville MA",Sacramento Street,125,KENNEDY,76,199
+"150 Sacramento Street, Somerville MA",Sacramento Street,150,KENNEDY,76,199
+"174 Sacramento Street, Somerville MA",Sacramento Street,174,KENNEDY,76,199
+"199 Sacramento Street, Somerville MA",Sacramento Street,199,KENNEDY,76,199
+"1 Sartwell Avenue, Somerville MA",Sartwell Avenue,1,KENNEDY,1,99
+"26 Sartwell Avenue, Somerville MA",Sartwell Avenue,26,KENNEDY,1,99
+"50 Sartwell Avenue, Somerville MA",Sartwell Avenue,50,KENNEDY,1,99
+"74 Sartwell Avenue, Somerville MA",Sartwell Avenue,74,KENNEDY,1,99
+"99 Sartwell Avenue, Somerville MA",Sartwell Avenue,99,KENNEDY,1,99
+"1 Silvey Place, Somerville MA",Silvey Place,1,KENNEDY,1,99
+"26 Silvey Place, Somerville MA",Silvey Place,26,KENNEDY,1,99
+"50 Silvey Place, Somerville MA",Silvey Place,50,KENNEDY,1,99
+"74 Silvey Place, Somerville MA",Silvey Place,74,KENNEDY,1,99
+"99 Silvey Place, Somerville MA",Silvey Place,99,KENNEDY,1,99
+"1 Spencer Avenue, Somerville MA",Spencer Avenue,1,KENNEDY,1,99
+"26 Spencer Avenue, Somerville MA",Spencer Avenue,26,KENNEDY,1,99
+"50 Spencer Avenue, Somerville MA",Spencer Avenue,50,KENNEDY,1,99
+"74 Spencer Avenue, Somerville MA",Spencer Avenue,74,KENNEDY,1,99
+"99 Spencer Avenue, Somerville MA",Spencer Avenue,99,KENNEDY,1,99
+"1 Spring Hill Terrace, Somerville MA",Spring Hill Terrace,1,KENNEDY,1,99
+"26 Spring Hill Terrace, Somerville MA",Spring Hill Terrace,26,KENNEDY,1,99
+"50 Spring Hill Terrace, Somerville MA",Spring Hill Terrace,50,KENNEDY,1,99
+"74 Spring Hill Terrace, Somerville MA",Spring Hill Terrace,74,KENNEDY,1,99
+"99 Spring Hill Terrace, Somerville MA",Spring Hill Terrace,99,KENNEDY,1,99
+"1 Spring Street, Somerville MA",Spring Street,1,KENNEDY,1,99
+"26 Spring Street, Somerville MA",Spring Street,26,KENNEDY,1,99
+"50 Spring Street, Somerville MA",Spring Street,50,KENNEDY,1,99
+"74 Spring Street, Somerville MA",Spring Street,74,KENNEDY,1,99
+"99 Spring Street, Somerville MA",Spring Street,99,KENNEDY,1,99
+"1 Stanford Terrace, Somerville MA",Stanford Terrace,1,KENNEDY,1,99
+"26 Stanford Terrace, Somerville MA",Stanford Terrace,26,KENNEDY,1,99
+"50 Stanford Terrace, Somerville MA",Stanford Terrace,50,KENNEDY,1,99
+"74 Stanford Terrace, Somerville MA",Stanford Terrace,74,KENNEDY,1,99
+"99 Stanford Terrace, Somerville MA",Stanford Terrace,99,KENNEDY,1,99
+"1 Steeves Circle, Somerville MA",Steeves Circle,1,KENNEDY,1,99
+"26 Steeves Circle, Somerville MA",Steeves Circle,26,KENNEDY,1,99
+"50 Steeves Circle, Somerville MA",Steeves Circle,50,KENNEDY,1,99
+"74 Steeves Circle, Somerville MA",Steeves Circle,74,KENNEDY,1,99
+"99 Steeves Circle, Somerville MA",Steeves Circle,99,KENNEDY,1,99
+"1 Tower Street, Somerville MA",Tower Street,1,KENNEDY,1,99
+"26 Tower Street, Somerville MA",Tower Street,26,KENNEDY,1,99
+"50 Tower Street, Somerville MA",Tower Street,50,KENNEDY,1,99
+"74 Tower Street, Somerville MA",Tower Street,74,KENNEDY,1,99
+"99 Tower Street, Somerville MA",Tower Street,99,KENNEDY,1,99
+"1 Wade Court, Somerville MA",Wade Court,1,KENNEDY,1,99
+"26 Wade Court, Somerville MA",Wade Court,26,KENNEDY,1,99
+"50 Wade Court, Somerville MA",Wade Court,50,KENNEDY,1,99
+"74 Wade Court, Somerville MA",Wade Court,74,KENNEDY,1,99
+"99 Wade Court, Somerville MA",Wade Court,99,KENNEDY,1,99
+"1 West Street, Somerville MA",West Street,1,KENNEDY,1,99
+"26 West Street, Somerville MA",West Street,26,KENNEDY,1,99
+"50 West Street, Somerville MA",West Street,50,KENNEDY,1,99
+"74 West Street, Somerville MA",West Street,74,KENNEDY,1,99
+"99 West Street, Somerville MA",West Street,99,KENNEDY,1,99
+"1 Whipple Street, Somerville MA",Whipple Street,1,KENNEDY,1,99
+"26 Whipple Street, Somerville MA",Whipple Street,26,KENNEDY,1,99
+"50 Whipple Street, Somerville MA",Whipple Street,50,KENNEDY,1,99
+"74 Whipple Street, Somerville MA",Whipple Street,74,KENNEDY,1,99
+"99 Whipple Street, Somerville MA",Whipple Street,99,KENNEDY,1,99
+"32 White Street, Somerville MA",White Street,32,KENNEDY,32,99
+"54 White Street, Somerville MA",White Street,54,KENNEDY,32,99
+"77 White Street, Somerville MA",White Street,77,KENNEDY,32,99
+"99 White Street, Somerville MA",White Street,99,KENNEDY,32,99
+"1 White Street Place, Somerville MA",White Street Place,1,KENNEDY,1,99
+"26 White Street Place, Somerville MA",White Street Place,26,KENNEDY,1,99
+"50 White Street Place, Somerville MA",White Street Place,50,KENNEDY,1,99
+"74 White Street Place, Somerville MA",White Street Place,74,KENNEDY,1,99
+"99 White Street Place, Somerville MA",White Street Place,99,KENNEDY,1,99
+"1 Williams Court, Somerville MA",Williams Court,1,KENNEDY,1,99
+"26 Williams Court, Somerville MA",Williams Court,26,KENNEDY,1,99
+"50 Williams Court, Somerville MA",Williams Court,50,KENNEDY,1,99
+"74 Williams Court, Somerville MA",Williams Court,74,KENNEDY,1,99
+"99 Williams Court, Somerville MA",Williams Court,99,KENNEDY,1,99
+"1 Windom Street, Somerville MA",Windom Street,1,KENNEDY,1,99
+"26 Windom Street, Somerville MA",Windom Street,26,KENNEDY,1,99
+"50 Windom Street, Somerville MA",Windom Street,50,KENNEDY,1,99
+"74 Windom Street, Somerville MA",Windom Street,74,KENNEDY,1,99
+"99 Windom Street, Somerville MA",Windom Street,99,KENNEDY,1,99
+"1 Windsor Road, Somerville MA",Windsor Road,1,KENNEDY,1,99
+"26 Windsor Road, Somerville MA",Windsor Road,26,KENNEDY,1,99
+"50 Windsor Road, Somerville MA",Windsor Road,50,KENNEDY,1,99
+"74 Windsor Road, Somerville MA",Windsor Road,74,KENNEDY,1,99
+"99 Windsor Road, Somerville MA",Windsor Road,99,KENNEDY,1,99

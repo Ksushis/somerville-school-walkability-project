@@ -1,0 +1,85 @@
+<div style="display: flex; gap: 16px; margin-bottom: 1.25rem; flex-wrap: wrap;">
+  <div style="background: var(--color-background-secondary); border-radius: var(--border-radius-md); padding: 1rem; flex: 1; min-width: 140px;">
+    <p style="font-size: 13px; color: var(--color-text-secondary); margin: 0 0 4px;">First 3 shifted</p>
+    <p style="font-size: 24px; font-weight: 500; margin: 0; color: var(--color-text-success);">-5.3 min avg</p>
+  </div>
+  <div style="background: var(--color-background-secondary); border-radius: var(--border-radius-md); padding: 1rem; flex: 1; min-width: 140px;">
+    <p style="font-size: 13px; color: var(--color-text-secondary); margin: 0 0 4px;">At 50 shifted</p>
+    <p style="font-size: 24px; font-weight: 500; margin: 0;">+8.5 min avg</p>
+  </div>
+  <div style="background: var(--color-background-secondary); border-radius: var(--border-radius-md); padding: 1rem; flex: 1; min-width: 140px;">
+    <p style="font-size: 13px; color: var(--color-text-secondary); margin: 0 0 4px;">At 100 shifted</p>
+    <p style="font-size: 24px; font-weight: 500; margin: 0; color: var(--color-text-danger);">+13.9 min avg</p>
+  </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 16px; margin-bottom: 8px; font-size: 12px; color: var(--color-text-secondary);">
+  <span style="display: flex; align-items: center; gap: 4px;"><span style="width: 10px; height: 2px; background: #378ADD; display: inline-block;"></span>Average added walk time</span>
+  <span style="display: flex; align-items: center; gap: 4px;"><span style="width: 10px; height: 2px; background: #D85A30; display: inline-block; border-top: 2px dashed #D85A30; background: none;"></span>Worst-case (max) added walk time</span>
+</div>
+
+<div style="position: relative; width: 100%; height: 320px;">
+  <canvas id="shiftChart" role="img" aria-label="Line chart showing additional walk minutes as more Kennedy addresses are shifted to Winter Hill. The first 3 shifted addresses actually improve, averaging negative 5.3 minutes. By 50 shifted addresses average degradation is positive 8.5 minutes with a worst case of 15 minutes. By 100 shifted addresses average degradation is positive 13.9 minutes with a worst case of 24 minutes.">Cost curve: shifting 3 addresses improves walks by 5.3 min average; shifting 50 costs 8.5 min average (15 min worst case); shifting 100 costs 13.9 min average (24 min worst case).</canvas>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script>
+const curveData = [{"n": 1, "avg": -7.0, "max": -7}, {"n": 2, "avg": -6.0, "max": -5}, {"n": 3, "avg": -5.33, "max": -4}, {"n": 4, "avg": -3.75, "max": 1}, {"n": 5, "avg": -2.6, "max": 2}, {"n": 6, "avg": -1.67, "max": 2}, {"n": 7, "avg": -0.86, "max": 3}, {"n": 8, "avg": -0.13, "max": 3}, {"n": 9, "avg": 0.56, "max": 4}, {"n": 10, "avg": 0.4, "max": 5}, {"n": 15, "avg": 2.93, "max": 7}, {"n": 20, "avg": 3.5, "max": 8}, {"n": 25, "avg": 4.36, "max": 9}, {"n": 30, "avg": 5.5, "max": 11}, {"n": 35, "avg": 6.31, "max": 12}, {"n": 40, "avg": 7.08, "max": 13}, {"n": 45, "avg": 7.78, "max": 14}, {"n": 50, "avg": 8.54, "max": 15}, {"n": 55, "avg": 9.13, "max": 16}, {"n": 60, "avg": 9.8, "max": 17}, {"n": 65, "avg": 10.35, "max": 18}, {"n": 70, "avg": 10.87, "max": 18}, {"n": 75, "avg": 11.41, "max": 19}, {"n": 80, "avg": 11.91, "max": 20}, {"n": 85, "avg": 12.4, "max": 21}, {"n": 90, "avg": 12.92, "max": 22}, {"n": 95, "avg": 13.4, "max": 23}, {"n": 100, "avg": 13.89, "max": 24}, {"n": 107, "avg": 14.65, "max": 27}];
+
+const labels = curveData.map(d => d.n);
+const avgData = curveData.map(d => d.avg);
+const maxData = curveData.map(d => d.max);
+
+const isDark = matchMedia('(prefers-color-scheme: dark)').matches;
+const gridColor = isDark ? 'rgba(255,255,255,0.08)' : 'rgba(0,0,0,0.06)';
+const textColor = isDark ? '#B4B2A9' : '#5F5E5A';
+
+new Chart(document.getElementById('shiftChart'), {
+  type: 'line',
+  data: {
+    labels: labels,
+    datasets: [
+      {
+        label: 'Average added walk time',
+        data: avgData,
+        borderColor: '#378ADD',
+        backgroundColor: 'rgba(55,138,221,0.08)',
+        borderWidth: 2,
+        pointRadius: 0,
+        fill: true,
+        tension: 0.15
+      },
+      {
+        label: 'Worst-case added walk time',
+        data: maxData,
+        borderColor: '#D85A30',
+        borderWidth: 2,
+        borderDash: [6, 4],
+        pointRadius: 0,
+        fill: false,
+        tension: 0.15
+      }
+    ]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: { legend: { display: false } },
+    scales: {
+      x: {
+        title: { display: true, text: 'Kennedy addresses shifted to Winter Hill', color: textColor, font: { size: 12 } },
+        grid: { color: gridColor },
+        ticks: { color: textColor, font: { size: 11 }, maxTicksLimit: 8 }
+      },
+      y: {
+        title: { display: true, text: 'Added walk minutes vs. staying at Kennedy', color: textColor, font: { size: 12 } },
+        grid: { color: gridColor },
+        ticks: {
+          color: textColor, font: { size: 11 },
+          callback: (v) => (v > 0 ? '+' : '') + v
+        }
+      }
+    }
+  }
+});
+</script>

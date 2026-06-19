@@ -1,0 +1,24 @@
+[
+  {
+    "address": "1 Cedar Street, Somerville MA",
+    "lat": 42.38804809357665,
+    "lon": -71.115190019966,
+    "kennedy_walk_mi": 0.12,
+    "kennedy_walk_min": 2.2,
+    "kennedy_walk_min_adj": 3,
+    "wh_walk_mi": 1.21,
+    "wh_walk_min": 23.4,
+    "wh_walk_min_adj": 27
+  },
+  {
+    "address": "53 Cedar Street, Somerville MA",
+    "lat": 42.39019937548418,
+    "lon": -71.11367253187214,
+    "kennedy_walk_mi": 0.24,
+    "kennedy_walk_min": 4.6,
+    "kennedy_walk_min_adj": 6,
+    "wh_walk_mi": 1.05,
+    "wh_walk_min": 20.2,
+    "wh_walk_min_adj": 23
+  }
+]
