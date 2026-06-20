@@ -1,0 +1,23 @@
+======================================================================
+WINTER HILL ZONE AUDIT REPORT
+======================================================================
+Total points checked: 359
+Clean (plausible): 359
+Flagged (likely bad geocode, needs manual review): 0
+
+----------------------------------------------------------------------
+FLAGGED POINTS (sorted by straight-line distance, worst first):
+----------------------------------------------------------------------
+
+----------------------------------------------------------------------
+Next steps:
+----------------------------------------------------------------------
+1. For each flagged street above, look up the REAL address range
+   (low and high house numbers that actually exist on that street).
+2. Send those ranges back to Claude.
+3. Claude will regenerate correct sample points, you geocode them
+   via geocod.io, then run the routing script Claude provides.
+
+If a flagged street already has OTHER clean points on the same
+street (check the clean list / map), you likely only need to drop
+the one bad point rather than re-doing the whole street.

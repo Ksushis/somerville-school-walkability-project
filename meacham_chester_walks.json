@@ -1,0 +1,24 @@
+[
+  {
+    "address": "23 Meacham Road, Somerville MA",
+    "street": "Meacham Road",
+    "num": "23",
+    "school": "WEST SOMERVILLE",
+    "lat": 42.39594556195229,
+    "lon": -71.12638753394944,
+    "walk_mi": 0.86,
+    "walk_min": 16.6,
+    "walk_min_adj": 19
+  },
+  {
+    "address": "14 Chester Street, Somerville MA",
+    "street": "Chester Street",
+    "num": "14",
+    "school": "KENNEDY",
+    "lat": 42.39358763729585,
+    "lon": -71.12423030303557,
+    "walk_mi": 0.63,
+    "walk_min": 12.1,
+    "walk_min_adj": 14
+  }
+]

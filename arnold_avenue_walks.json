@@ -1,0 +1,24 @@
+[
+  {
+    "address": "5 Arnold Avenue, Somerville MA",
+    "street": "Arnold Avenue",
+    "num": "5",
+    "school": "KENNEDY",
+    "lat": 42.386599,
+    "lon": -71.11303,
+    "walk_mi": 0.33,
+    "walk_min": 6.3,
+    "walk_min_adj": 8
+  },
+  {
+    "address": "11 Arnold Avenue, Somerville MA",
+    "street": "Arnold Avenue",
+    "num": "11",
+    "school": "KENNEDY",
+    "lat": 42.386559,
+    "lon": -71.112927,
+    "walk_mi": 0.33,
+    "walk_min": 6.4,
+    "walk_min_adj": 8
+  }
+]

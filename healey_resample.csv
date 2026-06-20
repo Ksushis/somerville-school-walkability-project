@@ -1,0 +1,230 @@
+address,street,num,school,range_low,range_high
+"1 Ash Avenue, Somerville MA",Ash Avenue,1,HEALEY,1,99
+"26 Ash Avenue, Somerville MA",Ash Avenue,26,HEALEY,1,99
+"50 Ash Avenue, Somerville MA",Ash Avenue,50,HEALEY,1,99
+"74 Ash Avenue, Somerville MA",Ash Avenue,74,HEALEY,1,99
+"99 Ash Avenue, Somerville MA",Ash Avenue,99,HEALEY,1,99
+"1 Bailey Road, Somerville MA",Bailey Road,1,HEALEY,1,199
+"34 Bailey Road, Somerville MA",Bailey Road,34,HEALEY,1,199
+"67 Bailey Road, Somerville MA",Bailey Road,67,HEALEY,1,199
+"100 Bailey Road, Somerville MA",Bailey Road,100,HEALEY,1,199
+"133 Bailey Road, Somerville MA",Bailey Road,133,HEALEY,1,199
+"166 Bailey Road, Somerville MA",Bailey Road,166,HEALEY,1,199
+"199 Bailey Road, Somerville MA",Bailey Road,199,HEALEY,1,199
+"1 Bond Street, Somerville MA",Bond Street,1,HEALEY,1,99
+"26 Bond Street, Somerville MA",Bond Street,26,HEALEY,1,99
+"50 Bond Street, Somerville MA",Bond Street,50,HEALEY,1,99
+"74 Bond Street, Somerville MA",Bond Street,74,HEALEY,1,99
+"99 Bond Street, Somerville MA",Bond Street,99,HEALEY,1,99
+"2 Butler Drive, Somerville MA",Butler Drive,2,HEALEY,2,98
+"26 Butler Drive, Somerville MA",Butler Drive,26,HEALEY,2,98
+"50 Butler Drive, Somerville MA",Butler Drive,50,HEALEY,2,98
+"74 Butler Drive, Somerville MA",Butler Drive,74,HEALEY,2,98
+"98 Butler Drive, Somerville MA",Butler Drive,98,HEALEY,2,98
+"1 Canal Lane, Somerville MA",Canal Lane,1,HEALEY,1,99
+"26 Canal Lane, Somerville MA",Canal Lane,26,HEALEY,1,99
+"50 Canal Lane, Somerville MA",Canal Lane,50,HEALEY,1,99
+"74 Canal Lane, Somerville MA",Canal Lane,74,HEALEY,1,99
+"99 Canal Lane, Somerville MA",Canal Lane,99,HEALEY,1,99
+"301 Canal Street, Somerville MA",Canal Street,301,HEALEY,301,499
+"334 Canal Street, Somerville MA",Canal Street,334,HEALEY,301,499
+"367 Canal Street, Somerville MA",Canal Street,367,HEALEY,301,499
+"400 Canal Street, Somerville MA",Canal Street,400,HEALEY,301,499
+"433 Canal Street, Somerville MA",Canal Street,433,HEALEY,301,499
+"466 Canal Street, Somerville MA",Canal Street,466,HEALEY,301,499
+"499 Canal Street, Somerville MA",Canal Street,499,HEALEY,301,499
+"1 Century Street, Somerville MA",Century Street,1,HEALEY,1,99
+"26 Century Street, Somerville MA",Century Street,26,HEALEY,1,99
+"50 Century Street, Somerville MA",Century Street,50,HEALEY,1,99
+"74 Century Street, Somerville MA",Century Street,74,HEALEY,1,99
+"99 Century Street, Somerville MA",Century Street,99,HEALEY,1,99
+"1 Crest Hill Road, Somerville MA",Crest Hill Road,1,HEALEY,1,99
+"26 Crest Hill Road, Somerville MA",Crest Hill Road,26,HEALEY,1,99
+"50 Crest Hill Road, Somerville MA",Crest Hill Road,50,HEALEY,1,99
+"74 Crest Hill Road, Somerville MA",Crest Hill Road,74,HEALEY,1,99
+"99 Crest Hill Road, Somerville MA",Crest Hill Road,99,HEALEY,1,99
+"1 Derby Street, Somerville MA",Derby Street,1,HEALEY,1,99
+"26 Derby Street, Somerville MA",Derby Street,26,HEALEY,1,99
+"50 Derby Street, Somerville MA",Derby Street,50,HEALEY,1,99
+"74 Derby Street, Somerville MA",Derby Street,74,HEALEY,1,99
+"99 Derby Street, Somerville MA",Derby Street,99,HEALEY,1,99
+"1 Douglas Avenue, Somerville MA",Douglas Avenue,1,HEALEY,1,99
+"26 Douglas Avenue, Somerville MA",Douglas Avenue,26,HEALEY,1,99
+"50 Douglas Avenue, Somerville MA",Douglas Avenue,50,HEALEY,1,99
+"74 Douglas Avenue, Somerville MA",Douglas Avenue,74,HEALEY,1,99
+"99 Douglas Avenue, Somerville MA",Douglas Avenue,99,HEALEY,1,99
+"2 Edgar Avenue, Somerville MA",Edgar Avenue,2,HEALEY,2,99
+"26 Edgar Avenue, Somerville MA",Edgar Avenue,26,HEALEY,2,99
+"50 Edgar Avenue, Somerville MA",Edgar Avenue,50,HEALEY,2,99
+"75 Edgar Avenue, Somerville MA",Edgar Avenue,75,HEALEY,2,99
+"99 Edgar Avenue, Somerville MA",Edgar Avenue,99,HEALEY,2,99
+"1 Edgar Court, Somerville MA",Edgar Court,1,HEALEY,1,99
+"26 Edgar Court, Somerville MA",Edgar Court,26,HEALEY,1,99
+"50 Edgar Court, Somerville MA",Edgar Court,50,HEALEY,1,99
+"74 Edgar Court, Somerville MA",Edgar Court,74,HEALEY,1,99
+"99 Edgar Court, Somerville MA",Edgar Court,99,HEALEY,1,99
+"1 Edgar Terrace, Somerville MA",Edgar Terrace,1,HEALEY,1,99
+"26 Edgar Terrace, Somerville MA",Edgar Terrace,26,HEALEY,1,99
+"50 Edgar Terrace, Somerville MA",Edgar Terrace,50,HEALEY,1,99
+"74 Edgar Terrace, Somerville MA",Edgar Terrace,74,HEALEY,1,99
+"99 Edgar Terrace, Somerville MA",Edgar Terrace,99,HEALEY,1,99
+"200 Fellsway, Somerville MA",Fellsway,200,HEALEY,200,298
+"224 Fellsway, Somerville MA",Fellsway,224,HEALEY,200,298
+"249 Fellsway, Somerville MA",Fellsway,249,HEALEY,200,298
+"274 Fellsway, Somerville MA",Fellsway,274,HEALEY,200,298
+"298 Fellsway, Somerville MA",Fellsway,298,HEALEY,200,298
+"1 Fenwick Street, Somerville MA",Fenwick Street,1,HEALEY,1,99
+"26 Fenwick Street, Somerville MA",Fenwick Street,26,HEALEY,1,99
+"50 Fenwick Street, Somerville MA",Fenwick Street,50,HEALEY,1,99
+"74 Fenwick Street, Somerville MA",Fenwick Street,74,HEALEY,1,99
+"99 Fenwick Street, Somerville MA",Fenwick Street,99,HEALEY,1,99
+"1 Florence Terrace, Somerville MA",Florence Terrace,1,HEALEY,1,99
+"26 Florence Terrace, Somerville MA",Florence Terrace,26,HEALEY,1,99
+"50 Florence Terrace, Somerville MA",Florence Terrace,50,HEALEY,1,99
+"74 Florence Terrace, Somerville MA",Florence Terrace,74,HEALEY,1,99
+"99 Florence Terrace, Somerville MA",Florence Terrace,99,HEALEY,1,99
+"1 Fremont Street, Somerville MA",Fremont Street,1,HEALEY,1,199
+"34 Fremont Street, Somerville MA",Fremont Street,34,HEALEY,1,199
+"67 Fremont Street, Somerville MA",Fremont Street,67,HEALEY,1,199
+"100 Fremont Street, Somerville MA",Fremont Street,100,HEALEY,1,199
+"133 Fremont Street, Somerville MA",Fremont Street,133,HEALEY,1,199
+"166 Fremont Street, Somerville MA",Fremont Street,166,HEALEY,1,199
+"199 Fremont Street, Somerville MA",Fremont Street,199,HEALEY,1,199
+"1 Grant Street, Somerville MA",Grant Street,1,HEALEY,1,199
+"34 Grant Street, Somerville MA",Grant Street,34,HEALEY,1,199
+"67 Grant Street, Somerville MA",Grant Street,67,HEALEY,1,199
+"100 Grant Street, Somerville MA",Grant Street,100,HEALEY,1,199
+"133 Grant Street, Somerville MA",Grant Street,133,HEALEY,1,199
+"166 Grant Street, Somerville MA",Grant Street,166,HEALEY,1,199
+"199 Grant Street, Somerville MA",Grant Street,199,HEALEY,1,199
+"301 Great River Road, Somerville MA",Great River Road,301,HEALEY,301,335
+"318 Great River Road, Somerville MA",Great River Road,318,HEALEY,301,335
+"335 Great River Road, Somerville MA",Great River Road,335,HEALEY,301,335
+"1 Heath Street, Somerville MA",Heath Street,1,HEALEY,1,199
+"34 Heath Street, Somerville MA",Heath Street,34,HEALEY,1,199
+"67 Heath Street, Somerville MA",Heath Street,67,HEALEY,1,199
+"100 Heath Street, Somerville MA",Heath Street,100,HEALEY,1,199
+"133 Heath Street, Somerville MA",Heath Street,133,HEALEY,1,199
+"166 Heath Street, Somerville MA",Heath Street,166,HEALEY,1,199
+"199 Heath Street, Somerville MA",Heath Street,199,HEALEY,1,199
+"1 Jaques Street, Somerville MA",Jaques Street,1,HEALEY,1,199
+"34 Jaques Street, Somerville MA",Jaques Street,34,HEALEY,1,199
+"67 Jaques Street, Somerville MA",Jaques Street,67,HEALEY,1,199
+"100 Jaques Street, Somerville MA",Jaques Street,100,HEALEY,1,199
+"133 Jaques Street, Somerville MA",Jaques Street,133,HEALEY,1,199
+"166 Jaques Street, Somerville MA",Jaques Street,166,HEALEY,1,199
+"199 Jaques Street, Somerville MA",Jaques Street,199,HEALEY,1,199
+"1 Langmaid Avenue, Somerville MA",Langmaid Avenue,1,HEALEY,1,99
+"26 Langmaid Avenue, Somerville MA",Langmaid Avenue,26,HEALEY,1,99
+"50 Langmaid Avenue, Somerville MA",Langmaid Avenue,50,HEALEY,1,99
+"74 Langmaid Avenue, Somerville MA",Langmaid Avenue,74,HEALEY,1,99
+"99 Langmaid Avenue, Somerville MA",Langmaid Avenue,99,HEALEY,1,99
+"1 Main Street, Somerville MA",Main Street,1,HEALEY,1,99
+"26 Main Street, Somerville MA",Main Street,26,HEALEY,1,99
+"50 Main Street, Somerville MA",Main Street,50,HEALEY,1,99
+"74 Main Street, Somerville MA",Main Street,74,HEALEY,1,99
+"99 Main Street, Somerville MA",Main Street,99,HEALEY,1,99
+"1 Meacham Street, Somerville MA",Meacham Street,1,HEALEY,1,99
+"26 Meacham Street, Somerville MA",Meacham Street,26,HEALEY,1,99
+"50 Meacham Street, Somerville MA",Meacham Street,50,HEALEY,1,99
+"74 Meacham Street, Somerville MA",Meacham Street,74,HEALEY,1,99
+"99 Meacham Street, Somerville MA",Meacham Street,99,HEALEY,1,99
+"1 Melville Road, Somerville MA",Melville Road,1,HEALEY,1,99
+"26 Melville Road, Somerville MA",Melville Road,26,HEALEY,1,99
+"50 Melville Road, Somerville MA",Melville Road,50,HEALEY,1,99
+"74 Melville Road, Somerville MA",Melville Road,74,HEALEY,1,99
+"99 Melville Road, Somerville MA",Melville Road,99,HEALEY,1,99
+"1 Memorial Road, Somerville MA",Memorial Road,1,HEALEY,1,99
+"26 Memorial Road, Somerville MA",Memorial Road,26,HEALEY,1,99
+"50 Memorial Road, Somerville MA",Memorial Road,50,HEALEY,1,99
+"74 Memorial Road, Somerville MA",Memorial Road,74,HEALEY,1,99
+"99 Memorial Road, Somerville MA",Memorial Road,99,HEALEY,1,99
+"1 Moreland Street, Somerville MA",Moreland Street,1,HEALEY,1,199
+"34 Moreland Street, Somerville MA",Moreland Street,34,HEALEY,1,199
+"67 Moreland Street, Somerville MA",Moreland Street,67,HEALEY,1,199
+"100 Moreland Street, Somerville MA",Moreland Street,100,HEALEY,1,199
+"133 Moreland Street, Somerville MA",Moreland Street,133,HEALEY,1,199
+"166 Moreland Street, Somerville MA",Moreland Street,166,HEALEY,1,199
+"199 Moreland Street, Somerville MA",Moreland Street,199,HEALEY,1,199
+"1 Puritan Road, Somerville MA",Puritan Road,1,HEALEY,1,199
+"34 Puritan Road, Somerville MA",Puritan Road,34,HEALEY,1,199
+"67 Puritan Road, Somerville MA",Puritan Road,67,HEALEY,1,199
+"100 Puritan Road, Somerville MA",Puritan Road,100,HEALEY,1,199
+"133 Puritan Road, Somerville MA",Puritan Road,133,HEALEY,1,199
+"166 Puritan Road, Somerville MA",Puritan Road,166,HEALEY,1,199
+"199 Puritan Road, Somerville MA",Puritan Road,199,HEALEY,1,199
+"1 Putnam Road, Somerville MA",Putnam Road,1,HEALEY,1,99
+"26 Putnam Road, Somerville MA",Putnam Road,26,HEALEY,1,99
+"50 Putnam Road, Somerville MA",Putnam Road,50,HEALEY,1,99
+"74 Putnam Road, Somerville MA",Putnam Road,74,HEALEY,1,99
+"99 Putnam Road, Somerville MA",Putnam Road,99,HEALEY,1,99
+"1 River Road, Somerville MA",River Road,1,HEALEY,1,99
+"26 River Road, Somerville MA",River Road,26,HEALEY,1,99
+"50 River Road, Somerville MA",River Road,50,HEALEY,1,99
+"74 River Road, Somerville MA",River Road,74,HEALEY,1,99
+"99 River Road, Somerville MA",River Road,99,HEALEY,1,99
+"1 Sewall Street, Somerville MA",Sewall Street,1,HEALEY,1,99
+"26 Sewall Street, Somerville MA",Sewall Street,26,HEALEY,1,99
+"50 Sewall Street, Somerville MA",Sewall Street,50,HEALEY,1,99
+"74 Sewall Street, Somerville MA",Sewall Street,74,HEALEY,1,99
+"99 Sewall Street, Somerville MA",Sewall Street,99,HEALEY,1,99
+"1 Shore Drive, Somerville MA",Shore Drive,1,HEALEY,1,199
+"34 Shore Drive, Somerville MA",Shore Drive,34,HEALEY,1,199
+"67 Shore Drive, Somerville MA",Shore Drive,67,HEALEY,1,199
+"100 Shore Drive, Somerville MA",Shore Drive,100,HEALEY,1,199
+"133 Shore Drive, Somerville MA",Shore Drive,133,HEALEY,1,199
+"166 Shore Drive, Somerville MA",Shore Drive,166,HEALEY,1,199
+"199 Shore Drive, Somerville MA",Shore Drive,199,HEALEY,1,199
+"1 Snow Terrace, Somerville MA",Snow Terrace,1,HEALEY,1,99
+"26 Snow Terrace, Somerville MA",Snow Terrace,26,HEALEY,1,99
+"50 Snow Terrace, Somerville MA",Snow Terrace,50,HEALEY,1,99
+"74 Snow Terrace, Somerville MA",Snow Terrace,74,HEALEY,1,99
+"99 Snow Terrace, Somerville MA",Snow Terrace,99,HEALEY,1,99
+"1 Sydney Street, Somerville MA",Sydney Street,1,HEALEY,1,99
+"26 Sydney Street, Somerville MA",Sydney Street,26,HEALEY,1,99
+"50 Sydney Street, Somerville MA",Sydney Street,50,HEALEY,1,99
+"74 Sydney Street, Somerville MA",Sydney Street,74,HEALEY,1,99
+"99 Sydney Street, Somerville MA",Sydney Street,99,HEALEY,1,99
+"1 Taylor Street, Somerville MA",Taylor Street,1,HEALEY,1,99
+"26 Taylor Street, Somerville MA",Taylor Street,26,HEALEY,1,99
+"50 Taylor Street, Somerville MA",Taylor Street,50,HEALEY,1,99
+"74 Taylor Street, Somerville MA",Taylor Street,74,HEALEY,1,99
+"99 Taylor Street, Somerville MA",Taylor Street,99,HEALEY,1,99
+"1 Temple Road, Somerville MA",Temple Road,1,HEALEY,1,199
+"34 Temple Road, Somerville MA",Temple Road,34,HEALEY,1,199
+"67 Temple Road, Somerville MA",Temple Road,67,HEALEY,1,199
+"100 Temple Road, Somerville MA",Temple Road,100,HEALEY,1,199
+"133 Temple Road, Somerville MA",Temple Road,133,HEALEY,1,199
+"166 Temple Road, Somerville MA",Temple Road,166,HEALEY,1,199
+"199 Temple Road, Somerville MA",Temple Road,199,HEALEY,1,199
+"1 Temple Street, Somerville MA",Temple Street,1,HEALEY,1,199
+"34 Temple Street, Somerville MA",Temple Street,34,HEALEY,1,199
+"67 Temple Street, Somerville MA",Temple Street,67,HEALEY,1,199
+"100 Temple Street, Somerville MA",Temple Street,100,HEALEY,1,199
+"133 Temple Street, Somerville MA",Temple Street,133,HEALEY,1,199
+"166 Temple Street, Somerville MA",Temple Street,166,HEALEY,1,199
+"199 Temple Street, Somerville MA",Temple Street,199,HEALEY,1,199
+"1 Ten Hills Road, Somerville MA",Ten Hills Road,1,HEALEY,1,199
+"34 Ten Hills Road, Somerville MA",Ten Hills Road,34,HEALEY,1,199
+"67 Ten Hills Road, Somerville MA",Ten Hills Road,67,HEALEY,1,199
+"100 Ten Hills Road, Somerville MA",Ten Hills Road,100,HEALEY,1,199
+"133 Ten Hills Road, Somerville MA",Ten Hills Road,133,HEALEY,1,199
+"166 Ten Hills Road, Somerville MA",Ten Hills Road,166,HEALEY,1,199
+"199 Ten Hills Road, Somerville MA",Ten Hills Road,199,HEALEY,1,199
+"1 Upland Park, Somerville MA",Upland Park,1,HEALEY,1,99
+"26 Upland Park, Somerville MA",Upland Park,26,HEALEY,1,99
+"50 Upland Park, Somerville MA",Upland Park,50,HEALEY,1,99
+"74 Upland Park, Somerville MA",Upland Park,74,HEALEY,1,99
+"99 Upland Park, Somerville MA",Upland Park,99,HEALEY,1,99
+"1 Wheatland Street, Somerville MA",Wheatland Street,1,HEALEY,1,198
+"34 Wheatland Street, Somerville MA",Wheatland Street,34,HEALEY,1,198
+"67 Wheatland Street, Somerville MA",Wheatland Street,67,HEALEY,1,198
+"100 Wheatland Street, Somerville MA",Wheatland Street,100,HEALEY,1,198
+"132 Wheatland Street, Somerville MA",Wheatland Street,132,HEALEY,1,198
+"165 Wheatland Street, Somerville MA",Wheatland Street,165,HEALEY,1,198
+"198 Wheatland Street, Somerville MA",Wheatland Street,198,HEALEY,1,198
+"1 Winter Hill Circle, Somerville MA",Winter Hill Circle,1,HEALEY,1,99
+"26 Winter Hill Circle, Somerville MA",Winter Hill Circle,26,HEALEY,1,99
+"50 Winter Hill Circle, Somerville MA",Winter Hill Circle,50,HEALEY,1,99
+"74 Winter Hill Circle, Somerville MA",Winter Hill Circle,74,HEALEY,1,99
+"99 Winter Hill Circle, Somerville MA",Winter Hill Circle,99,HEALEY,1,99

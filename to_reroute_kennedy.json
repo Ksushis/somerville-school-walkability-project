@@ -1,0 +1,123 @@
+[
+  {
+    "address": "5 Ashland Street, Somerville MA",
+    "street": "Ashland Street",
+    "num": "5",
+    "school": "KENNEDY",
+    "lat": 42.390736,
+    "lon": -71.114085,
+    "walk_mi": 1.39,
+    "walk_min": 26.8,
+    "walk_min_adj": 31
+  },
+  {
+    "address": "27 Ashland Street, Somerville MA",
+    "street": "Ashland Street",
+    "num": "27",
+    "school": "KENNEDY",
+    "lat": 42.390446,
+    "lon": -71.114291,
+    "walk_mi": 1.41,
+    "walk_min": 27.1,
+    "walk_min_adj": 31
+  },
+  {
+    "address": "2 Belmont Street, Somerville MA",
+    "street": "Belmont Street",
+    "num": "2",
+    "school": "KENNEDY",
+    "lat": 42.384475,
+    "lon": -71.111064,
+    "walk_mi": 1.82,
+    "walk_min": 35.2,
+    "walk_min_adj": 40
+  },
+  {
+    "address": "30 Belmont Street, Somerville MA",
+    "street": "Belmont Street",
+    "num": "30",
+    "school": "KENNEDY",
+    "lat": 42.385809,
+    "lon": -71.110381,
+    "walk_mi": 1.86,
+    "walk_min": 36.0,
+    "walk_min_adj": 41
+  },
+  {
+    "address": "58 Belmont Street, Somerville MA",
+    "street": "Belmont Street",
+    "num": "58",
+    "school": "KENNEDY",
+    "lat": 42.387305,
+    "lon": -71.109319,
+    "walk_mi": 1.75,
+    "walk_min": 33.8,
+    "walk_min_adj": 39
+  },
+  {
+    "address": "10 Francis Street, Somerville MA",
+    "street": "Francis Street",
+    "num": "10",
+    "school": "KENNEDY",
+    "lat": 42.390589,
+    "lon": -71.111246,
+    "walk_mi": 1.54,
+    "walk_min": 29.8,
+    "walk_min_adj": 34
+  },
+  {
+    "address": "8 Hall Street, Somerville MA",
+    "street": "Hall Street",
+    "num": "8",
+    "school": "KENNEDY",
+    "lat": 42.391183,
+    "lon": -71.113641,
+    "walk_mi": 1.42,
+    "walk_min": 27.4,
+    "walk_min_adj": 31
+  },
+  {
+    "address": "28 Hall Street, Somerville MA",
+    "street": "Hall Street",
+    "num": "28",
+    "school": "KENNEDY",
+    "lat": 42.391604,
+    "lon": -71.114299,
+    "walk_mi": 1.37,
+    "walk_min": 26.5,
+    "walk_min_adj": 30
+  },
+  {
+    "address": "3 Mountain Avenue, Somerville MA",
+    "street": "Mountain Avenue",
+    "num": "3",
+    "school": "KENNEDY",
+    "lat": 42.390308,
+    "lon": -71.111212,
+    "walk_mi": 1.6,
+    "walk_min": 31.0,
+    "walk_min_adj": 36
+  },
+  {
+    "address": "22 Mountain Avenue, Somerville MA",
+    "street": "Mountain Avenue",
+    "num": "22",
+    "school": "KENNEDY",
+    "lat": 42.390376,
+    "lon": -71.112019,
+    "walk_mi": 1.65,
+    "walk_min": 31.8,
+    "walk_min_adj": 36
+  },
+  {
+    "address": "2 Oak Terrace, Somerville MA",
+    "street": "Oak Terrace",
+    "num": "2",
+    "school": "KENNEDY",
+    "lat": 42.386019,
+    "lon": -71.113218,
+    "walk_mi": 1.67,
+    "walk_min": 32.3,
+    "walk_min_adj": 37
+  }
+]
