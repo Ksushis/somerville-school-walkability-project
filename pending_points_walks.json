@@ -1,0 +1,132 @@
+[
+  {
+    "street": "Great River Road",
+    "address": "650 Great River Road, Somerville MA",
+    "school": "HEALEY",
+    "lat": 42.393011197025196,
+    "lon": -71.07770341855196,
+    "walk_mi": 1.21,
+    "walk_min": 23.4,
+    "walk_min_adj": 27
+  },
+  {
+    "street": "Milton Street",
+    "address": "23 Milton Street, Somerville MA",
+    "school": "WEST SOMERVILLE",
+    "lat": 42.39335409502267,
+    "lon": -71.12372668216473,
+    "walk_mi": 1.06,
+    "walk_min": 20.5,
+    "walk_min_adj": 24
+  },
+  {
+    "street": "Bowers Avenue",
+    "address": "7 Bowers Avenue, Somerville MA",
+    "school": "KENNEDY",
+    "lat": 42.394281,
+    "lon": -71.121933,
+    "walk_mi": 0.55,
+    "walk_min": 10.5,
+    "walk_min_adj": 12
+  },
+  {
+    "street": "Herbert Street",
+    "address": "1 Herbert Street, Somerville MA",
+    "school": "WEST SOMERVILLE",
+    "lat": 42.395851,
+    "lon": -71.123199,
+    "walk_mi": 0.83,
+    "walk_min": 16.0,
+    "walk_min_adj": 19
+  },
+  {
+    "street": "Herbert Street",
+    "address": "6 Herbert Street, Somerville MA",
+    "school": "WEST SOMERVILLE",
+    "lat": 42.395056,
+    "lon": -71.122782,
+    "walk_mi": 0.89,
+    "walk_min": 17.2,
+    "walk_min_adj": 20
+  },
+  {
+    "street": "Herbert Street",
+    "address": "16 Herbert Street, Somerville MA",
+    "school": "WEST SOMERVILLE",
+    "lat": 42.395363,
+    "lon": -71.122982,
+    "walk_mi": 0.87,
+    "walk_min": 16.7,
+    "walk_min_adj": 19
+  },
+  {
+    "street": "Day Street",
+    "address": "21 Day Street, Somerville MA",
+    "school": "WEST SOMERVILLE",
+    "lat": 42.394878,
+    "lon": -71.124798,
+    "walk_mi": 0.94,
+    "walk_min": 18.1,
+    "walk_min_adj": 21
+  },
+  {
+    "street": "Day Street",
+    "address": "39 Day Street, Somerville MA",
+    "school": "WEST SOMERVILLE",
+    "lat": 42.395607,
+    "lon": -71.123918,
+    "walk_mi": 0.87,
+    "walk_min": 16.8,
+    "walk_min_adj": 19
+  },
+  {
+    "street": "Dover Street",
+    "address": "55 Dover Street, Somerville MA",
+    "school": "WEST SOMERVILLE",
+    "lat": 42.395684,
+    "lon": -71.125411,
+    "walk_mi": 0.87,
+    "walk_min": 16.8,
+    "walk_min_adj": 19
+  },
+  {
+    "street": "Dover Street",
+    "address": "76 Dover Street, Somerville MA",
+    "school": "WEST SOMERVILLE",
+    "lat": 42.395507,
+    "lon": -71.125093,
+    "walk_mi": 0.9,
+    "walk_min": 17.4,
+    "walk_min_adj": 20
+  },
+  {
+    "street": "Dover Street",
+    "address": "97 Dover Street, Somerville MA",
+    "school": "WEST SOMERVILLE",
+    "lat": 42.396384,
+    "lon": -71.124178,
+    "walk_mi": 0.79,
+    "walk_min": 15.3,
+    "walk_min_adj": 18
+  },
+  {
+    "street": "Kingston Street",
+    "address": "23 Kingston Street, Somerville MA",
+    "school": "WEST SOMERVILLE",
+    "lat": 42.397186,
+    "lon": -71.12612,
+    "walk_mi": 0.74,
+    "walk_min": 14.3,
+    "walk_min_adj": 17
+  },
+  {
+    "street": "Kingston Street",
+    "address": "48 Kingston Street, Somerville MA",
+    "school": "WEST SOMERVILLE",
+    "lat": 42.397029,
+    "lon": -71.12725,
+    "walk_mi": 0.81,
+    "walk_min": 15.7,
+    "walk_min_adj": 18
+  }
+]

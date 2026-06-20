@@ -1,0 +1,16 @@
+[
+  {
+    "street": "Wade Court",
+    "address": "1 Wade Court, Somerville MA",
+    "school": "KENNEDY",
+    "lat": 42.388923948926966,
+    "lon": -71.11393192248133
+  },
+  {
+    "street": "Capen Court",
+    "address": "1 Capen Court, Somerville MA",
+    "school": "WEST SOMERVILLE",
+    "lat": 42.41504042735901,
+    "lon": -71.13015040754075
+  }
+]

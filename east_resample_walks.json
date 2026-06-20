@@ -1579,9 +1579,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386449,
     "lon": -71.079769,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.41,
+    "walk_min": 7.9,
+    "walk_min_adj": 9
   },
   {
     "address": "26 George Street, Somerville MA",
@@ -1590,9 +1590,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386307,
     "lon": -71.08,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.41,
+    "walk_min": 8.0,
+    "walk_min_adj": 10
   },
   {
     "address": "50 George Street, Somerville MA",
@@ -1601,9 +1601,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386112,
     "lon": -71.08009,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.43,
+    "walk_min": 8.3,
+    "walk_min_adj": 10
   },
   {
     "address": "74 George Street, Somerville MA",
@@ -1612,9 +1612,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.385911,
     "lon": -71.080201,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.44,
+    "walk_min": 8.5,
+    "walk_min_adj": 10
   },
   {
     "address": "1 Gilman Street, Somerville MA",
@@ -1623,9 +1623,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.387326,
     "lon": -71.092177,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.6,
+    "walk_min": 11.6,
+    "walk_min_adj": 14
   },
   {
     "address": "34 Gilman Street, Somerville MA",
@@ -1634,9 +1634,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.384769,
     "lon": -71.09049,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.54,
+    "walk_min": 10.3,
+    "walk_min_adj": 12
   },
   {
     "address": "67 Gilman Street, Somerville MA",
@@ -1645,9 +1645,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.385679,
     "lon": -71.091603,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.59,
+    "walk_min": 11.4,
+    "walk_min_adj": 13
   },
   {
     "address": "100 Gilman Street, Somerville MA",
@@ -1656,9 +1656,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386283,
     "lon": -71.093029,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.68,
+    "walk_min": 13.1,
+    "walk_min_adj": 15
   },
   {
     "address": "133 Gilman Street, Somerville MA",
@@ -1667,9 +1667,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386273,
     "lon": -71.093024,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.68,
+    "walk_min": 13.1,
+    "walk_min_adj": 15
   },
   {
     "address": "166 Gilman Street, Somerville MA",
@@ -1678,9 +1678,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.38668,
     "lon": -71.093088,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.66,
+    "walk_min": 12.8,
+    "walk_min_adj": 15
   },
   {
     "address": "1 Gilman Terrace, Somerville MA",
@@ -1689,9 +1689,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.387326,
     "lon": -71.092177,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.6,
+    "walk_min": 11.6,
+    "walk_min_adj": 14
   },
   {
     "address": "26 Gilman Terrace, Somerville MA",
@@ -1700,9 +1700,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388089,
     "lon": -71.092144,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.66,
+    "walk_min": 12.6,
+    "walk_min_adj": 15
   },
   {
     "address": "50 Gilman Terrace, Somerville MA",
@@ -1711,9 +1711,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.387542,
     "lon": -71.0921,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.61,
+    "walk_min": 11.9,
+    "walk_min_adj": 14
   },
   {
     "address": "74 Gilman Terrace, Somerville MA",
@@ -1722,9 +1722,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.387773,
     "lon": -71.091982,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.63,
+    "walk_min": 12.2,
+    "walk_min_adj": 14
   },
   {
     "address": "1 Glen Street, Somerville MA",
@@ -1733,9 +1733,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.382912,
     "lon": -71.087693,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.59,
+    "walk_min": 11.4,
+    "walk_min_adj": 13
   },
   {
     "address": "34 Glen Street, Somerville MA",
@@ -1744,9 +1744,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386619,
     "lon": -71.084809,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.3,
+    "walk_min": 5.7,
+    "walk_min_adj": 7
   },
   {
     "address": "67 Glen Street, Somerville MA",
@@ -1755,9 +1755,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.38575,
     "lon": -71.085457,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.37,
+    "walk_min": 7.1,
+    "walk_min_adj": 9
   },
   {
     "address": "100 Glen Street, Somerville MA",
@@ -1766,9 +1766,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.38434,
     "lon": -71.086711,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.48,
+    "walk_min": 9.2,
+    "walk_min_adj": 11
   },
   {
     "address": "133 Glen Street, Somerville MA",
@@ -1777,9 +1777,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.383605,
     "lon": -71.086776,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.53,
+    "walk_min": 10.3,
+    "walk_min_adj": 12
   },
   {
     "address": "166 Glen Street, Somerville MA",
@@ -1788,9 +1788,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.382219,
     "lon": -71.088082,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.64,
+    "walk_min": 12.4,
+    "walk_min_adj": 15
   },
   {
     "address": "1 Hadley Court, Somerville MA",
@@ -1799,9 +1799,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.381856,
     "lon": -71.086676,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.74,
+    "walk_min": 14.3,
+    "walk_min_adj": 17
   },
   {
     "address": "26 Hadley Court, Somerville MA",
@@ -1810,9 +1810,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.381974,
     "lon": -71.086163,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.71,
+    "walk_min": 13.6,
+    "walk_min_adj": 16
   },
   {
     "address": "50 Hadley Court, Somerville MA",
@@ -1821,9 +1821,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.382005,
     "lon": -71.086279,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.71,
+    "walk_min": 13.7,
+    "walk_min_adj": 16
   },
   {
     "address": "74 Hadley Court, Somerville MA",
@@ -1832,9 +1832,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.382035,
     "lon": -71.086396,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.73,
+    "walk_min": 14.2,
+    "walk_min_adj": 17
   },
   {
     "address": "26 Hathorn Street, Somerville MA",
@@ -1843,9 +1843,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386851,
     "lon": -71.082031,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.34,
+    "walk_min": 6.7,
+    "walk_min_adj": 8
   },
   {
     "address": "50 Hathorn Street, Somerville MA",
@@ -1854,9 +1854,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.38662,
     "lon": -71.082186,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.36,
+    "walk_min": 7.0,
+    "walk_min_adj": 8
   },
   {
     "address": "74 Hathorn Street, Somerville MA",
@@ -1865,9 +1865,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386388,
     "lon": -71.082337,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.38,
+    "walk_min": 7.3,
+    "walk_min_adj": 9
   },
   {
     "address": "1 Hillside Avenue, Somerville MA",
@@ -1876,9 +1876,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.384681,
     "lon": -71.085762,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.47,
+    "walk_min": 9.1,
+    "walk_min_adj": 11
   },
   {
     "address": "26 Hillside Avenue, Somerville MA",
@@ -1887,9 +1887,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.384918,
     "lon": -71.085622,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.44,
+    "walk_min": 8.5,
+    "walk_min_adj": 10
   },
   {
     "address": "50 Hillside Avenue, Somerville MA",
@@ -1898,9 +1898,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.384819,
     "lon": -71.085681,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.46,
+    "walk_min": 8.9,
+    "walk_min_adj": 11
   },
   {
     "address": "74 Hillside Avenue, Somerville MA",
@@ -1909,9 +1909,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.38472,
     "lon": -71.085739,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.47,
+    "walk_min": 9.0,
+    "walk_min_adj": 11
   },
   {
     "address": "1 Illinois Avenue, Somerville MA",
@@ -1920,9 +1920,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.387982,
     "lon": -71.083293,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.24,
+    "walk_min": 4.6,
+    "walk_min_adj": 6
   },
   {
     "address": "26 Illinois Avenue, Somerville MA",
@@ -1931,9 +1931,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.387814,
     "lon": -71.082948,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.24,
+    "walk_min": 4.7,
+    "walk_min_adj": 6
   },
   {
     "address": "50 Illinois Avenue, Somerville MA",
@@ -1942,9 +1942,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388078,
     "lon": -71.082676,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.22,
+    "walk_min": 4.2,
+    "walk_min_adj": 5
   },
   {
     "address": "74 Illinois Avenue, Somerville MA",
@@ -1953,9 +1953,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388347,
     "lon": -71.082399,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.2,
+    "walk_min": 3.8,
+    "walk_min_adj": 5
   },
   {
     "address": "1 Indiana Avenue, Somerville MA",
@@ -1964,9 +1964,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.387618,
     "lon": -71.082208,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.27,
+    "walk_min": 5.2,
+    "walk_min_adj": 6
   },
   {
     "address": "26 Indiana Avenue, Somerville MA",
@@ -1975,9 +1975,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388194,
     "lon": -71.082149,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.23,
+    "walk_min": 4.4,
+    "walk_min_adj": 5
   },
   {
     "address": "50 Indiana Avenue, Somerville MA",
@@ -1986,9 +1986,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.387784,
     "lon": -71.08207,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.25,
+    "walk_min": 4.9,
+    "walk_min_adj": 6
   },
   {
     "address": "74 Indiana Avenue, Somerville MA",
@@ -1997,9 +1997,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388016,
     "lon": -71.081832,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.23,
+    "walk_min": 4.5,
+    "walk_min_adj": 6
   },
   {
     "address": "1 Inner Belt Rd, Somerville MA",
@@ -2008,9 +2008,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.380858,
     "lon": -71.080693,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.88,
+    "walk_min": 17.0,
+    "walk_min_adj": 20
   },
   {
     "address": "34 Inner Belt Rd, Somerville MA",
@@ -2019,9 +2019,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.380282,
     "lon": -71.08121,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.87,
+    "walk_min": 16.9,
+    "walk_min_adj": 20
   },
   {
     "address": "67 Inner Belt Rd, Somerville MA",
@@ -2030,9 +2030,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.379071,
     "lon": -71.080829,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.97,
+    "walk_min": 18.7,
+    "walk_min_adj": 22
   },
   {
     "address": "100 Inner Belt Rd, Somerville MA",
@@ -2041,9 +2041,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.376766,
     "lon": -71.082084,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 1.16,
+    "walk_min": 22.5,
+    "walk_min_adj": 26
   },
   {
     "address": "133 Inner Belt Rd, Somerville MA",
@@ -2052,9 +2052,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.375695,
     "lon": -71.080635,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 1.2,
+    "walk_min": 23.1,
+    "walk_min_adj": 27
   },
   {
     "address": "166 Inner Belt Rd, Somerville MA",
@@ -2063,9 +2063,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.376442,
     "lon": -71.082245,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 1.3,
+    "walk_min": 25.1,
+    "walk_min_adj": 29
   },
   {
     "address": "1 Jasper Street, Somerville MA",
@@ -2074,9 +2074,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.38663,
     "lon": -71.092629,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.61,
+    "walk_min": 11.8,
+    "walk_min_adj": 14
   },
   {
     "address": "26 Jasper Street, Somerville MA",
@@ -2085,9 +2085,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386629,
     "lon": -71.092593,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.61,
+    "walk_min": 11.8,
+    "walk_min_adj": 14
   },
   {
     "address": "50 Jasper Street, Somerville MA",
@@ -2096,9 +2096,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386518,
     "lon": -71.092661,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.62,
+    "walk_min": 12.0,
+    "walk_min_adj": 14
   },
   {
     "address": "74 Jasper Street, Somerville MA",
@@ -2107,9 +2107,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386407,
     "lon": -71.092728,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.64,
+    "walk_min": 12.3,
+    "walk_min_adj": 14
   },
   {
     "address": "1 Kensington Avenue, Somerville MA",
@@ -2118,9 +2118,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.38967,
     "lon": -71.08695,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.2,
+    "walk_min": 3.8,
+    "walk_min_adj": 5
   },
   {
     "address": "26 Kensington Avenue, Somerville MA",
@@ -2129,9 +2129,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.390379,
     "lon": -71.086678,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.16,
+    "walk_min": 3.0,
+    "walk_min_adj": 4
   },
   {
     "address": "50 Kensington Avenue, Somerville MA",
@@ -2140,9 +2140,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.390076,
     "lon": -71.086503,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.16,
+    "walk_min": 3.1,
+    "walk_min_adj": 4
   },
   {
     "address": "74 Kensington Avenue, Somerville MA",
@@ -2151,9 +2151,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.390455,
     "lon": -71.08612,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.12,
+    "walk_min": 2.4,
+    "walk_min_adj": 3
   },
   {
     "address": "1 Knowlton Street, Somerville MA",
@@ -2162,9 +2162,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.381502,
     "lon": -71.087164,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.75,
+    "walk_min": 14.5,
+    "walk_min_adj": 17
   },
   {
     "address": "26 Knowlton Street, Somerville MA",
@@ -2173,9 +2173,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.381931,
     "lon": -71.086954,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.74,
+    "walk_min": 14.2,
+    "walk_min_adj": 17
   },
   {
     "address": "50 Knowlton Street, Somerville MA",
@@ -2184,9 +2184,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.382058,
     "lon": -71.086874,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.73,
+    "walk_min": 14.0,
+    "walk_min_adj": 16
   },
   {
     "address": "74 Knowlton Street, Somerville MA",
@@ -2195,9 +2195,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.382159,
     "lon": -71.08681,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.72,
+    "walk_min": 13.9,
+    "walk_min_adj": 16
   },
   {
     "address": "1 Lincoln Avenue, Somerville MA",
@@ -2206,9 +2206,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386688,
     "lon": -71.081085,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.33,
+    "walk_min": 6.5,
+    "walk_min_adj": 8
   },
   {
     "address": "26 Lincoln Avenue, Somerville MA",
@@ -2217,9 +2217,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.385645,
     "lon": -71.08066,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.44,
+    "walk_min": 8.5,
+    "walk_min_adj": 10
   },
   {
     "address": "50 Lincoln Avenue, Somerville MA",
@@ -2228,9 +2228,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.385973,
     "lon": -71.080765,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.42,
+    "walk_min": 8.1,
+    "walk_min_adj": 10
   },
   {
     "address": "74 Lincoln Avenue, Somerville MA",
@@ -2239,9 +2239,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.38603,
     "lon": -71.080954,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.4,
+    "walk_min": 7.7,
+    "walk_min_adj": 9
   },
   {
     "address": "1 Lincoln Place, Somerville MA",
@@ -2250,9 +2250,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386688,
     "lon": -71.081085,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.33,
+    "walk_min": 6.5,
+    "walk_min_adj": 8
   },
   {
     "address": "26 Lincoln Place, Somerville MA",
@@ -2261,9 +2261,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.38576,
     "lon": -71.080449,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.44,
+    "walk_min": 8.5,
+    "walk_min_adj": 10
   },
   {
     "address": "50 Lincoln Place, Somerville MA",
@@ -2272,9 +2272,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.385815,
     "lon": -71.080421,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.44,
+    "walk_min": 8.5,
+    "walk_min_adj": 10
   },
   {
     "address": "74 Lincoln Place, Somerville MA",
@@ -2283,9 +2283,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.385871,
     "lon": -71.080392,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.44,
+    "walk_min": 8.5,
+    "walk_min_adj": 10
   },
   {
     "address": "1 Lincoln Street, Somerville MA",
@@ -2294,9 +2294,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386688,
     "lon": -71.081085,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.33,
+    "walk_min": 6.5,
+    "walk_min_adj": 8
   },
   {
     "address": "26 Lincoln Street, Somerville MA",
@@ -2305,9 +2305,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.385624,
     "lon": -71.081138,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.43,
+    "walk_min": 8.2,
+    "walk_min_adj": 10
   },
   {
     "address": "50 Lincoln Street, Somerville MA",
@@ -2316,9 +2316,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.385596,
     "lon": -71.081548,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.43,
+    "walk_min": 8.3,
+    "walk_min_adj": 10
   },
   {
     "address": "74 Lincoln Street, Somerville MA",
@@ -2327,9 +2327,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.385443,
     "lon": -71.081622,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.44,
+    "walk_min": 8.5,
+    "walk_min_adj": 10
   },
   {
     "address": "1 Louisburg Place, Somerville MA",
@@ -2338,9 +2338,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388438,
     "lon": -71.086928,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.2,
+    "walk_min": 3.9,
+    "walk_min_adj": 5
   },
   {
     "address": "26 Louisburg Place, Somerville MA",
@@ -2349,9 +2349,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388598,
     "lon": -71.087128,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.2,
+    "walk_min": 3.8,
+    "walk_min_adj": 5
   },
   {
     "address": "50 Louisburg Place, Somerville MA",
@@ -2360,9 +2360,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388552,
     "lon": -71.087025,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.2,
+    "walk_min": 3.9,
+    "walk_min_adj": 5
   },
   {
     "address": "74 Louisburg Place, Somerville MA",
@@ -2371,9 +2371,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388505,
     "lon": -71.086922,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.2,
+    "walk_min": 3.9,
+    "walk_min_adj": 5
   },
   {
     "address": "1 MacArthur Street, Somerville MA",
@@ -2382,9 +2382,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.38903,
     "lon": -71.088428,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.26,
+    "walk_min": 5.0,
+    "walk_min_adj": 6
   },
   {
     "address": "26 MacArthur Street, Somerville MA",
@@ -2393,9 +2393,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.389249,
     "lon": -71.08818,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.24,
+    "walk_min": 4.6,
+    "walk_min_adj": 6
   },
   {
     "address": "50 MacArthur Street, Somerville MA",
@@ -2404,9 +2404,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388966,
     "lon": -71.088405,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.26,
+    "walk_min": 5.0,
+    "walk_min_adj": 6
   },
   {
     "address": "74 MacArthur Street, Somerville MA",
@@ -2415,9 +2415,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388693,
     "lon": -71.088639,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.28,
+    "walk_min": 5.4,
+    "walk_min_adj": 7
   },
   {
     "address": "1 Maine Avenue, Somerville MA",
@@ -2426,9 +2426,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388655,
     "lon": -71.081385,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.22,
+    "walk_min": 4.3,
+    "walk_min_adj": 5
   },
   {
     "address": "26 Maine Avenue, Somerville MA",
@@ -2437,9 +2437,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.38846,
     "lon": -71.08162,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.21,
+    "walk_min": 4.1,
+    "walk_min_adj": 5
   },
   {
     "address": "50 Maine Avenue, Somerville MA",
@@ -2448,9 +2448,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388575,
     "lon": -71.081495,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.22,
+    "walk_min": 4.2,
+    "walk_min_adj": 5
   },
   {
     "address": "74 Maine Avenue, Somerville MA",
@@ -2459,9 +2459,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388681,
     "lon": -71.081384,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.23,
+    "walk_min": 4.3,
+    "walk_min_adj": 5
   },
   {
     "address": "1 Maine Terrace, Somerville MA",
@@ -2470,9 +2470,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.3886,
     "lon": -71.081181,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.26,
+    "walk_min": 4.9,
+    "walk_min_adj": 6
   },
   {
     "address": "26 Maine Terrace, Somerville MA",
@@ -2481,9 +2481,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388629,
     "lon": -71.081189,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.25,
+    "walk_min": 4.9,
+    "walk_min_adj": 6
   },
   {
     "address": "50 Maine Terrace, Somerville MA",
@@ -2492,9 +2492,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388477,
     "lon": -71.08097,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.27,
+    "walk_min": 5.2,
+    "walk_min_adj": 6
   },
   {
     "address": "74 Maine Terrace, Somerville MA",
@@ -2503,9 +2503,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388325,
     "lon": -71.080757,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.28,
+    "walk_min": 5.5,
+    "walk_min_adj": 7
   },
   {
     "address": "1 McGregor Avenue, Somerville MA",
@@ -2514,9 +2514,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.389002,
     "lon": -71.092203,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.51,
+    "walk_min": 9.8,
+    "walk_min_adj": 12
   },
   {
     "address": "26 McGregor Avenue, Somerville MA",
@@ -2525,9 +2525,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388714,
     "lon": -71.092021,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.5,
+    "walk_min": 9.6,
+    "walk_min_adj": 11
   },
   {
     "address": "50 McGregor Avenue, Somerville MA",
@@ -2536,9 +2536,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388604,
     "lon": -71.091726,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.48,
+    "walk_min": 9.2,
+    "walk_min_adj": 11
   },
   {
     "address": "74 McGregor Avenue, Somerville MA",
@@ -2547,9 +2547,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388511,
     "lon": -71.091432,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.46,
+    "walk_min": 8.9,
+    "walk_min_adj": 11
   },
   {
     "address": "1 Melvin Street, Somerville MA",
@@ -2558,9 +2558,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.389959,
     "lon": -71.089533,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.32,
+    "walk_min": 6.2,
+    "walk_min_adj": 8
   },
   {
     "address": "26 Melvin Street, Somerville MA",
@@ -2569,9 +2569,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.38911,
     "lon": -71.089875,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.37,
+    "walk_min": 7.2,
+    "walk_min_adj": 9
   },
   {
     "address": "50 Melvin Street, Somerville MA",
@@ -2580,9 +2580,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.389349,
     "lon": -71.0897,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.35,
+    "walk_min": 6.8,
+    "walk_min_adj": 8
   },
   {
     "address": "74 Melvin Street, Somerville MA",
@@ -2591,9 +2591,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.389668,
     "lon": -71.089415,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.33,
+    "walk_min": 6.3,
+    "walk_min_adj": 8
   },
   {
     "address": "1 Michigan Avenue, Somerville MA",
@@ -2602,9 +2602,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388119,
     "lon": -71.083528,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.21,
+    "walk_min": 4.0,
+    "walk_min_adj": 5
   },
   {
     "address": "26 Michigan Avenue, Somerville MA",
@@ -2613,9 +2613,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388646,
     "lon": -71.083489,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.17,
+    "walk_min": 3.3,
+    "walk_min_adj": 4
   },
   {
     "address": "50 Michigan Avenue, Somerville MA",
@@ -2624,9 +2624,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388356,
     "lon": -71.083327,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.19,
+    "walk_min": 3.6,
+    "walk_min_adj": 5
   },
   {
     "address": "74 Michigan Avenue, Somerville MA",
@@ -2635,9 +2635,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388632,
     "lon": -71.083036,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.16,
+    "walk_min": 3.1,
+    "walk_min_adj": 4
   },
   {
     "address": "1 Middlesex Avenue, Somerville MA",
@@ -2646,9 +2646,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.390929,
     "lon": -71.082239,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.41,
+    "walk_min": 7.9,
+    "walk_min_adj": 9
   },
   {
     "address": "34 Middlesex Avenue, Somerville MA",
@@ -2657,9 +2657,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.392348,
     "lon": -71.082793,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.34,
+    "walk_min": 6.6,
+    "walk_min_adj": 8
   },
   {
     "address": "67 Middlesex Avenue, Somerville MA",
@@ -2668,9 +2668,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.393635,
     "lon": -71.083481,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.41,
+    "walk_min": 7.9,
+    "walk_min_adj": 9
   },
   {
     "address": "100 Middlesex Avenue, Somerville MA",
@@ -2679,9 +2679,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.393602,
     "lon": -71.082498,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.37,
+    "walk_min": 7.1,
+    "walk_min_adj": 9
   },
   {
     "address": "133 Middlesex Avenue, Somerville MA",
@@ -2690,9 +2690,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.394729,
     "lon": -71.08276,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.52,
+    "walk_min": 10.0,
+    "walk_min_adj": 12
   },
   {
     "address": "166 Middlesex Avenue, Somerville MA",
@@ -2701,9 +2701,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.395365,
     "lon": -71.083659,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.5,
+    "walk_min": 9.6,
+    "walk_min_adj": 11
   },
   {
     "address": "1 Minnesota Avenue, Somerville MA",
@@ -2712,9 +2712,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388555,
     "lon": -71.085007,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.13,
+    "walk_min": 2.6,
+    "walk_min_adj": 3
   },
   {
     "address": "26 Minnesota Avenue, Somerville MA",
@@ -2723,9 +2723,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.389363,
     "lon": -71.084658,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.09,
+    "walk_min": 1.6,
+    "walk_min_adj": 2
   },
   {
     "address": "50 Minnesota Avenue, Somerville MA",
@@ -2734,9 +2734,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388979,
     "lon": -71.084576,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.11,
+    "walk_min": 2.1,
+    "walk_min_adj": 3
   },
   {
     "address": "74 Minnesota Avenue, Somerville MA",
@@ -2745,9 +2745,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.389287,
     "lon": -71.084266,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.08,
+    "walk_min": 1.6,
+    "walk_min_adj": 2
   },
   {
     "address": "1 Montgomery Avenue, Somerville MA",
@@ -2756,9 +2756,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.390299,
     "lon": -71.090494,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.38,
+    "walk_min": 7.4,
+    "walk_min_adj": 9
   },
   {
     "address": "26 Montgomery Avenue, Somerville MA",
@@ -2767,9 +2767,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.390407,
     "lon": -71.090397,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.37,
+    "walk_min": 7.2,
+    "walk_min_adj": 9
   },
   {
     "address": "50 Montgomery Avenue, Somerville MA",
@@ -2778,9 +2778,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.390227,
     "lon": -71.090546,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.39,
+    "walk_min": 7.5,
+    "walk_min_adj": 9
   },
   {
     "address": "74 Montgomery Avenue, Somerville MA",
@@ -2789,9 +2789,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.390047,
     "lon": -71.090695,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.4,
+    "walk_min": 7.8,
+    "walk_min_adj": 9
   },
   {
     "address": "1 Morton Street, Somerville MA",
@@ -2800,9 +2800,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.381776,
     "lon": -71.087498,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.68,
+    "walk_min": 13.1,
+    "walk_min_adj": 15
   },
   {
     "address": "26 Morton Street, Somerville MA",
@@ -2811,9 +2811,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.38203,
     "lon": -71.087323,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.66,
+    "walk_min": 12.8,
+    "walk_min_adj": 15
   },
   {
     "address": "50 Morton Street, Somerville MA",
@@ -2822,9 +2822,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.382203,
     "lon": -71.087489,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.65,
+    "walk_min": 12.5,
+    "walk_min_adj": 15
   },
   {
     "address": "74 Morton Street, Somerville MA",
@@ -2833,9 +2833,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.382382,
     "lon": -71.087654,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.63,
+    "walk_min": 12.2,
+    "walk_min_adj": 14
   },
   {
     "address": "1 Myrtle Street, Somerville MA",
@@ -2844,9 +2844,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.381896,
     "lon": -71.08374,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.73,
+    "walk_min": 14.1,
+    "walk_min_adj": 16
   },
   {
     "address": "26 Myrtle Street, Somerville MA",
@@ -2855,9 +2855,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.382686,
     "lon": -71.084165,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.67,
+    "walk_min": 13.0,
+    "walk_min_adj": 15
   },
   {
     "address": "50 Myrtle Street, Somerville MA",
@@ -2866,9 +2866,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.383514,
     "lon": -71.08381,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.61,
+    "walk_min": 11.9,
+    "walk_min_adj": 14
   },
   {
     "address": "74 Myrtle Street, Somerville MA",
@@ -2877,9 +2877,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.384383,
     "lon": -71.083205,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.55,
+    "walk_min": 10.7,
+    "walk_min_adj": 13
   },
   {
     "address": "1 New Hampshire Avenue, Somerville MA",
@@ -2888,9 +2888,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.389057,
     "lon": -71.081853,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.19,
+    "walk_min": 3.8,
+    "walk_min_adj": 5
   },
   {
     "address": "26 New Hampshire Avenue, Somerville MA",
@@ -2899,9 +2899,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388868,
     "lon": -71.082083,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.18,
+    "walk_min": 3.4,
+    "walk_min_adj": 4
   },
   {
     "address": "50 New Hampshire Avenue, Somerville MA",
@@ -2910,9 +2910,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.389059,
     "lon": -71.081879,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.19,
+    "walk_min": 3.7,
+    "walk_min_adj": 5
   },
   {
     "address": "74 New Hampshire Avenue, Somerville MA",
@@ -2921,9 +2921,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.389484,
     "lon": -71.082031,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.18,
+    "walk_min": 3.6,
+    "walk_min_adj": 5
   },
   {
     "address": "1 Oliver Street, Somerville MA",
@@ -2932,9 +2932,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.383401,
     "lon": -71.085407,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.6,
+    "walk_min": 11.5,
+    "walk_min_adj": 13
   },
   {
     "address": "26 Oliver Street, Somerville MA",
@@ -2943,9 +2943,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.383901,
     "lon": -71.087211,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.54,
+    "walk_min": 10.4,
+    "walk_min_adj": 12
   },
   {
     "address": "50 Oliver Street, Somerville MA",
@@ -2954,9 +2954,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.383752,
     "lon": -71.088156,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.52,
+    "walk_min": 9.9,
+    "walk_min_adj": 12
   },
   {
     "address": "74 Oliver Street, Somerville MA",
@@ -2965,9 +2965,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.384125,
     "lon": -71.08831,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.49,
+    "walk_min": 9.5,
+    "walk_min_adj": 11
   },
   {
     "address": "1 Otis Street, Somerville MA",
@@ -2976,9 +2976,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386994,
     "lon": -71.087217,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.24,
+    "walk_min": 4.6,
+    "walk_min_adj": 6
   },
   {
     "address": "26 Otis Street, Somerville MA",
@@ -2987,9 +2987,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.387302,
     "lon": -71.088598,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.31,
+    "walk_min": 6.0,
+    "walk_min_adj": 7
   },
   {
     "address": "50 Otis Street, Somerville MA",
@@ -2998,9 +2998,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388379,
     "lon": -71.090627,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.42,
+    "walk_min": 8.2,
+    "walk_min_adj": 10
   },
   {
     "address": "74 Otis Street, Somerville MA",
@@ -3009,9 +3009,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388464,
     "lon": -71.090875,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.44,
+    "walk_min": 8.5,
+    "walk_min_adj": 10
   },
   {
     "address": "1 Palmer Avenue, Somerville MA",
@@ -3020,9 +3020,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.382733,
     "lon": -71.085458,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.65,
+    "walk_min": 12.6,
+    "walk_min_adj": 15
   },
   {
     "address": "26 Palmer Avenue, Somerville MA",
@@ -3031,9 +3031,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.382917,
     "lon": -71.085541,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.64,
+    "walk_min": 12.3,
+    "walk_min_adj": 14
   },
   {
     "address": "50 Palmer Avenue, Somerville MA",
@@ -3042,9 +3042,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.382957,
     "lon": -71.085669,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.63,
+    "walk_min": 12.2,
+    "walk_min_adj": 14
   },
   {
     "address": "74 Palmer Avenue, Somerville MA",
@@ -3053,9 +3053,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.382998,
     "lon": -71.085798,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.62,
+    "walk_min": 12.0,
+    "walk_min_adj": 14
   },
   {
     "address": "1 Pearl Street Place, Somerville MA",
@@ -3064,9 +3064,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386758,
     "lon": -71.089504,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.47,
+    "walk_min": 9.1,
+    "walk_min_adj": 11
   },
   {
     "address": "34 Pearl Street Place, Somerville MA",
@@ -3075,9 +3075,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386345,
     "lon": -71.089762,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.43,
+    "walk_min": 8.4,
+    "walk_min_adj": 10
   },
   {
     "address": "67 Pearl Street Place, Somerville MA",
@@ -3086,9 +3086,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386732,
     "lon": -71.089874,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.46,
+    "walk_min": 9.0,
+    "walk_min_adj": 11
   },
   {
     "address": "100 Pearl Street Place, Somerville MA",
@@ -3097,9 +3097,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386494,
     "lon": -71.089669,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.45,
+    "walk_min": 8.8,
+    "walk_min_adj": 10
   },
   {
     "address": "133 Pearl Street Place, Somerville MA",
@@ -3108,9 +3108,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.385957,
     "lon": -71.088118,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.35,
+    "walk_min": 6.7,
+    "walk_min_adj": 8
   },
   {
     "address": "166 Pearl Street Place, Somerville MA",
@@ -3119,9 +3119,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386643,
     "lon": -71.089576,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.46,
+    "walk_min": 9.0,
+    "walk_min_adj": 11
   },
   {
     "address": "1 Pearl Terrace, Somerville MA",
@@ -3130,9 +3130,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386303,
     "lon": -71.088634,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.41,
+    "walk_min": 7.9,
+    "walk_min_adj": 9
   },
   {
     "address": "34 Pearl Terrace, Somerville MA",
@@ -3141,9 +3141,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386038,
     "lon": -71.088766,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.38,
+    "walk_min": 7.3,
+    "walk_min_adj": 9
   },
   {
     "address": "67 Pearl Terrace, Somerville MA",
@@ -3152,9 +3152,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386399,
     "lon": -71.088915,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.41,
+    "walk_min": 7.9,
+    "walk_min_adj": 9
   },
   {
     "address": "100 Pearl Terrace, Somerville MA",
@@ -3163,9 +3163,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386182,
     "lon": -71.08869,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.4,
+    "walk_min": 7.7,
+    "walk_min_adj": 9
   },
   {
     "address": "133 Pearl Terrace, Somerville MA",
@@ -3174,9 +3174,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.385957,
     "lon": -71.088118,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.35,
+    "walk_min": 6.7,
+    "walk_min_adj": 8
   },
   {
     "address": "166 Pearl Terrace, Somerville MA",
@@ -3185,9 +3185,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386326,
     "lon": -71.088614,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.41,
+    "walk_min": 7.9,
+    "walk_min_adj": 9
   },
   {
     "address": "1 Pennsylvania Avenue, Somerville MA",
@@ -3196,9 +3196,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.387437,
     "lon": -71.081205,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.29,
+    "walk_min": 5.5,
+    "walk_min_adj": 7
   },
   {
     "address": "34 Pennsylvania Avenue, Somerville MA",
@@ -3207,9 +3207,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388045,
     "lon": -71.081262,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.24,
+    "walk_min": 4.7,
+    "walk_min_adj": 6
   },
   {
     "address": "67 Pennsylvania Avenue, Somerville MA",
@@ -3218,9 +3218,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.387978,
     "lon": -71.081559,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.24,
+    "walk_min": 4.7,
+    "walk_min_adj": 6
   },
   {
     "address": "100 Pennsylvania Avenue, Somerville MA",
@@ -3229,9 +3229,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.389596,
     "lon": -71.083506,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.1,
+    "walk_min": 1.9,
+    "walk_min_adj": 3
   },
   {
     "address": "133 Pennsylvania Avenue, Somerville MA",
@@ -3240,9 +3240,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.389703,
     "lon": -71.084327,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.04,
+    "walk_min": 0.8,
+    "walk_min_adj": 1
   },
   {
     "address": "166 Pennsylvania Avenue, Somerville MA",
@@ -3251,9 +3251,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.390046,
     "lon": -71.084325,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.03,
+    "walk_min": 0.6,
+    "walk_min_adj": 1
   },
   {
     "address": "1 Perkins Street, Somerville MA",
@@ -3262,9 +3262,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.385367,
     "lon": -71.080618,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.52,
+    "walk_min": 10.0,
+    "walk_min_adj": 12
   },
   {
     "address": "34 Perkins Street, Somerville MA",
@@ -3273,9 +3273,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.384511,
     "lon": -71.078888,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.6,
+    "walk_min": 11.7,
+    "walk_min_adj": 14
   },
   {
     "address": "67 Perkins Street, Somerville MA",
@@ -3284,9 +3284,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.384528,
     "lon": -71.078856,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.6,
+    "walk_min": 11.6,
+    "walk_min_adj": 14
   },
   {
     "address": "100 Perkins Street, Somerville MA",
@@ -3295,9 +3295,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.384859,
     "lon": -71.080777,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.51,
+    "walk_min": 9.9,
+    "walk_min_adj": 12
   },
   {
     "address": "133 Perkins Street, Somerville MA",
@@ -3306,9 +3306,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.385588,
     "lon": -71.082217,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.48,
+    "walk_min": 9.2,
+    "walk_min_adj": 11
   },
   {
     "address": "166 Perkins Street, Somerville MA",
@@ -3317,9 +3317,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.385705,
     "lon": -71.082901,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.44,
+    "walk_min": 8.5,
+    "walk_min_adj": 10
   },
   {
     "address": "1 Pinckney Place, Somerville MA",
@@ -3328,9 +3328,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.383132,
     "lon": -71.081947,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.64,
+    "walk_min": 12.3,
+    "walk_min_adj": 14
   },
   {
     "address": "26 Pinckney Place, Somerville MA",
@@ -3339,9 +3339,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.383185,
     "lon": -71.082155,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.63,
+    "walk_min": 12.2,
+    "walk_min_adj": 14
   },
   {
     "address": "50 Pinckney Place, Somerville MA",
@@ -3350,9 +3350,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.383142,
     "lon": -71.082044,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.63,
+    "walk_min": 12.2,
+    "walk_min_adj": 14
   },
   {
     "address": "74 Pinckney Place, Somerville MA",
@@ -3361,9 +3361,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.383099,
     "lon": -71.081933,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.64,
+    "walk_min": 12.4,
+    "walk_min_adj": 15
   },
   {
     "address": "1 Pinckney Street, Somerville MA",
@@ -3372,9 +3372,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.382476,
     "lon": -71.082191,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.68,
+    "walk_min": 13.2,
+    "walk_min_adj": 15
   },
   {
     "address": "26 Pinckney Street, Somerville MA",
@@ -3383,9 +3383,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.383158,
     "lon": -71.082581,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.64,
+    "walk_min": 12.4,
+    "walk_min_adj": 15
   },
   {
     "address": "50 Pinckney Street, Somerville MA",
@@ -3394,9 +3394,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.384213,
     "lon": -71.081822,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.56,
+    "walk_min": 10.8,
+    "walk_min_adj": 13
   },
   {
     "address": "74 Pinckney Street, Somerville MA",
@@ -3405,9 +3405,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.384646,
     "lon": -71.081142,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.52,
+    "walk_min": 10.0,
+    "walk_min_adj": 12
   },
   {
     "address": "1 Remick Court, Somerville MA",
@@ -3416,9 +3416,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386883,
     "lon": -71.083314,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.32,
+    "walk_min": 6.1,
+    "walk_min_adj": 7
   },
   {
     "address": "26 Remick Court, Somerville MA",
@@ -3427,9 +3427,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.38675,
     "lon": -71.083639,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.31,
+    "walk_min": 6.0,
+    "walk_min_adj": 7
   },
   {
     "address": "50 Remick Court, Somerville MA",
@@ -3438,9 +3438,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386708,
     "lon": -71.083538,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.33,
+    "walk_min": 6.3,
+    "walk_min_adj": 8
   },
   {
     "address": "74 Remick Court, Somerville MA",
@@ -3449,9 +3449,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386666,
     "lon": -71.083437,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.34,
+    "walk_min": 6.6,
+    "walk_min_adj": 8
   },
   {
     "address": "1 Rhode Island Avenue, Somerville MA",
@@ -3460,9 +3460,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.389688,
     "lon": -71.083006,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.12,
+    "walk_min": 2.3,
+    "walk_min_adj": 3
   },
   {
     "address": "26 Rhode Island Avenue, Somerville MA",
@@ -3471,9 +3471,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.389476,
     "lon": -71.083209,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.1,
+    "walk_min": 2.0,
+    "walk_min_adj": 3
   },
   {
     "address": "50 Rhode Island Avenue, Somerville MA",
@@ -3482,9 +3482,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.389645,
     "lon": -71.08304,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.12,
+    "walk_min": 2.3,
+    "walk_min_adj": 3
   },
   {
     "address": "74 Rhode Island Avenue, Somerville MA",
@@ -3493,9 +3493,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.390042,
     "lon": -71.082926,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.13,
+    "walk_min": 2.5,
+    "walk_min_adj": 3
   },
   {
     "address": "1 Royce Place, Somerville MA",
@@ -3504,9 +3504,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388259,
     "lon": -71.087023,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.18,
+    "walk_min": 3.4,
+    "walk_min_adj": 4
   },
   {
     "address": "26 Royce Place, Somerville MA",
@@ -3515,9 +3515,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.387903,
     "lon": -71.0873,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.22,
+    "walk_min": 4.3,
+    "walk_min_adj": 5
   },
   {
     "address": "50 Royce Place, Somerville MA",
@@ -3526,9 +3526,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388014,
     "lon": -71.087218,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.24,
+    "walk_min": 4.7,
+    "walk_min_adj": 6
   },
   {
     "address": "74 Royce Place, Somerville MA",
@@ -3537,9 +3537,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388124,
     "lon": -71.087136,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.25,
+    "walk_min": 4.8,
+    "walk_min_adj": 6
   },
   {
     "address": "1 Rush Street, Somerville MA",
@@ -3548,9 +3548,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.387226,
     "lon": -71.085532,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.23,
+    "walk_min": 4.4,
+    "walk_min_adj": 5
   },
   {
     "address": "26 Rush Street, Somerville MA",
@@ -3559,9 +3559,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386936,
     "lon": -71.085716,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.25,
+    "walk_min": 4.8,
+    "walk_min_adj": 6
   },
   {
     "address": "50 Rush Street, Somerville MA",
@@ -3570,9 +3570,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.385131,
     "lon": -71.086969,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.39,
+    "walk_min": 7.6,
+    "walk_min_adj": 9
   },
   {
     "address": "74 Rush Street, Somerville MA",
@@ -3581,9 +3581,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.384748,
     "lon": -71.087259,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.42,
+    "walk_min": 8.1,
+    "walk_min_adj": 10
   },
   {
     "address": "1 Sunnyside Avenue, Somerville MA",
@@ -3592,9 +3592,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388406,
     "lon": -71.091399,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.48,
+    "walk_min": 9.2,
+    "walk_min_adj": 11
   },
   {
     "address": "26 Sunnyside Avenue, Somerville MA",
@@ -3603,9 +3603,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388393,
     "lon": -71.092222,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.52,
+    "walk_min": 10.0,
+    "walk_min_adj": 12
   },
   {
     "address": "50 Sunnyside Avenue, Somerville MA",
@@ -3614,9 +3614,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388297,
     "lon": -71.091933,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.5,
+    "walk_min": 9.7,
+    "walk_min_adj": 11
   },
   {
     "address": "74 Sunnyside Avenue, Somerville MA",
@@ -3625,9 +3625,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388198,
     "lon": -71.091643,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.48,
+    "walk_min": 9.4,
+    "walk_min_adj": 11
   },
   {
     "address": "1 Tufts Street, Somerville MA",
@@ -3636,9 +3636,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.381563,
     "lon": -71.087856,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.68,
+    "walk_min": 13.2,
+    "walk_min_adj": 15
   },
   {
     "address": "26 Tufts Street, Somerville MA",
@@ -3647,9 +3647,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.38219,
     "lon": -71.088473,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.63,
+    "walk_min": 12.2,
+    "walk_min_adj": 14
   },
   {
     "address": "50 Tufts Street, Somerville MA",
@@ -3658,9 +3658,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.382172,
     "lon": -71.088894,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.62,
+    "walk_min": 12.0,
+    "walk_min_adj": 14
   },
   {
     "address": "74 Tufts Street, Somerville MA",
@@ -3669,9 +3669,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.383214,
     "lon": -71.08945,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.54,
+    "walk_min": 10.5,
+    "walk_min_adj": 12
   },
   {
     "address": "1 Vermont Avenue, Somerville MA",
@@ -3680,9 +3680,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.3893,
     "lon": -71.082496,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.15,
+    "walk_min": 3.0,
+    "walk_min_adj": 4
   },
   {
     "address": "26 Vermont Avenue, Somerville MA",
@@ -3691,9 +3691,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.389101,
     "lon": -71.08271,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.14,
+    "walk_min": 2.7,
+    "walk_min_adj": 4
   },
   {
     "address": "50 Vermont Avenue, Somerville MA",
@@ -3702,9 +3702,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.389223,
     "lon": -71.082602,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.14,
+    "walk_min": 2.8,
+    "walk_min_adj": 4
   },
   {
     "address": "74 Vermont Avenue, Somerville MA",
@@ -3713,9 +3713,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.389346,
     "lon": -71.082494,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.15,
+    "walk_min": 3.0,
+    "walk_min_adj": 4
   },
   {
     "address": "1 Virginia Street, Somerville MA",
@@ -3724,9 +3724,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386291,
     "lon": -71.091042,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.53,
+    "walk_min": 10.2,
+    "walk_min_adj": 12
   },
   {
     "address": "26 Virginia Street, Somerville MA",
@@ -3735,9 +3735,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386431,
     "lon": -71.092373,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.61,
+    "walk_min": 11.8,
+    "walk_min_adj": 14
   },
   {
     "address": "50 Virginia Street, Somerville MA",
@@ -3746,9 +3746,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386489,
     "lon": -71.09167,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.56,
+    "walk_min": 10.9,
+    "walk_min_adj": 13
   },
   {
     "address": "74 Virginia Street, Somerville MA",
@@ -3757,9 +3757,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386604,
     "lon": -71.092037,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.58,
+    "walk_min": 11.3,
+    "walk_min_adj": 13
   },
   {
     "address": "1 Washington Avenue, Somerville MA",
@@ -3768,9 +3768,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.382355,
     "lon": -71.08108,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.78,
+    "walk_min": 15.1,
+    "walk_min_adj": 18
   },
   {
     "address": "26 Washington Avenue, Somerville MA",
@@ -3779,9 +3779,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.381798,
     "lon": -71.084418,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.76,
+    "walk_min": 14.6,
+    "walk_min_adj": 17
   },
   {
     "address": "50 Washington Avenue, Somerville MA",
@@ -3790,9 +3790,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.382006,
     "lon": -71.084419,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.78,
+    "walk_min": 15.0,
+    "walk_min_adj": 17
   },
   {
     "address": "74 Washington Avenue, Somerville MA",
@@ -3801,9 +3801,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.382213,
     "lon": -71.084419,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.79,
+    "walk_min": 15.2,
+    "walk_min_adj": 18
   },
   {
     "address": "1 Webster Street, Somerville MA",
@@ -3812,9 +3812,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.385485,
     "lon": -71.083766,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.44,
+    "walk_min": 8.5,
+    "walk_min_adj": 10
   },
   {
     "address": "26 Webster Street, Somerville MA",
@@ -3823,9 +3823,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.385785,
     "lon": -71.084718,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.4,
+    "walk_min": 7.6,
+    "walk_min_adj": 9
   },
   {
     "address": "50 Webster Street, Somerville MA",
@@ -3834,9 +3834,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.385863,
     "lon": -71.084977,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.38,
+    "walk_min": 7.3,
+    "walk_min_adj": 9
   },
   {
     "address": "74 Webster Street, Somerville MA",
@@ -3845,9 +3845,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.385941,
     "lon": -71.085236,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.37,
+    "walk_min": 7.1,
+    "walk_min_adj": 9
   },
   {
     "address": "1 Wesley Street, Somerville MA",
@@ -3856,9 +3856,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.386997,
     "lon": -71.091128,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.51,
+    "walk_min": 9.8,
+    "walk_min_adj": 12
   },
   {
     "address": "26 Wesley Street, Somerville MA",
@@ -3867,9 +3867,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.387969,
     "lon": -71.090928,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.45,
+    "walk_min": 8.7,
+    "walk_min_adj": 10
   },
   {
     "address": "50 Wesley Street, Somerville MA",
@@ -3878,9 +3878,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.387436,
     "lon": -71.090877,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.47,
+    "walk_min": 9.2,
+    "walk_min_adj": 11
   },
   {
     "address": "74 Wesley Street, Somerville MA",
@@ -3889,9 +3889,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.387779,
     "lon": -71.09068,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.45,
+    "walk_min": 8.7,
+    "walk_min_adj": 10
   },
   {
     "address": "1 Wheeler Street, Somerville MA",
@@ -3900,9 +3900,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.384039,
     "lon": -71.08067,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.59,
+    "walk_min": 11.5,
+    "walk_min_adj": 13
   },
   {
     "address": "26 Wheeler Street, Somerville MA",
@@ -3911,9 +3911,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.38434,
     "lon": -71.080625,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.57,
+    "walk_min": 10.9,
+    "walk_min_adj": 13
   },
   {
     "address": "50 Wheeler Street, Somerville MA",
@@ -3922,9 +3922,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.384436,
     "lon": -71.080863,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.55,
+    "walk_min": 10.7,
+    "walk_min_adj": 13
   },
   {
     "address": "74 Wheeler Street, Somerville MA",
@@ -3933,9 +3933,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.384538,
     "lon": -71.081101,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.54,
+    "walk_min": 10.4,
+    "walk_min_adj": 12
   },
   {
     "address": "1 Wigglesworth Street, Somerville MA",
@@ -3944,9 +3944,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.387283,
     "lon": -71.091664,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.53,
+    "walk_min": 10.3,
+    "walk_min_adj": 12
   },
   {
     "address": "26 Wigglesworth Street, Somerville MA",
@@ -3955,9 +3955,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388102,
     "lon": -71.091604,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.49,
+    "walk_min": 9.4,
+    "walk_min_adj": 11
   },
   {
     "address": "50 Wigglesworth Street, Somerville MA",
@@ -3966,9 +3966,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388574,
     "lon": -71.090912,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.44,
+    "walk_min": 8.5,
+    "walk_min_adj": 10
   },
   {
     "address": "74 Wigglesworth Street, Somerville MA",
@@ -3977,9 +3977,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388737,
     "lon": -71.090815,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.43,
+    "walk_min": 8.3,
+    "walk_min_adj": 10
   },
   {
     "address": "1 Wisconsin Avenue, Somerville MA",
@@ -3988,9 +3988,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388405,
     "lon": -71.084154,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.17,
+    "walk_min": 3.3,
+    "walk_min_adj": 4
   },
   {
     "address": "26 Wisconsin Avenue, Somerville MA",
@@ -3999,9 +3999,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388948,
     "lon": -71.084174,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.13,
+    "walk_min": 2.6,
+    "walk_min_adj": 3
   },
   {
     "address": "50 Wisconsin Avenue, Somerville MA",
@@ -4010,9 +4010,9 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388664,
     "lon": -71.083946,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.15,
+    "walk_min": 2.9,
+    "walk_min_adj": 4
   },
   {
     "address": "74 Wisconsin Avenue, Somerville MA",
@@ -4021,8 +4021,8 @@
     "school": "EAST SOMERVILLE",
     "lat": 42.388959,
     "lon": -71.083646,
-    "walk_mi": null,
-    "walk_min": null,
-    "walk_min_adj": null
+    "walk_mi": 0.12,
+    "walk_min": 2.4,
+    "walk_min_adj": 3
   }
 ]
