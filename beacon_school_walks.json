@@ -1,0 +1,232 @@
+[
+  {
+    "address": "1 Beacon Street, Somerville MA",
+    "street": "Beacon Street",
+    "num": "1",
+    "lat": 42.3747327463791,
+    "lon": -71.10148097437495,
+    "walk_mi": 0.43,
+    "walk_min": 8.4,
+    "walk_min_adj": 10
+  },
+  {
+    "address": "65 Beacon Street, Somerville MA",
+    "street": "Beacon Street",
+    "num": "65",
+    "lat": 42.376603244118805,
+    "lon": -71.10368038574777,
+    "walk_mi": 0.41,
+    "walk_min": 7.9,
+    "walk_min_adj": 9
+  },
+  {
+    "address": "100 Beacon Street, Somerville MA",
+    "street": "Beacon Street",
+    "num": "100",
+    "lat": 42.37744338620677,
+    "lon": -71.10544516088167,
+    "walk_mi": 0.46,
+    "walk_min": 8.9,
+    "walk_min_adj": 11
+  },
+  {
+    "address": "150 Beacon Street, Somerville MA",
+    "street": "Beacon Street",
+    "num": "150",
+    "lat": 42.379210884201086,
+    "lon": -71.10764804738832,
+    "walk_mi": 0.52,
+    "walk_min": 10.0,
+    "walk_min_adj": 12
+  },
+  {
+    "address": "200 Beacon Street, Somerville MA",
+    "street": "Beacon Street",
+    "num": "200",
+    "lat": 42.38090505132721,
+    "lon": -71.10944357437462,
+    "walk_mi": 0.66,
+    "walk_min": 12.7,
+    "walk_min_adj": 15
+  },
+  {
+    "address": "250 Beacon Street, Somerville MA",
+    "street": "Beacon Street",
+    "num": "250",
+    "lat": 42.38223707156284,
+    "lon": -71.11126550136098,
+    "walk_mi": 0.79,
+    "walk_min": 15.3,
+    "walk_min_adj": 18
+  },
+  {
+    "address": "1 School Street, Somerville MA",
+    "street": "School Street",
+    "num": "1",
+    "lat": 42.382218921812125,
+    "lon": -71.10213329156613,
+    "walk_mi": 0.48,
+    "walk_min": 9.2,
+    "walk_min_adj": 11
+  },
+  {
+    "address": "45 School Street, Somerville MA",
+    "street": "School Street",
+    "num": "45",
+    "lat": 42.38363485085967,
+    "lon": -71.10071858087926,
+    "walk_mi": 0.59,
+    "walk_min": 11.4,
+    "walk_min_adj": 13
+  },
+  {
+    "address": "100 School Street, Somerville MA",
+    "street": "School Street",
+    "num": "100",
+    "lat": 42.38606436009031,
+    "lon": -71.0995591301964,
+    "walk_mi": 0.74,
+    "walk_min": 14.3,
+    "walk_min_adj": 17
+  },
+  {
+    "address": "120 School Street, Somerville MA",
+    "street": "School Street",
+    "num": "120",
+    "lat": 42.38681623335835,
+    "lon": -71.09908020320998,
+    "walk_mi": 0.82,
+    "walk_min": 15.8,
+    "walk_min_adj": 18
+  },
+  {
+    "address": "170 School Street, Somerville MA",
+    "street": "School Street",
+    "num": "170",
+    "lat": 42.389011262296926,
+    "lon": -71.09749233547733,
+    "walk_mi": 0.98,
+    "walk_min": 18.8,
+    "walk_min_adj": 22
+  },
+  {
+    "address": "216 School Street, Somerville MA",
+    "street": "School Street",
+    "num": "216",
+    "lat": 42.3910477367469,
+    "lon": -71.0962156039677,
+    "walk_mi": 1.12,
+    "walk_min": 21.7,
+    "walk_min_adj": 25
+  },
+  {
+    "address": "262 School Street, Somerville MA",
+    "street": "School Street",
+    "num": "262",
+    "lat": 42.39289793928532,
+    "lon": -71.09501933879869,
+    "walk_mi": 1.28,
+    "walk_min": 24.7,
+    "walk_min_adj": 28
+  },
+  {
+    "address": "1 Summer Street, Somerville MA",
+    "street": "Summer Street",
+    "num": "1",
+    "lat": 42.38213608611892,
+    "lon": -71.09778494853379,
+    "walk_mi": 0.42,
+    "walk_min": 8.1,
+    "walk_min_adj": 10
+  },
+  {
+    "address": "32 Summer Street, Somerville MA",
+    "street": "Summer Street",
+    "num": "32",
+    "lat": 42.38280911868896,
+    "lon": -71.09915662757945,
+    "walk_mi": 0.49,
+    "walk_min": 9.5,
+    "walk_min_adj": 11
+  },
+  {
+    "address": "46 Summer Street, Somerville MA",
+    "street": "Summer Street",
+    "num": "46",
+    "lat": 42.38337937698408,
+    "lon": -71.09969374892809,
+    "walk_mi": 0.53,
+    "walk_min": 10.2,
+    "walk_min_adj": 12
+  },
+  {
+    "address": "78 Summer Street, Somerville MA",
+    "street": "Summer Street",
+    "num": "78",
+    "lat": 42.38444625864465,
+    "lon": -71.10100312506334,
+    "walk_mi": 0.64,
+    "walk_min": 12.3,
+    "walk_min_adj": 14
+  },
+  {
+    "address": "112 Summer Street, Somerville MA",
+    "street": "Summer Street",
+    "num": "112",
+    "lat": 42.385104106330004,
+    "lon": -71.10275953555177,
+    "walk_mi": 0.74,
+    "walk_min": 14.2,
+    "walk_min_adj": 17
+  },
+  {
+    "address": "140 Summer Street, Somerville MA",
+    "street": "Summer Street",
+    "num": "140",
+    "lat": 42.38578847343691,
+    "lon": -71.10466207160475,
+    "walk_mi": 0.85,
+    "walk_min": 16.4,
+    "walk_min_adj": 19
+  },
+  {
+    "address": "166 Summer Street, Somerville MA",
+    "street": "Summer Street",
+    "num": "166",
+    "lat": 42.38635434673387,
+    "lon": -71.10654517933772,
+    "walk_mi": 0.95,
+    "walk_min": 18.4,
+    "walk_min_adj": 21
+  },
+  {
+    "address": "192 Summer Street, Somerville MA",
+    "street": "Summer Street",
+    "num": "192",
+    "lat": 42.38707359727317,
+    "lon": -71.10861254351234,
+    "walk_mi": 1.07,
+    "walk_min": 20.6,
+    "walk_min_adj": 24
+  },
+  {
+    "address": "210 Summer Street, Somerville MA",
+    "street": "Summer Street",
+    "num": "210",
+    "lat": 42.38794673033401,
+    "lon": -71.11018338552044,
+    "walk_mi": 1.18,
+    "walk_min": 22.7,
+    "walk_min_adj": 26
+  },
+  {
+    "address": "222 Summer Street, Somerville MA",
+    "street": "Summer Street",
+    "num": "222",
+    "lat": 42.388784861967345,
+    "lon": -71.11139907150978,
+    "walk_mi": 1.25,
+    "walk_min": 24.2,
+    "walk_min_adj": 28
+  }
+]

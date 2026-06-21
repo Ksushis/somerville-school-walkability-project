@@ -1,0 +1,8 @@
+zone,total_in_zone,mismatch_count,mismatch_pct,most_common_closer_school,avg_margin_mi,max_margin_mi,clustered_street_count,isolated_street_count
+West,413,66,16.0,Brown,0.155,0.396,21,4
+Kennedy,310,56,18.1,Brown,0.084,0.224,13,3
+Healey,228,50,21.9,East Somerville,0.169,0.53,11,9
+Winter Hill,340,47,13.8,Brown,0.079,0.42,13,10
+Argenziano,587,36,6.1,Winter Hill,0.093,0.584,8,10
+Brown,266,27,10.2,Kennedy,0.076,0.173,8,2
+East Somerville,378,18,4.8,Argenziano,0.11,0.696,4,6

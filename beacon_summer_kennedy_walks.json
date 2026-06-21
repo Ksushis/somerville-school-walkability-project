@@ -1,0 +1,46 @@
+[
+  {
+    "address": "250 Beacon Street, Somerville MA",
+    "street": "Beacon Street",
+    "num": "250",
+    "lat": 42.38223707156284,
+    "lon": -71.11126550136098,
+    "dest_school": "KENNEDY",
+    "walk_mi": 0.62,
+    "walk_min": 12.0,
+    "walk_min_adj": 14
+  },
+  {
+    "address": "192 Summer Street, Somerville MA",
+    "street": "Summer Street",
+    "num": "192",
+    "lat": 42.38707359727317,
+    "lon": -71.10861254351234,
+    "dest_school": "KENNEDY",
+    "walk_mi": 0.57,
+    "walk_min": 11.0,
+    "walk_min_adj": 13
+  },
+  {
+    "address": "210 Summer Street, Somerville MA",
+    "street": "Summer Street",
+    "num": "210",
+    "lat": 42.38794673033401,
+    "lon": -71.11018338552044,
+    "dest_school": "KENNEDY",
+    "walk_mi": 0.47,
+    "walk_min": 9.1,
+    "walk_min_adj": 11
+  },
+  {
+    "address": "222 Summer Street, Somerville MA",
+    "street": "Summer Street",
+    "num": "222",
+    "lat": 42.388784861967345,
+    "lon": -71.11139907150978,
+    "dest_school": "KENNEDY",
+    "walk_mi": 0.38,
+    "walk_min": 7.4,
+    "walk_min_adj": 9
+  }
+]

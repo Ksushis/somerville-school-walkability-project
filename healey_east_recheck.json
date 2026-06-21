@@ -1,0 +1,177 @@
+[
+  {
+    "address": "1 Bailey Road, Somerville MA",
+    "street": "Bailey Road",
+    "num": "1",
+    "lat": 42.394838,
+    "lon": -71.086551
+  },
+  {
+    "address": "301 Canal Street, Somerville MA",
+    "street": "Canal Street",
+    "num": "301",
+    "lat": 42.394217,
+    "lon": -71.079225
+  },
+  {
+    "address": "334 Canal Street, Somerville MA",
+    "street": "Canal Street",
+    "num": "334",
+    "lat": 42.394265,
+    "lon": -71.080154
+  },
+  {
+    "address": "367 Canal Street, Somerville MA",
+    "street": "Canal Street",
+    "num": "367",
+    "lat": 42.394515,
+    "lon": -71.078016
+  },
+  {
+    "address": "400 Canal Street, Somerville MA",
+    "street": "Canal Street",
+    "num": "400",
+    "lat": 42.394001,
+    "lon": -71.079317
+  },
+  {
+    "address": "433 Canal Street, Somerville MA",
+    "street": "Canal Street",
+    "num": "433",
+    "lat": 42.394247,
+    "lon": -71.080229
+  },
+  {
+    "address": "466 Canal Street, Somerville MA",
+    "street": "Canal Street",
+    "num": "466",
+    "lat": 42.393743,
+    "lon": -71.078713
+  },
+  {
+    "address": "499 Canal Street, Somerville MA",
+    "street": "Canal Street",
+    "num": "499",
+    "lat": 42.393743,
+    "lon": -71.078713
+  },
+  {
+    "address": "1 Derby Street, Somerville MA",
+    "street": "Derby Street",
+    "num": "1",
+    "lat": 42.39293,
+    "lon": -71.088911
+  },
+  {
+    "address": "301 Great River Road, Somerville MA",
+    "street": "Great River Road",
+    "num": "301",
+    "lat": 42.395751,
+    "lon": -71.080947
+  },
+  {
+    "address": "318 Great River Road, Somerville MA",
+    "street": "Great River Road",
+    "num": "318",
+    "lat": 42.395769,
+    "lon": -71.080573
+  },
+  {
+    "address": "335 Great River Road, Somerville MA",
+    "street": "Great River Road",
+    "num": "335",
+    "lat": 42.395537,
+    "lon": -71.080048
+  },
+  {
+    "address": "1 Puritan Road, Somerville MA",
+    "street": "Puritan Road",
+    "num": "1",
+    "lat": 42.396118,
+    "lon": -71.085954
+  },
+  {
+    "address": "1 Putnam Road, Somerville MA",
+    "street": "Putnam Road",
+    "num": "1",
+    "lat": 42.396428,
+    "lon": -71.085805
+  },
+  {
+    "address": "1 Ten Hills Road, Somerville MA",
+    "street": "Ten Hills Road",
+    "num": "1",
+    "lat": 42.39459,
+    "lon": -71.086252
+  },
+  {
+    "address": "34 Ten Hills Road, Somerville MA",
+    "street": "Ten Hills Road",
+    "num": "34",
+    "lat": 42.395524,
+    "lon": -71.085895
+  },
+  {
+    "address": "67 Ten Hills Road, Somerville MA",
+    "street": "Ten Hills Road",
+    "num": "67",
+    "lat": 42.396803,
+    "lon": -71.085476
+  },
+  {
+    "address": "34 Wheatland Street, Somerville MA",
+    "street": "Wheatland Street",
+    "num": "34",
+    "lat": 42.392297,
+    "lon": -71.089869
+  },
+  {
+    "address": "67 Wheatland Street, Somerville MA",
+    "street": "Wheatland Street",
+    "num": "67",
+    "lat": 42.392936,
+    "lon": -71.088423
+  },
+  {
+    "address": "100 Wheatland Street, Somerville MA",
+    "street": "Wheatland Street",
+    "num": "100",
+    "lat": 42.393869,
+    "lon": -71.087725
+  },
+  {
+    "address": "132 Wheatland Street, Somerville MA",
+    "street": "Wheatland Street",
+    "num": "132",
+    "lat": 42.393946,
+    "lon": -71.087626
+  },
+  {
+    "address": "165 Wheatland Street, Somerville MA",
+    "street": "Wheatland Street",
+    "num": "165",
+    "lat": 42.393947,
+    "lon": -71.087585
+  },
+  {
+    "address": "198 Wheatland Street, Somerville MA",
+    "street": "Wheatland Street",
+    "num": "198",
+    "lat": 42.393946,
+    "lon": -71.087626
+  },
+  {
+    "address": "650 Great River Road, Somerville MA",
+    "street": "Great River Road",
+    "num": "650",
+    "lat": 42.393011197025196,
+    "lon": -71.07770341855196
+  },
+  {
+    "address": "1 Gov. Winthrop Road, Somerville MA",
+    "street": "Gov. Winthrop Road",
+    "num": "1",
+    "lat": 42.39519197577029,
+    "lon": -71.08563404481608
+  }
+]

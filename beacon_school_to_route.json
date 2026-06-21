@@ -1,0 +1,163 @@
+[
+  {
+    "address": "1 Beacon Street, Somerville MA",
+    "street": "Beacon Street",
+    "num": "1",
+    "lat": 42.3747327463791,
+    "lon": -71.10148097437495
+  },
+  {
+    "address": "65 Beacon Street, Somerville MA",
+    "street": "Beacon Street",
+    "num": "65",
+    "lat": 42.376603244118805,
+    "lon": -71.10368038574777
+  },
+  {
+    "address": "100 Beacon Street, Somerville MA",
+    "street": "Beacon Street",
+    "num": "100",
+    "lat": 42.37744338620677,
+    "lon": -71.10544516088167
+  },
+  {
+    "address": "150 Beacon Street, Somerville MA",
+    "street": "Beacon Street",
+    "num": "150",
+    "lat": 42.379210884201086,
+    "lon": -71.10764804738832
+  },
+  {
+    "address": "200 Beacon Street, Somerville MA",
+    "street": "Beacon Street",
+    "num": "200",
+    "lat": 42.38090505132721,
+    "lon": -71.10944357437462
+  },
+  {
+    "address": "250 Beacon Street, Somerville MA",
+    "street": "Beacon Street",
+    "num": "250",
+    "lat": 42.38223707156284,
+    "lon": -71.11126550136098
+  },
+  {
+    "address": "1 School Street, Somerville MA",
+    "street": "School Street",
+    "num": "1",
+    "lat": 42.382218921812125,
+    "lon": -71.10213329156613
+  },
+  {
+    "address": "45 School Street, Somerville MA",
+    "street": "School Street",
+    "num": "45",
+    "lat": 42.38363485085967,
+    "lon": -71.10071858087926
+  },
+  {
+    "address": "100 School Street, Somerville MA",
+    "street": "School Street",
+    "num": "100",
+    "lat": 42.38606436009031,
+    "lon": -71.0995591301964
+  },
+  {
+    "address": "120 School Street, Somerville MA",
+    "street": "School Street",
+    "num": "120",
+    "lat": 42.38681623335835,
+    "lon": -71.09908020320998
+  },
+  {
+    "address": "170 School Street, Somerville MA",
+    "street": "School Street",
+    "num": "170",
+    "lat": 42.389011262296926,
+    "lon": -71.09749233547733
+  },
+  {
+    "address": "216 School Street, Somerville MA",
+    "street": "School Street",
+    "num": "216",
+    "lat": 42.3910477367469,
+    "lon": -71.0962156039677
+  },
+  {
+    "address": "262 School Street, Somerville MA",
+    "street": "School Street",
+    "num": "262",
+    "lat": 42.39289793928532,
+    "lon": -71.09501933879869
+  },
+  {
+    "address": "1 Summer Street, Somerville MA",
+    "street": "Summer Street",
+    "num": "1",
+    "lat": 42.38213608611892,
+    "lon": -71.09778494853379
+  },
+  {
+    "address": "32 Summer Street, Somerville MA",
+    "street": "Summer Street",
+    "num": "32",
+    "lat": 42.38280911868896,
+    "lon": -71.09915662757945
+  },
+  {
+    "address": "46 Summer Street, Somerville MA",
+    "street": "Summer Street",
+    "num": "46",
+    "lat": 42.38337937698408,
+    "lon": -71.09969374892809
+  },
+  {
+    "address": "78 Summer Street, Somerville MA",
+    "street": "Summer Street",
+    "num": "78",
+    "lat": 42.38444625864465,
+    "lon": -71.10100312506334
+  },
+  {
+    "address": "112 Summer Street, Somerville MA",
+    "street": "Summer Street",
+    "num": "112",
+    "lat": 42.385104106330004,
+    "lon": -71.10275953555177
+  },
+  {
+    "address": "140 Summer Street, Somerville MA",
+    "street": "Summer Street",
+    "num": "140",
+    "lat": 42.38578847343691,
+    "lon": -71.10466207160475
+  },
+  {
+    "address": "166 Summer Street, Somerville MA",
+    "street": "Summer Street",
+    "num": "166",
+    "lat": 42.38635434673387,
+    "lon": -71.10654517933772
+  },
+  {
+    "address": "192 Summer Street, Somerville MA",
+    "street": "Summer Street",
+    "num": "192",
+    "lat": 42.38707359727317,
+    "lon": -71.10861254351234
+  },
+  {
+    "address": "210 Summer Street, Somerville MA",
+    "street": "Summer Street",
+    "num": "210",
+    "lat": 42.38794673033401,
+    "lon": -71.11018338552044
+  },
+  {
+    "address": "222 Summer Street, Somerville MA",
+    "street": "Summer Street",
+    "num": "222",
+    "lat": 42.388784861967345,
+    "lon": -71.11139907150978
+  }
+]

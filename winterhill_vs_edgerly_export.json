@@ -1,0 +1,2762 @@
+[
+  {
+    "address": "5 Albion Street, Somerville MA 02145",
+    "street": "Albion Street 5-90",
+    "lat": 42.399122,
+    "lon": -71.095975,
+    "walk_min_own_school": 14,
+    "walk_min_edgerly": 25
+  },
+  {
+    "address": "90 Albion Street, Somerville MA 02145",
+    "street": "Albion Street 5-90",
+    "lat": 42.391175,
+    "lon": -71.107125,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 29
+  },
+  {
+    "address": "67 Benton Road, Somerville MA 02145",
+    "street": "Benton Road 67-85",
+    "lat": 42.389159,
+    "lon": -71.104942,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 26
+  },
+  {
+    "address": "85 Benton Road, Somerville MA 02145",
+    "street": "Benton Road 67-85",
+    "lat": 42.389688,
+    "lon": -71.10461,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 26
+  },
+  {
+    "address": "254 Broadway, Somerville MA 02145",
+    "street": "Broadway 254-514 even",
+    "lat": 42.391087,
+    "lon": -71.090533,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 9
+  },
+  {
+    "address": "514 Broadway, Somerville MA 02145",
+    "street": "Broadway 254-514 even",
+    "lat": 42.397542,
+    "lon": -71.105592,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 28
+  },
+  {
+    "address": "85 Central Street, Somerville MA 02145",
+    "street": "Central Street 85-197",
+    "lat": 42.388578,
+    "lon": -71.103077,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 24
+  },
+  {
+    "address": "197 Central Street, Somerville MA 02145",
+    "street": "Central Street 85-197",
+    "lat": 42.394216,
+    "lon": -71.099546,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 21
+  },
+  {
+    "address": "85 Centre Street, Somerville MA 02145",
+    "street": "Centre Street 85-200",
+    "lat": 42.391049,
+    "lon": -71.104613,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 25
+  },
+  {
+    "address": "200 Centre Street, Somerville MA 02145",
+    "street": "Centre Street 85-200",
+    "lat": 42.39088,
+    "lon": -71.10451,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 26
+  },
+  {
+    "address": "1 Hudson Street, Somerville MA 02145",
+    "street": "Hudson Street 1-92",
+    "lat": 42.39005,
+    "lon": -71.10523,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 27
+  },
+  {
+    "address": "92 Hudson Street, Somerville MA 02145",
+    "street": "Hudson Street 1-92",
+    "lat": 42.390625,
+    "lon": -71.10752,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 30
+  },
+  {
+    "address": "235 Lowell Street, Somerville MA 02145",
+    "street": "Lowell Street 235-366",
+    "lat": 42.39203,
+    "lon": -71.106407,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 28
+  },
+  {
+    "address": "366 Lowell Street, Somerville MA 02145",
+    "street": "Lowell Street 235-366",
+    "lat": 42.396253,
+    "lon": -71.103951,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 28
+  },
+  {
+    "address": "255 Medford Street, Somerville MA 02145",
+    "street": "Medford Street 255-515",
+    "lat": 42.384126,
+    "lon": -71.091754,
+    "walk_min_own_school": 15,
+    "walk_min_edgerly": 11
+  },
+  {
+    "address": "515 Medford Street, Somerville MA 02145",
+    "street": "Medford Street 255-515",
+    "lat": 42.396728,
+    "lon": -71.10368,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 27
+  },
+  {
+    "address": "1 Oxford Street, Somerville MA 02145",
+    "street": "Oxford Street 1-98",
+    "lat": 42.386318,
+    "lon": -71.099281,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 19
+  },
+  {
+    "address": "98 Oxford Street, Somerville MA 02145",
+    "street": "Oxford Street 1-98",
+    "lat": 42.387518,
+    "lon": -71.1035,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 25
+  },
+  {
+    "address": "214 Pearl Street, Somerville MA 02145",
+    "street": "Pearl Street 214-247",
+    "lat": 42.387456,
+    "lon": -71.09296,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 10
+  },
+  {
+    "address": "247 Pearl Street, Somerville MA 02145",
+    "street": "Pearl Street 214-247",
+    "lat": 42.388224,
+    "lon": -71.095473,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 12
+  },
+  {
+    "address": "121 School Street, Somerville MA 02145",
+    "street": "School Street 121-End",
+    "lat": 42.386654,
+    "lon": -71.099026,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 19
+  },
+  {
+    "address": "200 School Street, Somerville MA 02145",
+    "street": "School Street 121-End",
+    "lat": 42.390164,
+    "lon": -71.096767,
+    "walk_min_own_school": 7,
+    "walk_min_edgerly": 17
+  },
+  {
+    "address": "101 Walnut Street, Somerville MA 02145",
+    "street": "Walnut Street 101-185",
+    "lat": 42.386836,
+    "lon": -71.09353,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 10
+  },
+  {
+    "address": "185 Walnut Street, Somerville MA 02145",
+    "street": "Walnut Street 101-185",
+    "lat": 42.390621,
+    "lon": -71.091152,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 8
+  },
+  {
+    "address": "Charles Ryan Road, Somerville MA 02145",
+    "street": "Charles Ryan Road",
+    "lat": 42.395622,
+    "lon": -71.10722,
+    "walk_min_own_school": 15,
+    "walk_min_edgerly": 32
+  },
+  {
+    "address": "13 Cutler Street, Somerville MA 02145",
+    "street": "Cutler Street 12-14",
+    "lat": 42.39554,
+    "lon": -71.10665,
+    "walk_min_own_school": 15,
+    "walk_min_edgerly": 31
+  },
+  {
+    "address": "154 Highland Avenue, Somerville MA",
+    "street": "Highland Avenue 154",
+    "lat": 42.388277,
+    "lon": -71.10382,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 24
+  },
+  {
+    "address": "164 Highland Avenue, Somerville MA",
+    "street": "Highland Avenue 164",
+    "lat": 42.38856,
+    "lon": -71.104462,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 25
+  },
+  {
+    "address": "174 Highland Avenue, Somerville MA",
+    "street": "Highland Avenue 174",
+    "lat": 42.388785,
+    "lon": -71.105199,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 26
+  },
+  {
+    "address": "157 Highland Avenue, Somerville MA",
+    "street": "Highland Avenue 157",
+    "lat": 42.388777,
+    "lon": -71.103842,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 24
+  },
+  {
+    "address": "173 Highland Avenue, Somerville MA",
+    "street": "Highland Avenue 173",
+    "lat": 42.389159,
+    "lon": -71.104942,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 26
+  },
+  {
+    "address": "187 Highland Avenue, Somerville MA",
+    "street": "Highland Avenue 187",
+    "lat": 42.389467,
+    "lon": -71.105789,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 27
+  },
+  {
+    "address": "203 Highland Avenue, Somerville MA",
+    "street": "Highland Avenue 203",
+    "lat": 42.389941,
+    "lon": -71.106854,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 28
+  },
+  {
+    "address": "217 Highland Avenue, Somerville MA",
+    "street": "Highland Avenue 217",
+    "lat": 42.390242,
+    "lon": -71.107678,
+    "walk_min_own_school": 14,
+    "walk_min_edgerly": 29
+  },
+  {
+    "address": "1 Bartlett Street, Somerville MA",
+    "street": "Bartlett Street",
+    "lat": 42.39216,
+    "lon": -71.103023,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 25
+  },
+  {
+    "address": "34 Bartlett Street, Somerville MA",
+    "street": "Bartlett Street",
+    "lat": 42.393174,
+    "lon": -71.102802,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 26
+  },
+  {
+    "address": "67 Bartlett Street, Somerville MA",
+    "street": "Bartlett Street",
+    "lat": 42.394259,
+    "lon": -71.101907,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 24
+  },
+  {
+    "address": "100 Bartlett Street, Somerville MA",
+    "street": "Bartlett Street",
+    "lat": 42.395077,
+    "lon": -71.101374,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 23
+  },
+  {
+    "address": "133 Bartlett Street, Somerville MA",
+    "street": "Bartlett Street",
+    "lat": 42.395205,
+    "lon": -71.101169,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 23
+  },
+  {
+    "address": "166 Bartlett Street, Somerville MA",
+    "street": "Bartlett Street",
+    "lat": 42.395442,
+    "lon": -71.100548,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 22
+  },
+  {
+    "address": "199 Bartlett Street, Somerville MA",
+    "street": "Bartlett Street",
+    "lat": 42.395591,
+    "lon": -71.100382,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 22
+  },
+  {
+    "address": "1 Bradford Avenue, Somerville MA",
+    "street": "Bradford Avenue",
+    "lat": 42.392286,
+    "lon": -71.094555,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 15
+  },
+  {
+    "address": "26 Bradford Avenue, Somerville MA",
+    "street": "Bradford Avenue",
+    "lat": 42.392368,
+    "lon": -71.094801,
+    "walk_min_own_school": 7,
+    "walk_min_edgerly": 14
+  },
+  {
+    "address": "50 Bradford Avenue, Somerville MA",
+    "street": "Bradford Avenue",
+    "lat": 42.392322,
+    "lon": -71.094673,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 15
+  },
+  {
+    "address": "74 Bradford Avenue, Somerville MA",
+    "street": "Bradford Avenue",
+    "lat": 42.392276,
+    "lon": -71.094544,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 15
+  },
+  {
+    "address": "99 Bradford Avenue, Somerville MA",
+    "street": "Bradford Avenue",
+    "lat": 42.392231,
+    "lon": -71.094408,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 15
+  },
+  {
+    "address": "1 Bradley Street, Somerville MA",
+    "street": "Bradley Street",
+    "lat": 42.387922,
+    "lon": -71.094507,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 11
+  },
+  {
+    "address": "26 Bradley Street, Somerville MA",
+    "street": "Bradley Street",
+    "lat": 42.388821,
+    "lon": -71.093938,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 11
+  },
+  {
+    "address": "50 Bradley Street, Somerville MA",
+    "street": "Bradley Street",
+    "lat": 42.389586,
+    "lon": -71.093912,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 11
+  },
+  {
+    "address": "74 Bradley Street, Somerville MA",
+    "street": "Bradley Street",
+    "lat": 42.389437,
+    "lon": -71.093543,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 11
+  },
+  {
+    "address": "99 Bradley Street, Somerville MA",
+    "street": "Bradley Street",
+    "lat": 42.389869,
+    "lon": -71.093731,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 11
+  },
+  {
+    "address": "1 Browning Road, Somerville MA",
+    "street": "Browning Road",
+    "lat": 42.393895,
+    "lon": -71.099577,
+    "walk_min_own_school": 5,
+    "walk_min_edgerly": 21
+  },
+  {
+    "address": "26 Browning Road, Somerville MA",
+    "street": "Browning Road",
+    "lat": 42.393513,
+    "lon": -71.09906,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 20
+  },
+  {
+    "address": "50 Browning Road, Somerville MA",
+    "street": "Browning Road",
+    "lat": 42.393957,
+    "lon": -71.098527,
+    "walk_min_own_school": 5,
+    "walk_min_edgerly": 19
+  },
+  {
+    "address": "74 Browning Road, Somerville MA",
+    "street": "Browning Road",
+    "lat": 42.393887,
+    "lon": -71.098184,
+    "walk_min_own_school": 5,
+    "walk_min_edgerly": 19
+  },
+  {
+    "address": "99 Browning Road, Somerville MA",
+    "street": "Browning Road",
+    "lat": 42.393791,
+    "lon": -71.097546,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 18
+  },
+  {
+    "address": "1 Cambria Street, Somerville MA",
+    "street": "Cambria Street",
+    "lat": 42.387714,
+    "lon": -71.104783,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 26
+  },
+  {
+    "address": "26 Cambria Street, Somerville MA",
+    "street": "Cambria Street",
+    "lat": 42.387621,
+    "lon": -71.105516,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 27
+  },
+  {
+    "address": "50 Cambria Street, Somerville MA",
+    "street": "Cambria Street",
+    "lat": 42.387788,
+    "lon": -71.105028,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 27
+  },
+  {
+    "address": "74 Cambria Street, Somerville MA",
+    "street": "Cambria Street",
+    "lat": 42.387935,
+    "lon": -71.105457,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 27
+  },
+  {
+    "address": "99 Cambria Street, Somerville MA",
+    "street": "Cambria Street",
+    "lat": 42.387976,
+    "lon": -71.105553,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 28
+  },
+  {
+    "address": "1 Central Road, Somerville MA",
+    "street": "Central Road",
+    "lat": 42.388746,
+    "lon": -71.102499,
+    "walk_min_own_school": 7,
+    "walk_min_edgerly": 23
+  },
+  {
+    "address": "26 Central Road, Somerville MA",
+    "street": "Central Road",
+    "lat": 42.389227,
+    "lon": -71.10218,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 25
+  },
+  {
+    "address": "50 Central Road, Somerville MA",
+    "street": "Central Road",
+    "lat": 42.388903,
+    "lon": -71.102043,
+    "walk_min_own_school": 7,
+    "walk_min_edgerly": 23
+  },
+  {
+    "address": "74 Central Road, Somerville MA",
+    "street": "Central Road",
+    "lat": 42.388837,
+    "lon": -71.101839,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 22
+  },
+  {
+    "address": "99 Central Road, Somerville MA",
+    "street": "Central Road",
+    "lat": 42.389325,
+    "lon": -71.102541,
+    "walk_min_own_school": 7,
+    "walk_min_edgerly": 23
+  },
+  {
+    "address": "1 Dartmouth Street, Somerville MA",
+    "street": "Dartmouth Street",
+    "lat": 42.389863,
+    "lon": -71.097636,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 16
+  },
+  {
+    "address": "26 Dartmouth Street, Somerville MA",
+    "street": "Dartmouth Street",
+    "lat": 42.391263,
+    "lon": -71.097208,
+    "walk_min_own_school": 5,
+    "walk_min_edgerly": 17
+  },
+  {
+    "address": "50 Dartmouth Street, Somerville MA",
+    "street": "Dartmouth Street",
+    "lat": 42.392679,
+    "lon": -71.096129,
+    "walk_min_own_school": 5,
+    "walk_min_edgerly": 16
+  },
+  {
+    "address": "74 Dartmouth Street, Somerville MA",
+    "street": "Dartmouth Street",
+    "lat": 42.392746,
+    "lon": -71.095651,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 16
+  },
+  {
+    "address": "99 Dartmouth Street, Somerville MA",
+    "street": "Dartmouth Street",
+    "lat": 42.393121,
+    "lon": -71.095351,
+    "walk_min_own_school": 7,
+    "walk_min_edgerly": 15
+  },
+  {
+    "address": "1 Direnzo Terrace, Somerville MA",
+    "street": "Direnzo Terrace",
+    "lat": 42.391708,
+    "lon": -71.10204,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 23
+  },
+  {
+    "address": "26 Direnzo Terrace, Somerville MA",
+    "street": "Direnzo Terrace",
+    "lat": 42.391759,
+    "lon": -71.102049,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 23
+  },
+  {
+    "address": "50 Direnzo Terrace, Somerville MA",
+    "street": "Direnzo Terrace",
+    "lat": 42.391638,
+    "lon": -71.102121,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 23
+  },
+  {
+    "address": "74 Direnzo Terrace, Somerville MA",
+    "street": "Direnzo Terrace",
+    "lat": 42.391556,
+    "lon": -71.102158,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 23
+  },
+  {
+    "address": "99 Direnzo Terrace, Somerville MA",
+    "street": "Direnzo Terrace",
+    "lat": 42.391607,
+    "lon": -71.102209,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 23
+  },
+  {
+    "address": "1 Evergreen Avenue, Somerville MA",
+    "street": "Evergreen Avenue",
+    "lat": 42.391036,
+    "lon": -71.094115,
+    "walk_min_own_school": 7,
+    "walk_min_edgerly": 13
+  },
+  {
+    "address": "26 Evergreen Avenue, Somerville MA",
+    "street": "Evergreen Avenue",
+    "lat": 42.391706,
+    "lon": -71.096036,
+    "walk_min_own_school": 5,
+    "walk_min_edgerly": 16
+  },
+  {
+    "address": "50 Evergreen Avenue, Somerville MA",
+    "street": "Evergreen Avenue",
+    "lat": 42.391793,
+    "lon": -71.097242,
+    "walk_min_own_school": 3,
+    "walk_min_edgerly": 17
+  },
+  {
+    "address": "74 Evergreen Avenue, Somerville MA",
+    "street": "Evergreen Avenue",
+    "lat": 42.39238,
+    "lon": -71.09796,
+    "walk_min_own_school": 2,
+    "walk_min_edgerly": 18
+  },
+  {
+    "address": "99 Evergreen Avenue, Somerville MA",
+    "street": "Evergreen Avenue",
+    "lat": 42.392393,
+    "lon": -71.098032,
+    "walk_min_own_school": 2,
+    "walk_min_edgerly": 18
+  },
+  {
+    "address": "1 Fennell Street, Somerville MA",
+    "street": "Fennell Street",
+    "lat": 42.396575,
+    "lon": -71.106386,
+    "walk_min_own_school": 15,
+    "walk_min_edgerly": 30
+  },
+  {
+    "address": "26 Fennell Street, Somerville MA",
+    "street": "Fennell Street",
+    "lat": 42.396423,
+    "lon": -71.106006,
+    "walk_min_own_school": 14,
+    "walk_min_edgerly": 29
+  },
+  {
+    "address": "50 Fennell Street, Somerville MA",
+    "street": "Fennell Street",
+    "lat": 42.396497,
+    "lon": -71.106182,
+    "walk_min_own_school": 15,
+    "walk_min_edgerly": 30
+  },
+  {
+    "address": "74 Fennell Street, Somerville MA",
+    "street": "Fennell Street",
+    "lat": 42.396571,
+    "lon": -71.106358,
+    "walk_min_own_school": 15,
+    "walk_min_edgerly": 30
+  },
+  {
+    "address": "99 Fennell Street, Somerville MA",
+    "street": "Fennell Street",
+    "lat": 42.396301,
+    "lon": -71.105049,
+    "walk_min_own_school": 14,
+    "walk_min_edgerly": 31
+  },
+  {
+    "address": "1 Fisk Avenue, Somerville MA",
+    "street": "Fisk Avenue",
+    "lat": 42.39642,
+    "lon": -71.104298,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 28
+  },
+  {
+    "address": "26 Fisk Avenue, Somerville MA",
+    "street": "Fisk Avenue",
+    "lat": 42.396433,
+    "lon": -71.10425,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 28
+  },
+  {
+    "address": "50 Fisk Avenue, Somerville MA",
+    "street": "Fisk Avenue",
+    "lat": 42.396616,
+    "lon": -71.104646,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 28
+  },
+  {
+    "address": "74 Fisk Avenue, Somerville MA",
+    "street": "Fisk Avenue",
+    "lat": 42.396797,
+    "lon": -71.105047,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 29
+  },
+  {
+    "address": "99 Fisk Avenue, Somerville MA",
+    "street": "Fisk Avenue",
+    "lat": 42.396846,
+    "lon": -71.105307,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 29
+  },
+  {
+    "address": "1 Forster Street, Somerville MA",
+    "street": "Forster Street",
+    "lat": 42.39312,
+    "lon": -71.098595,
+    "walk_min_own_school": 3,
+    "walk_min_edgerly": 20
+  },
+  {
+    "address": "26 Forster Street, Somerville MA",
+    "street": "Forster Street",
+    "lat": 42.393314,
+    "lon": -71.099147,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 21
+  },
+  {
+    "address": "50 Forster Street, Somerville MA",
+    "street": "Forster Street",
+    "lat": 42.393412,
+    "lon": -71.099369,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 21
+  },
+  {
+    "address": "74 Forster Street, Somerville MA",
+    "street": "Forster Street",
+    "lat": 42.393511,
+    "lon": -71.099592,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 21
+  },
+  {
+    "address": "99 Forster Street, Somerville MA",
+    "street": "Forster Street",
+    "lat": 42.393458,
+    "lon": -71.099386,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 21
+  },
+  {
+    "address": "1 Gibbens Street, Somerville MA",
+    "street": "Gibbens Street",
+    "lat": 42.388235,
+    "lon": -71.104448,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 26
+  },
+  {
+    "address": "26 Gibbens Street, Somerville MA",
+    "street": "Gibbens Street",
+    "lat": 42.38822,
+    "lon": -71.105308,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 27
+  },
+  {
+    "address": "50 Gibbens Street, Somerville MA",
+    "street": "Gibbens Street",
+    "lat": 42.388658,
+    "lon": -71.105671,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 27
+  },
+  {
+    "address": "74 Gibbens Street, Somerville MA",
+    "street": "Gibbens Street",
+    "lat": 42.388716,
+    "lon": -71.105834,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 27
+  },
+  {
+    "address": "99 Gibbens Street, Somerville MA",
+    "street": "Gibbens Street",
+    "lat": 42.388737,
+    "lon": -71.105966,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 28
+  },
+  {
+    "address": "1 Glenwood Road, Somerville MA",
+    "street": "Glenwood Road",
+    "lat": 42.392478,
+    "lon": -71.1037,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 26
+  },
+  {
+    "address": "34 Glenwood Road, Somerville MA",
+    "street": "Glenwood Road",
+    "lat": 42.393522,
+    "lon": -71.103379,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 27
+  },
+  {
+    "address": "67 Glenwood Road, Somerville MA",
+    "street": "Glenwood Road",
+    "lat": 42.394558,
+    "lon": -71.102568,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 26
+  },
+  {
+    "address": "100 Glenwood Road, Somerville MA",
+    "street": "Glenwood Road",
+    "lat": 42.395571,
+    "lon": -71.101904,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 24
+  },
+  {
+    "address": "133 Glenwood Road, Somerville MA",
+    "street": "Glenwood Road",
+    "lat": 42.395542,
+    "lon": -71.101898,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 24
+  },
+  {
+    "address": "166 Glenwood Road, Somerville MA",
+    "street": "Glenwood Road",
+    "lat": 42.395841,
+    "lon": -71.101324,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 23
+  },
+  {
+    "address": "199 Glenwood Road, Somerville MA",
+    "street": "Glenwood Road",
+    "lat": 42.395929,
+    "lon": -71.101257,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 23
+  },
+  {
+    "address": "1 Henderson Street, Somerville MA",
+    "street": "Henderson Street",
+    "lat": 42.395747,
+    "lon": -71.10586,
+    "walk_min_own_school": 14,
+    "walk_min_edgerly": 30
+  },
+  {
+    "address": "26 Henderson Street, Somerville MA",
+    "street": "Henderson Street",
+    "lat": 42.394984,
+    "lon": -71.106142,
+    "walk_min_own_school": 14,
+    "walk_min_edgerly": 31
+  },
+  {
+    "address": "50 Henderson Street, Somerville MA",
+    "street": "Henderson Street",
+    "lat": 42.394845,
+    "lon": -71.106554,
+    "walk_min_own_school": 14,
+    "walk_min_edgerly": 31
+  },
+  {
+    "address": "74 Henderson Street, Somerville MA",
+    "street": "Henderson Street",
+    "lat": 42.394747,
+    "lon": -71.106622,
+    "walk_min_own_school": 14,
+    "walk_min_edgerly": 31
+  },
+  {
+    "address": "99 Henderson Street, Somerville MA",
+    "street": "Henderson Street",
+    "lat": 42.394606,
+    "lon": -71.106652,
+    "walk_min_own_school": 14,
+    "walk_min_edgerly": 31
+  },
+  {
+    "address": "1 Hersey Street, Somerville MA",
+    "street": "Hersey Street",
+    "lat": 42.386579,
+    "lon": -71.101682,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 23
+  },
+  {
+    "address": "26 Hersey Street, Somerville MA",
+    "street": "Hersey Street",
+    "lat": 42.386416,
+    "lon": -71.101755,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 23
+  },
+  {
+    "address": "50 Hersey Street, Somerville MA",
+    "street": "Hersey Street",
+    "lat": 42.386571,
+    "lon": -71.101655,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 23
+  },
+  {
+    "address": "74 Hersey Street, Somerville MA",
+    "street": "Hersey Street",
+    "lat": 42.386727,
+    "lon": -71.101555,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 23
+  },
+  {
+    "address": "99 Hersey Street, Somerville MA",
+    "street": "Hersey Street",
+    "lat": 42.386505,
+    "lon": -71.102032,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 23
+  },
+  {
+    "address": "1 Hinckley Street, Somerville MA",
+    "street": "Hinckley Street",
+    "lat": 42.39731,
+    "lon": -71.105437,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 28
+  },
+  {
+    "address": "26 Hinckley Street, Somerville MA",
+    "street": "Hinckley Street",
+    "lat": 42.396613,
+    "lon": -71.10555,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 29
+  },
+  {
+    "address": "50 Hinckley Street, Somerville MA",
+    "street": "Hinckley Street",
+    "lat": 42.395831,
+    "lon": -71.105996,
+    "walk_min_own_school": 14,
+    "walk_min_edgerly": 30
+  },
+  {
+    "address": "74 Hinckley Street, Somerville MA",
+    "street": "Hinckley Street",
+    "lat": 42.395132,
+    "lon": -71.106499,
+    "walk_min_own_school": 14,
+    "walk_min_edgerly": 31
+  },
+  {
+    "address": "99 Hinckley Street, Somerville MA",
+    "street": "Hinckley Street",
+    "lat": 42.394992,
+    "lon": -71.106917,
+    "walk_min_own_school": 14,
+    "walk_min_edgerly": 32
+  },
+  {
+    "address": "1 Howe Street, Somerville MA",
+    "street": "Howe Street",
+    "lat": 42.38972,
+    "lon": -71.094926,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 13
+  },
+  {
+    "address": "26 Howe Street, Somerville MA",
+    "street": "Howe Street",
+    "lat": 42.389793,
+    "lon": -71.096179,
+    "walk_min_own_school": 7,
+    "walk_min_edgerly": 14
+  },
+  {
+    "address": "50 Howe Street, Somerville MA",
+    "street": "Howe Street",
+    "lat": 42.38965,
+    "lon": -71.095771,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 14
+  },
+  {
+    "address": "74 Howe Street, Somerville MA",
+    "street": "Howe Street",
+    "lat": 42.389507,
+    "lon": -71.095364,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 13
+  },
+  {
+    "address": "99 Howe Street, Somerville MA",
+    "street": "Howe Street",
+    "lat": 42.389505,
+    "lon": -71.094907,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 13
+  },
+  {
+    "address": "1 Kenneson Road, Somerville MA",
+    "street": "Kenneson Road",
+    "lat": 42.391061,
+    "lon": -71.091807,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 9
+  },
+  {
+    "address": "26 Kenneson Road, Somerville MA",
+    "street": "Kenneson Road",
+    "lat": 42.391157,
+    "lon": -71.091646,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 9
+  },
+  {
+    "address": "50 Kenneson Road, Somerville MA",
+    "street": "Kenneson Road",
+    "lat": 42.390963,
+    "lon": -71.091892,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 10
+  },
+  {
+    "address": "74 Kenneson Road, Somerville MA",
+    "street": "Kenneson Road",
+    "lat": 42.390752,
+    "lon": -71.092116,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 10
+  },
+  {
+    "address": "99 Kenneson Road, Somerville MA",
+    "street": "Kenneson Road",
+    "lat": 42.390757,
+    "lon": -71.092157,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 10
+  },
+  {
+    "address": "1 Lee Street, Somerville MA",
+    "street": "Lee Street",
+    "lat": 42.38986,
+    "lon": -71.099449,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 19
+  },
+  {
+    "address": "26 Lee Street, Somerville MA",
+    "street": "Lee Street",
+    "lat": 42.390009,
+    "lon": -71.099403,
+    "walk_min_own_school": 3,
+    "walk_min_edgerly": 19
+  },
+  {
+    "address": "50 Lee Street, Somerville MA",
+    "street": "Lee Street",
+    "lat": 42.39027,
+    "lon": -71.099216,
+    "walk_min_own_school": 3,
+    "walk_min_edgerly": 19
+  },
+  {
+    "address": "74 Lee Street, Somerville MA",
+    "street": "Lee Street",
+    "lat": 42.39053,
+    "lon": -71.099029,
+    "walk_min_own_school": 3,
+    "walk_min_edgerly": 19
+  },
+  {
+    "address": "1 Lowell Terrace, Somerville MA",
+    "street": "Lowell Terrace",
+    "lat": 42.396025,
+    "lon": -71.10446,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 29
+  },
+  {
+    "address": "67 Lowell Terrace, Somerville MA",
+    "street": "Lowell Terrace",
+    "lat": 42.395791,
+    "lon": -71.104488,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 28
+  },
+  {
+    "address": "133 Lowell Terrace, Somerville MA",
+    "street": "Lowell Terrace",
+    "lat": 42.388693,
+    "lon": -71.108793,
+    "walk_min_own_school": 17,
+    "walk_min_edgerly": 32
+  },
+  {
+    "address": "200 Lowell Terrace, Somerville MA",
+    "street": "Lowell Terrace",
+    "lat": 42.391174,
+    "lon": -71.107495,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 29
+  },
+  {
+    "address": "266 Lowell Terrace, Somerville MA",
+    "street": "Lowell Terrace",
+    "lat": 42.392576,
+    "lon": -71.106121,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 30
+  },
+  {
+    "address": "332 Lowell Terrace, Somerville MA",
+    "street": "Lowell Terrace",
+    "lat": 42.39524,
+    "lon": -71.104698,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 29
+  },
+  {
+    "address": "398 Lowell Terrace, Somerville MA",
+    "street": "Lowell Terrace",
+    "lat": 42.396019,
+    "lon": -71.103778,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 27
+  },
+  {
+    "address": "1 Madison Street, Somerville MA",
+    "street": "Madison Street",
+    "lat": 42.388722,
+    "lon": -71.101302,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 22
+  },
+  {
+    "address": "26 Madison Street, Somerville MA",
+    "street": "Madison Street",
+    "lat": 42.387912,
+    "lon": -71.099641,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 19
+  },
+  {
+    "address": "50 Madison Street, Somerville MA",
+    "street": "Madison Street",
+    "lat": 42.388399,
+    "lon": -71.100835,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 21
+  },
+  {
+    "address": "74 Madison Street, Somerville MA",
+    "street": "Madison Street",
+    "lat": 42.387741,
+    "lon": -71.099041,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 19
+  },
+  {
+    "address": "99 Madison Street, Somerville MA",
+    "street": "Madison Street",
+    "lat": 42.387606,
+    "lon": -71.098218,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 18
+  },
+  {
+    "address": "1 Maple Avenue, Somerville MA",
+    "street": "Maple Avenue",
+    "lat": 42.390752,
+    "lon": -71.096086,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 16
+  },
+  {
+    "address": "26 Maple Avenue, Somerville MA",
+    "street": "Maple Avenue",
+    "lat": 42.390515,
+    "lon": -71.095851,
+    "walk_min_own_school": 7,
+    "walk_min_edgerly": 16
+  },
+  {
+    "address": "50 Maple Avenue, Somerville MA",
+    "street": "Maple Avenue",
+    "lat": 42.390422,
+    "lon": -71.095575,
+    "walk_min_own_school": 7,
+    "walk_min_edgerly": 15
+  },
+  {
+    "address": "74 Maple Avenue, Somerville MA",
+    "street": "Maple Avenue",
+    "lat": 42.390318,
+    "lon": -71.095299,
+    "walk_min_own_school": 7,
+    "walk_min_edgerly": 15
+  },
+  {
+    "address": "99 Maple Avenue, Somerville MA",
+    "street": "Maple Avenue",
+    "lat": 42.390354,
+    "lon": -71.09497,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 15
+  },
+  {
+    "address": "1 Marshall Street, Somerville MA",
+    "street": "Marshall Street",
+    "lat": 42.392304,
+    "lon": -71.093418,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 12
+  },
+  {
+    "address": "26 Marshall Street, Somerville MA",
+    "street": "Marshall Street",
+    "lat": 42.391401,
+    "lon": -71.093268,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 12
+  },
+  {
+    "address": "50 Marshall Street, Somerville MA",
+    "street": "Marshall Street",
+    "lat": 42.390465,
+    "lon": -71.094453,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 14
+  },
+  {
+    "address": "74 Marshall Street, Somerville MA",
+    "street": "Marshall Street",
+    "lat": 42.389352,
+    "lon": -71.095168,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 13
+  },
+  {
+    "address": "99 Marshall Street, Somerville MA",
+    "street": "Marshall Street",
+    "lat": 42.388342,
+    "lon": -71.095276,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 13
+  },
+  {
+    "address": "1 Miner Street, Somerville MA",
+    "street": "Miner Street",
+    "lat": 42.391672,
+    "lon": -71.102663,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 24
+  },
+  {
+    "address": "26 Miner Street, Somerville MA",
+    "street": "Miner Street",
+    "lat": 42.391756,
+    "lon": -71.102424,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 24
+  },
+  {
+    "address": "50 Miner Street, Somerville MA",
+    "street": "Miner Street",
+    "lat": 42.391925,
+    "lon": -71.102309,
+    "walk_min_own_school": 7,
+    "walk_min_edgerly": 24
+  },
+  {
+    "address": "74 Miner Street, Somerville MA",
+    "street": "Miner Street",
+    "lat": 42.392094,
+    "lon": -71.102194,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 24
+  },
+  {
+    "address": "99 Miner Street, Somerville MA",
+    "street": "Miner Street",
+    "lat": 42.392347,
+    "lon": -71.102203,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 24
+  },
+  {
+    "address": "1 Montrose Street, Somerville MA",
+    "street": "Montrose Street",
+    "lat": 42.388238,
+    "lon": -71.097963,
+    "walk_min_own_school": 7,
+    "walk_min_edgerly": 17
+  },
+  {
+    "address": "26 Montrose Street, Somerville MA",
+    "street": "Montrose Street",
+    "lat": 42.388426,
+    "lon": -71.09933,
+    "walk_min_own_school": 7,
+    "walk_min_edgerly": 19
+  },
+  {
+    "address": "50 Montrose Street, Somerville MA",
+    "street": "Montrose Street",
+    "lat": 42.388893,
+    "lon": -71.100518,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 20
+  },
+  {
+    "address": "74 Montrose Street, Somerville MA",
+    "street": "Montrose Street",
+    "lat": 42.389219,
+    "lon": -71.100621,
+    "walk_min_own_school": 5,
+    "walk_min_edgerly": 20
+  },
+  {
+    "address": "99 Montrose Street, Somerville MA",
+    "street": "Montrose Street",
+    "lat": 42.389249,
+    "lon": -71.100757,
+    "walk_min_own_school": 5,
+    "walk_min_edgerly": 21
+  },
+  {
+    "address": "1 Mortimer Place, Somerville MA",
+    "street": "Mortimer Place",
+    "lat": 42.390513,
+    "lon": -71.093769,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 14
+  },
+  {
+    "address": "26 Mortimer Place, Somerville MA",
+    "street": "Mortimer Place",
+    "lat": 42.390354,
+    "lon": -71.094164,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 14
+  },
+  {
+    "address": "50 Mortimer Place, Somerville MA",
+    "street": "Mortimer Place",
+    "lat": 42.39031,
+    "lon": -71.094047,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 14
+  },
+  {
+    "address": "74 Mortimer Place, Somerville MA",
+    "street": "Mortimer Place",
+    "lat": 42.390267,
+    "lon": -71.093929,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 14
+  },
+  {
+    "address": "99 Mortimer Place, Somerville MA",
+    "street": "Mortimer Place",
+    "lat": 42.390316,
+    "lon": -71.093462,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 14
+  },
+  {
+    "address": "1 Murdock Street, Somerville MA",
+    "street": "Murdock Street",
+    "lat": 42.396128,
+    "lon": -71.109092,
+    "walk_min_own_school": 18,
+    "walk_min_edgerly": 35
+  },
+  {
+    "address": "26 Murdock Street, Somerville MA",
+    "street": "Murdock Street",
+    "lat": 42.395832,
+    "lon": -71.108905,
+    "walk_min_own_school": 18,
+    "walk_min_edgerly": 35
+  },
+  {
+    "address": "50 Murdock Street, Somerville MA",
+    "street": "Murdock Street",
+    "lat": 42.395117,
+    "lon": -71.10775,
+    "walk_min_own_school": 16,
+    "walk_min_edgerly": 34
+  },
+  {
+    "address": "74 Murdock Street, Somerville MA",
+    "street": "Murdock Street",
+    "lat": 42.394871,
+    "lon": -71.108203,
+    "walk_min_own_school": 16,
+    "walk_min_edgerly": 33
+  },
+  {
+    "address": "99 Murdock Street, Somerville MA",
+    "street": "Murdock Street",
+    "lat": 42.394654,
+    "lon": -71.108468,
+    "walk_min_own_school": 16,
+    "walk_min_edgerly": 33
+  },
+  {
+    "address": "1 Oakland Avenue, Somerville MA",
+    "street": "Oakland Avenue",
+    "lat": 42.392014,
+    "lon": -71.09524,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 14
+  },
+  {
+    "address": "26 Oakland Avenue, Somerville MA",
+    "street": "Oakland Avenue",
+    "lat": 42.391739,
+    "lon": -71.094885,
+    "walk_min_own_school": 7,
+    "walk_min_edgerly": 14
+  },
+  {
+    "address": "50 Oakland Avenue, Somerville MA",
+    "street": "Oakland Avenue",
+    "lat": 42.391607,
+    "lon": -71.094483,
+    "walk_min_own_school": 7,
+    "walk_min_edgerly": 13
+  },
+  {
+    "address": "74 Oakland Avenue, Somerville MA",
+    "street": "Oakland Avenue",
+    "lat": 42.391475,
+    "lon": -71.094082,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 13
+  },
+  {
+    "address": "99 Oakland Avenue, Somerville MA",
+    "street": "Oakland Avenue",
+    "lat": 42.391485,
+    "lon": -71.093633,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 12
+  },
+  {
+    "address": "1 Partridge Avenue, Somerville MA",
+    "street": "Partridge Avenue",
+    "lat": 42.392709,
+    "lon": -71.104258,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 26
+  },
+  {
+    "address": "26 Partridge Avenue, Somerville MA",
+    "street": "Partridge Avenue",
+    "lat": 42.393847,
+    "lon": -71.103871,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 28
+  },
+  {
+    "address": "50 Partridge Avenue, Somerville MA",
+    "street": "Partridge Avenue",
+    "lat": 42.394714,
+    "lon": -71.102849,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 26
+  },
+  {
+    "address": "74 Partridge Avenue, Somerville MA",
+    "street": "Partridge Avenue",
+    "lat": 42.395569,
+    "lon": -71.102632,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 25
+  },
+  {
+    "address": "99 Partridge Avenue, Somerville MA",
+    "street": "Partridge Avenue",
+    "lat": 42.396202,
+    "lon": -71.1018,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 24
+  },
+  {
+    "address": "1 Pembroke Court, Somerville MA",
+    "street": "Pembroke Court",
+    "lat": 42.390393,
+    "lon": -71.10069,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 21
+  },
+  {
+    "address": "26 Pembroke Court, Somerville MA",
+    "street": "Pembroke Court",
+    "lat": 42.390744,
+    "lon": -71.100817,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 21
+  },
+  {
+    "address": "50 Pembroke Court, Somerville MA",
+    "street": "Pembroke Court",
+    "lat": 42.390672,
+    "lon": -71.100863,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 21
+  },
+  {
+    "address": "74 Pembroke Court, Somerville MA",
+    "street": "Pembroke Court",
+    "lat": 42.390599,
+    "lon": -71.10091,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 21
+  },
+  {
+    "address": "99 Pembroke Court, Somerville MA",
+    "street": "Pembroke Court",
+    "lat": 42.390664,
+    "lon": -71.100819,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 21
+  },
+  {
+    "address": "1 Pembroke Street, Somerville MA",
+    "street": "Pembroke Street",
+    "lat": 42.39045,
+    "lon": -71.100241,
+    "walk_min_own_school": 3,
+    "walk_min_edgerly": 21
+  },
+  {
+    "address": "26 Pembroke Street, Somerville MA",
+    "street": "Pembroke Street",
+    "lat": 42.390997,
+    "lon": -71.100834,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 22
+  },
+  {
+    "address": "50 Pembroke Street, Somerville MA",
+    "street": "Pembroke Street",
+    "lat": 42.391091,
+    "lon": -71.101034,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 22
+  },
+  {
+    "address": "74 Pembroke Street, Somerville MA",
+    "street": "Pembroke Street",
+    "lat": 42.391186,
+    "lon": -71.101234,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 22
+  },
+  {
+    "address": "99 Pembroke Street, Somerville MA",
+    "street": "Pembroke Street",
+    "lat": 42.390886,
+    "lon": -71.101307,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 22
+  },
+  {
+    "address": "1 Richardson Terrace, Somerville MA",
+    "street": "Richardson Terrace",
+    "lat": 42.395911,
+    "lon": -71.104905,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 30
+  },
+  {
+    "address": "26 Richardson Terrace, Somerville MA",
+    "street": "Richardson Terrace",
+    "lat": 42.395737,
+    "lon": -71.104991,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 29
+  },
+  {
+    "address": "50 Richardson Terrace, Somerville MA",
+    "street": "Richardson Terrace",
+    "lat": 42.395857,
+    "lon": -71.10489,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 30
+  },
+  {
+    "address": "74 Richardson Terrace, Somerville MA",
+    "street": "Richardson Terrace",
+    "lat": 42.395978,
+    "lon": -71.10479,
+    "walk_min_own_school": 14,
+    "walk_min_edgerly": 30
+  },
+  {
+    "address": "99 Richardson Terrace, Somerville MA",
+    "street": "Richardson Terrace",
+    "lat": 42.395849,
+    "lon": -71.105202,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 30
+  },
+  {
+    "address": "1 Richdale Avenue, Somerville MA",
+    "street": "Richdale Avenue",
+    "lat": 42.388985,
+    "lon": -71.097521,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 16
+  },
+  {
+    "address": "26 Richdale Avenue, Somerville MA",
+    "street": "Richdale Avenue",
+    "lat": 42.389222,
+    "lon": -71.098779,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 17
+  },
+  {
+    "address": "50 Richdale Avenue, Somerville MA",
+    "street": "Richdale Avenue",
+    "lat": 42.389729,
+    "lon": -71.099856,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 19
+  },
+  {
+    "address": "74 Richdale Avenue, Somerville MA",
+    "street": "Richdale Avenue",
+    "lat": 42.390116,
+    "lon": -71.099966,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 19
+  },
+  {
+    "address": "99 Richdale Avenue, Somerville MA",
+    "street": "Richdale Avenue",
+    "lat": 42.390146,
+    "lon": -71.100018,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 19
+  },
+  {
+    "address": "1 Roberts Street, Somerville MA",
+    "street": "Roberts Street",
+    "lat": 42.396053,
+    "lon": -71.10645,
+    "walk_min_own_school": 15,
+    "walk_min_edgerly": 31
+  },
+  {
+    "address": "26 Roberts Street, Somerville MA",
+    "street": "Roberts Street",
+    "lat": 42.396066,
+    "lon": -71.106258,
+    "walk_min_own_school": 15,
+    "walk_min_edgerly": 30
+  },
+  {
+    "address": "50 Roberts Street, Somerville MA",
+    "street": "Roberts Street",
+    "lat": 42.39614,
+    "lon": -71.106435,
+    "walk_min_own_school": 15,
+    "walk_min_edgerly": 31
+  },
+  {
+    "address": "74 Roberts Street, Somerville MA",
+    "street": "Roberts Street",
+    "lat": 42.396214,
+    "lon": -71.106612,
+    "walk_min_own_school": 15,
+    "walk_min_edgerly": 31
+  },
+  {
+    "address": "99 Roberts Street, Somerville MA",
+    "street": "Roberts Street",
+    "lat": 42.39616,
+    "lon": -71.106679,
+    "walk_min_own_school": 15,
+    "walk_min_edgerly": 31
+  },
+  {
+    "address": "1 Robinson Street, Somerville MA",
+    "street": "Robinson Street",
+    "lat": 42.393506,
+    "lon": -71.102283,
+    "walk_min_own_school": 7,
+    "walk_min_edgerly": 25
+  },
+  {
+    "address": "26 Robinson Street, Somerville MA",
+    "street": "Robinson Street",
+    "lat": 42.392659,
+    "lon": -71.101853,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 24
+  },
+  {
+    "address": "50 Robinson Street, Somerville MA",
+    "street": "Robinson Street",
+    "lat": 42.392701,
+    "lon": -71.101815,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 24
+  },
+  {
+    "address": "74 Robinson Street, Somerville MA",
+    "street": "Robinson Street",
+    "lat": 42.39234,
+    "lon": -71.101558,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 23
+  },
+  {
+    "address": "99 Robinson Street, Somerville MA",
+    "street": "Robinson Street",
+    "lat": 42.392048,
+    "lon": -71.101184,
+    "walk_min_own_school": 5,
+    "walk_min_edgerly": 23
+  },
+  {
+    "address": "1 Sargent Avenue, Somerville MA",
+    "street": "Sargent Avenue",
+    "lat": 42.391545,
+    "lon": -71.092387,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 10
+  },
+  {
+    "address": "26 Sargent Avenue, Somerville MA",
+    "street": "Sargent Avenue",
+    "lat": 42.390961,
+    "lon": -71.093137,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 11
+  },
+  {
+    "address": "50 Sargent Avenue, Somerville MA",
+    "street": "Sargent Avenue",
+    "lat": 42.390018,
+    "lon": -71.092324,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 10
+  },
+  {
+    "address": "74 Sargent Avenue, Somerville MA",
+    "street": "Sargent Avenue",
+    "lat": 42.389804,
+    "lon": -71.092631,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 10
+  },
+  {
+    "address": "99 Sargent Avenue, Somerville MA",
+    "street": "Sargent Avenue",
+    "lat": 42.389599,
+    "lon": -71.092326,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 10
+  },
+  {
+    "address": "1 Sellon Place, Somerville MA",
+    "street": "Sellon Place",
+    "lat": 42.389347,
+    "lon": -71.095705,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 13
+  },
+  {
+    "address": "26 Sellon Place, Somerville MA",
+    "street": "Sellon Place",
+    "lat": 42.389285,
+    "lon": -71.095188,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 13
+  },
+  {
+    "address": "50 Sellon Place, Somerville MA",
+    "street": "Sellon Place",
+    "lat": 42.389314,
+    "lon": -71.095277,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 13
+  },
+  {
+    "address": "74 Sellon Place, Somerville MA",
+    "street": "Sellon Place",
+    "lat": 42.389342,
+    "lon": -71.095365,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 13
+  },
+  {
+    "address": "99 Sellon Place, Somerville MA",
+    "street": "Sellon Place",
+    "lat": 42.389347,
+    "lon": -71.095705,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 13
+  },
+  {
+    "address": "1 Sherman Court, Somerville MA",
+    "street": "Sherman Court",
+    "lat": 42.391401,
+    "lon": -71.093268,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 12
+  },
+  {
+    "address": "26 Sherman Court, Somerville MA",
+    "street": "Sherman Court",
+    "lat": 42.391248,
+    "lon": -71.093459,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 12
+  },
+  {
+    "address": "50 Sherman Court, Somerville MA",
+    "street": "Sherman Court",
+    "lat": 42.391154,
+    "lon": -71.093237,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 12
+  },
+  {
+    "address": "74 Sherman Court, Somerville MA",
+    "street": "Sherman Court",
+    "lat": 42.391056,
+    "lon": -71.093015,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 11
+  },
+  {
+    "address": "99 Sherman Court, Somerville MA",
+    "street": "Sherman Court",
+    "lat": 42.391204,
+    "lon": -71.093289,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 12
+  },
+  {
+    "address": "1 Stickney Avenue, Somerville MA",
+    "street": "Stickney Avenue",
+    "lat": 42.389508,
+    "lon": -71.096915,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 15
+  },
+  {
+    "address": "26 Stickney Avenue, Somerville MA",
+    "street": "Stickney Avenue",
+    "lat": 42.389185,
+    "lon": -71.09659,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 15
+  },
+  {
+    "address": "50 Stickney Avenue, Somerville MA",
+    "street": "Stickney Avenue",
+    "lat": 42.388989,
+    "lon": -71.096215,
+    "walk_min_own_school": 7,
+    "walk_min_edgerly": 14
+  },
+  {
+    "address": "74 Stickney Avenue, Somerville MA",
+    "street": "Stickney Avenue",
+    "lat": 42.388791,
+    "lon": -71.095833,
+    "walk_min_own_school": 7,
+    "walk_min_edgerly": 14
+  },
+  {
+    "address": "99 Stickney Avenue, Somerville MA",
+    "street": "Stickney Avenue",
+    "lat": 42.388728,
+    "lon": -71.095382,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 13
+  },
+  {
+    "address": "1 Sycamore Street, Somerville MA",
+    "street": "Sycamore Street",
+    "lat": 42.388292,
+    "lon": -71.101339,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 22
+  },
+  {
+    "address": "34 Sycamore Street, Somerville MA",
+    "street": "Sycamore Street",
+    "lat": 42.389251,
+    "lon": -71.101139,
+    "walk_min_own_school": 5,
+    "walk_min_edgerly": 21
+  },
+  {
+    "address": "67 Sycamore Street, Somerville MA",
+    "street": "Sycamore Street",
+    "lat": 42.390357,
+    "lon": -71.099887,
+    "walk_min_own_school": 3,
+    "walk_min_edgerly": 20
+  },
+  {
+    "address": "100 Sycamore Street, Somerville MA",
+    "street": "Sycamore Street",
+    "lat": 42.391805,
+    "lon": -71.099317,
+    "walk_min_own_school": 2,
+    "walk_min_edgerly": 20
+  },
+  {
+    "address": "133 Sycamore Street, Somerville MA",
+    "street": "Sycamore Street",
+    "lat": 42.392783,
+    "lon": -71.097964,
+    "walk_min_own_school": 3,
+    "walk_min_edgerly": 19
+  },
+  {
+    "address": "166 Sycamore Street, Somerville MA",
+    "street": "Sycamore Street",
+    "lat": 42.394111,
+    "lon": -71.097581,
+    "walk_min_own_school": 5,
+    "walk_min_edgerly": 18
+  },
+  {
+    "address": "199 Sycamore Street, Somerville MA",
+    "street": "Sycamore Street",
+    "lat": 42.393789,
+    "lon": -71.096905,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 16
+  },
+  {
+    "address": "1 Sycamore Terrace, Somerville MA",
+    "street": "Sycamore Terrace",
+    "lat": 42.393595,
+    "lon": -71.098506,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 19
+  },
+  {
+    "address": "26 Sycamore Terrace, Somerville MA",
+    "street": "Sycamore Terrace",
+    "lat": 42.393492,
+    "lon": -71.097986,
+    "walk_min_own_school": 3,
+    "walk_min_edgerly": 19
+  },
+  {
+    "address": "50 Sycamore Terrace, Somerville MA",
+    "street": "Sycamore Terrace",
+    "lat": 42.393547,
+    "lon": -71.098105,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 19
+  },
+  {
+    "address": "74 Sycamore Terrace, Somerville MA",
+    "street": "Sycamore Terrace",
+    "lat": 42.393602,
+    "lon": -71.098223,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 20
+  },
+  {
+    "address": "99 Sycamore Terrace, Somerville MA",
+    "street": "Sycamore Terrace",
+    "lat": 42.391797,
+    "lon": -71.099233,
+    "walk_min_own_school": 2,
+    "walk_min_edgerly": 20
+  },
+  {
+    "address": "1 Tennyson Street, Somerville MA",
+    "street": "Tennyson Street",
+    "lat": 42.39104,
+    "lon": -71.100365,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 22
+  },
+  {
+    "address": "26 Tennyson Street, Somerville MA",
+    "street": "Tennyson Street",
+    "lat": 42.391937,
+    "lon": -71.099778,
+    "walk_min_own_school": 2,
+    "walk_min_edgerly": 20
+  },
+  {
+    "address": "50 Tennyson Street, Somerville MA",
+    "street": "Tennyson Street",
+    "lat": 42.392294,
+    "lon": -71.099505,
+    "walk_min_own_school": 3,
+    "walk_min_edgerly": 21
+  },
+  {
+    "address": "74 Tennyson Street, Somerville MA",
+    "street": "Tennyson Street",
+    "lat": 42.392658,
+    "lon": -71.099235,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 21
+  },
+  {
+    "address": "99 Tennyson Street, Somerville MA",
+    "street": "Tennyson Street",
+    "lat": 42.392988,
+    "lon": -71.098969,
+    "walk_min_own_school": 3,
+    "walk_min_edgerly": 20
+  },
+  {
+    "address": "1 Thurston Street, Somerville MA",
+    "street": "Thurston Street",
+    "lat": 42.389577,
+    "lon": -71.098868,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 18
+  },
+  {
+    "address": "34 Thurston Street, Somerville MA",
+    "street": "Thurston Street",
+    "lat": 42.391059,
+    "lon": -71.097856,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 18
+  },
+  {
+    "address": "67 Thurston Street, Somerville MA",
+    "street": "Thurston Street",
+    "lat": 42.392101,
+    "lon": -71.097013,
+    "walk_min_own_school": 3,
+    "walk_min_edgerly": 17
+  },
+  {
+    "address": "100 Thurston Street, Somerville MA",
+    "street": "Thurston Street",
+    "lat": 42.393211,
+    "lon": -71.096821,
+    "walk_min_own_school": 5,
+    "walk_min_edgerly": 17
+  },
+  {
+    "address": "133 Thurston Street, Somerville MA",
+    "street": "Thurston Street",
+    "lat": 42.393367,
+    "lon": -71.096614,
+    "walk_min_own_school": 5,
+    "walk_min_edgerly": 17
+  },
+  {
+    "address": "166 Thurston Street, Somerville MA",
+    "street": "Thurston Street",
+    "lat": 42.393522,
+    "lon": -71.096141,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 16
+  },
+  {
+    "address": "199 Thurston Street, Somerville MA",
+    "street": "Thurston Street",
+    "lat": 42.393553,
+    "lon": -71.096077,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 16
+  },
+  {
+    "address": "1 Trull Street, Somerville MA",
+    "street": "Trull Street",
+    "lat": 42.38697,
+    "lon": -71.101577,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 22
+  },
+  {
+    "address": "84 Trull Street, Somerville MA",
+    "street": "Trull Street",
+    "lat": 42.395623,
+    "lon": -71.103353,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 26
+  },
+  {
+    "address": "167 Trull Street, Somerville MA",
+    "street": "Trull Street",
+    "lat": 42.393677,
+    "lon": -71.104826,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 28
+  },
+  {
+    "address": "250 Trull Street, Somerville MA",
+    "street": "Trull Street",
+    "lat": 42.393851,
+    "lon": -71.104209,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 29
+  },
+  {
+    "address": "332 Trull Street, Somerville MA",
+    "street": "Trull Street",
+    "lat": 42.395038,
+    "lon": -71.103618,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 27
+  },
+  {
+    "address": "415 Trull Street, Somerville MA",
+    "street": "Trull Street",
+    "lat": 42.393564,
+    "lon": -71.104852,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 28
+  },
+  {
+    "address": "498 Trull Street, Somerville MA",
+    "street": "Trull Street",
+    "lat": 42.395038,
+    "lon": -71.103618,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 27
+  },
+  {
+    "address": "2 Vinal Street, Somerville MA",
+    "street": "Vinal Street",
+    "lat": 42.396176,
+    "lon": -71.105271,
+    "walk_min_own_school": 14,
+    "walk_min_edgerly": 30
+  },
+  {
+    "address": "26 Vinal Street, Somerville MA",
+    "street": "Vinal Street",
+    "lat": 42.395819,
+    "lon": -71.105201,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 30
+  },
+  {
+    "address": "50 Vinal Street, Somerville MA",
+    "street": "Vinal Street",
+    "lat": 42.395937,
+    "lon": -71.10512,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 30
+  },
+  {
+    "address": "75 Vinal Street, Somerville MA",
+    "street": "Vinal Street",
+    "lat": 42.396376,
+    "lon": -71.105179,
+    "walk_min_own_school": 14,
+    "walk_min_edgerly": 31
+  },
+  {
+    "address": "99 Vinal Street, Somerville MA",
+    "street": "Vinal Street",
+    "lat": 42.396301,
+    "lon": -71.105049,
+    "walk_min_own_school": 14,
+    "walk_min_edgerly": 31
+  },
+  {
+    "address": "1 Waldo Street, Somerville MA",
+    "street": "Waldo Street",
+    "lat": 42.388829,
+    "lon": -71.104038,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 25
+  },
+  {
+    "address": "26 Waldo Street, Somerville MA",
+    "street": "Waldo Street",
+    "lat": 42.388846,
+    "lon": -71.104053,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 25
+  },
+  {
+    "address": "50 Waldo Street, Somerville MA",
+    "street": "Waldo Street",
+    "lat": 42.38905,
+    "lon": -71.103921,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 25
+  },
+  {
+    "address": "74 Waldo Street, Somerville MA",
+    "street": "Waldo Street",
+    "lat": 42.389254,
+    "lon": -71.10379,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 25
+  },
+  {
+    "address": "1 Walnut Road, Somerville MA",
+    "street": "Walnut Road",
+    "lat": 42.390349,
+    "lon": -71.091842,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 10
+  },
+  {
+    "address": "34 Walnut Road, Somerville MA",
+    "street": "Walnut Road",
+    "lat": 42.390556,
+    "lon": -71.092366,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 10
+  },
+  {
+    "address": "67 Walnut Road, Somerville MA",
+    "street": "Walnut Road",
+    "lat": 42.390258,
+    "lon": -71.092311,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 10
+  },
+  {
+    "address": "100 Walnut Road, Somerville MA",
+    "street": "Walnut Road",
+    "lat": 42.386931,
+    "lon": -71.093775,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 11
+  },
+  {
+    "address": "132 Walnut Road, Somerville MA",
+    "street": "Walnut Road",
+    "lat": 42.388533,
+    "lon": -71.092814,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 10
+  },
+  {
+    "address": "165 Walnut Road, Somerville MA",
+    "street": "Walnut Road",
+    "lat": 42.390194,
+    "lon": -71.092505,
+    "walk_min_own_school": 14,
+    "walk_min_edgerly": 10
+  },
+  {
+    "address": "198 Walnut Road, Somerville MA",
+    "street": "Walnut Road",
+    "lat": 42.390717,
+    "lon": -71.090683,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 8
+  },
+  {
+    "address": "1 Walter Terrace, Somerville MA",
+    "street": "Walter Terrace",
+    "lat": 42.389249,
+    "lon": -71.093129,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 10
+  },
+  {
+    "address": "26 Walter Terrace, Somerville MA",
+    "street": "Walter Terrace",
+    "lat": 42.389336,
+    "lon": -71.093021,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 10
+  },
+  {
+    "address": "50 Walter Terrace, Somerville MA",
+    "street": "Walter Terrace",
+    "lat": 42.389205,
+    "lon": -71.093116,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 10
+  },
+  {
+    "address": "74 Walter Terrace, Somerville MA",
+    "street": "Walter Terrace",
+    "lat": 42.389074,
+    "lon": -71.093211,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 10
+  },
+  {
+    "address": "99 Walter Terrace, Somerville MA",
+    "street": "Walter Terrace",
+    "lat": 42.388941,
+    "lon": -71.093341,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 10
+  },
+  {
+    "address": "1 Westwood Road, Somerville MA",
+    "street": "Westwood Road",
+    "lat": 42.386971,
+    "lon": -71.104752,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 27
+  },
+  {
+    "address": "26 Westwood Road, Somerville MA",
+    "street": "Westwood Road",
+    "lat": 42.387075,
+    "lon": -71.105967,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 28
+  },
+  {
+    "address": "50 Westwood Road, Somerville MA",
+    "street": "Westwood Road",
+    "lat": 42.386925,
+    "lon": -71.105525,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 28
+  },
+  {
+    "address": "74 Westwood Road, Somerville MA",
+    "street": "Westwood Road",
+    "lat": 42.386772,
+    "lon": -71.105085,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 27
+  },
+  {
+    "address": "99 Westwood Road, Somerville MA",
+    "street": "Westwood Road",
+    "lat": 42.386761,
+    "lon": -71.104595,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 27
+  },
+  {
+    "address": "1 Willoughby Street, Somerville MA",
+    "street": "Willoughby Street",
+    "lat": 42.389478,
+    "lon": -71.101896,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 22
+  },
+  {
+    "address": "26 Willoughby Street, Somerville MA",
+    "street": "Willoughby Street",
+    "lat": 42.389616,
+    "lon": -71.10127,
+    "walk_min_own_school": 5,
+    "walk_min_edgerly": 21
+  },
+  {
+    "address": "50 Willoughby Street, Somerville MA",
+    "street": "Willoughby Street",
+    "lat": 42.38944,
+    "lon": -71.101691,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 22
+  },
+  {
+    "address": "74 Willoughby Street, Somerville MA",
+    "street": "Willoughby Street",
+    "lat": 42.389311,
+    "lon": -71.101309,
+    "walk_min_own_school": 5,
+    "walk_min_edgerly": 21
+  },
+  {
+    "address": "99 Willoughby Street, Somerville MA",
+    "street": "Willoughby Street",
+    "lat": 42.38947,
+    "lon": -71.100898,
+    "walk_min_own_school": 5,
+    "walk_min_edgerly": 21
+  },
+  {
+    "address": "1 Woodbine Street, Somerville MA",
+    "street": "Woodbine Street",
+    "lat": 42.391226,
+    "lon": -71.104431,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 25
+  },
+  {
+    "address": "26 Woodbine Street, Somerville MA",
+    "street": "Woodbine Street",
+    "lat": 42.391451,
+    "lon": -71.105853,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 27
+  },
+  {
+    "address": "50 Woodbine Street, Somerville MA",
+    "street": "Woodbine Street",
+    "lat": 42.39135,
+    "lon": -71.105639,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 27
+  },
+  {
+    "address": "74 Woodbine Street, Somerville MA",
+    "street": "Woodbine Street",
+    "lat": 42.391136,
+    "lon": -71.105067,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 26
+  },
+  {
+    "address": "99 Woodbine Street, Somerville MA",
+    "street": "Woodbine Street",
+    "lat": 42.391057,
+    "lon": -71.104439,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 25
+  },
+  {
+    "address": "4 Berwick Street, Somerville MA",
+    "street": "Berwick Street",
+    "lat": 42.395073,
+    "lon": -71.107025,
+    "walk_min_own_school": 14,
+    "walk_min_edgerly": 32
+  },
+  {
+    "address": "11 Berwick Street, Somerville MA",
+    "street": "Berwick Street",
+    "lat": 42.39541,
+    "lon": -71.107206,
+    "walk_min_own_school": 15,
+    "walk_min_edgerly": 32
+  },
+  {
+    "address": "8 Charles E Ryan Road, Somerville MA",
+    "street": "Charles E Ryan Road",
+    "lat": 42.397433,
+    "lon": -71.105678,
+    "walk_min_own_school": 14,
+    "walk_min_edgerly": 28
+  },
+  {
+    "address": "18 Charles E Ryan Road, Somerville MA",
+    "street": "Charles E Ryan Road",
+    "lat": 42.397471,
+    "lon": -71.10607,
+    "walk_min_own_school": 14,
+    "walk_min_edgerly": 29
+  },
+  {
+    "address": "7 Fairview Terrace, Somerville MA",
+    "street": "Fairview Terrace",
+    "lat": 42.393017,
+    "lon": -71.097582,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 19
+  },
+  {
+    "address": "11 Jackson Road, Somerville MA",
+    "street": "Jackson Road",
+    "lat": 42.38937,
+    "lon": -71.092462,
+    "walk_min_own_school": 14,
+    "walk_min_edgerly": 9
+  },
+  {
+    "address": "28 Jackson Road, Somerville MA",
+    "street": "Jackson Road",
+    "lat": 42.389519,
+    "lon": -71.093276,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 10
+  },
+  {
+    "address": "45 Jackson Road, Somerville MA",
+    "street": "Jackson Road",
+    "lat": 42.390135,
+    "lon": -71.093514,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 11
+  },
+  {
+    "address": "3 Nashua Street, Somerville MA",
+    "street": "Nashua Street",
+    "lat": 42.39559,
+    "lon": -71.105517,
+    "walk_min_own_school": 14,
+    "walk_min_edgerly": 30
+  },
+  {
+    "address": "22 Nashua Street, Somerville MA",
+    "street": "Nashua Street",
+    "lat": 42.394819,
+    "lon": -71.106081,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 31
+  },
+  {
+    "address": "40 Nashua Street, Somerville MA",
+    "street": "Nashua Street",
+    "lat": 42.394081,
+    "lon": -71.106238,
+    "walk_min_own_school": 14,
+    "walk_min_edgerly": 31
+  },
+  {
+    "address": "1 Norwood Avenue, Somerville MA",
+    "street": "Norwood Avenue",
+    "lat": 42.395841,
+    "lon": -71.102787,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 25
+  },
+  {
+    "address": "23 Norwood Avenue, Somerville MA",
+    "street": "Norwood Avenue",
+    "lat": 42.396376,
+    "lon": -71.102397,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 24
+  },
+  {
+    "address": "6 Radcliffe Road, Somerville MA",
+    "street": "Radcliffe Road",
+    "lat": 42.388276,
+    "lon": -71.093264,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 10
+  },
+  {
+    "address": "25 Radcliffe Road, Somerville MA",
+    "street": "Radcliffe Road",
+    "lat": 42.388904,
+    "lon": -71.093852,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 11
+  },
+  {
+    "address": "44 Radcliffe Road, Somerville MA",
+    "street": "Radcliffe Road",
+    "lat": 42.38913,
+    "lon": -71.094937,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 12
+  },
+  {
+    "address": "5 Vernon Street, Somerville MA",
+    "street": "Vernon Street",
+    "lat": 42.391199,
+    "lon": -71.10199,
+    "walk_min_own_school": 5,
+    "walk_min_edgerly": 23
+  },
+  {
+    "address": "31 Vernon Street, Somerville MA",
+    "street": "Vernon Street",
+    "lat": 42.391821,
+    "lon": -71.102759,
+    "walk_min_own_school": 7,
+    "walk_min_edgerly": 24
+  },
+  {
+    "address": "56 Vernon Street, Somerville MA",
+    "street": "Vernon Street",
+    "lat": 42.392155,
+    "lon": -71.10391,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 25
+  },
+  {
+    "address": "82 Vernon Street, Somerville MA",
+    "street": "Vernon Street",
+    "lat": 42.392736,
+    "lon": -71.104736,
+    "walk_min_own_school": 9,
+    "walk_min_edgerly": 27
+  },
+  {
+    "address": "108 Vernon Street, Somerville MA",
+    "street": "Vernon Street",
+    "lat": 42.393306,
+    "lon": -71.105648,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 28
+  },
+  {
+    "address": "5 Wilton Street, Somerville MA",
+    "street": "Wilton Street",
+    "lat": 42.394593,
+    "lon": -71.105343,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 30
+  },
+  {
+    "address": "15 Wilton Street, Somerville MA",
+    "street": "Wilton Street",
+    "lat": 42.394623,
+    "lon": -71.105584,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 30
+  },
+  {
+    "address": "5 James Street, Somerville MA",
+    "street": "James Street",
+    "lat": 42.387722,
+    "lon": -71.09412,
+    "walk_min_own_school": 10,
+    "walk_min_edgerly": 11
+  },
+  {
+    "address": "18 James Street, Somerville MA",
+    "street": "James Street",
+    "lat": 42.388408,
+    "lon": -71.093663,
+    "walk_min_own_school": 11,
+    "walk_min_edgerly": 11
+  },
+  {
+    "address": "5 Adams Street, Somerville MA",
+    "street": "Adams Street",
+    "lat": 42.393321,
+    "lon": -71.100881,
+    "walk_min_own_school": 5,
+    "walk_min_edgerly": 23
+  },
+  {
+    "address": "27 Adams Street, Somerville MA",
+    "street": "Adams Street",
+    "lat": 42.394069,
+    "lon": -71.100402,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 23
+  },
+  {
+    "address": "49 Adams Street, Somerville MA",
+    "street": "Adams Street",
+    "lat": 42.394523,
+    "lon": -71.100507,
+    "walk_min_own_school": 7,
+    "walk_min_edgerly": 22
+  },
+  {
+    "address": "71 Adams Street, Somerville MA",
+    "street": "Adams Street",
+    "lat": 42.3953,
+    "lon": -71.09955,
+    "walk_min_own_school": 8,
+    "walk_min_edgerly": 21
+  },
+  {
+    "address": "7 Ames Street, Somerville MA",
+    "street": "Ames Street",
+    "lat": 42.39226,
+    "lon": -71.101484,
+    "walk_min_own_school": 5,
+    "walk_min_edgerly": 23
+  },
+  {
+    "address": "24 Ames Street, Somerville MA",
+    "street": "Ames Street",
+    "lat": 42.392456,
+    "lon": -71.102043,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 24
+  },
+  {
+    "address": "41 Ames Street, Somerville MA",
+    "street": "Ames Street",
+    "lat": 42.3929,
+    "lon": -71.102421,
+    "walk_min_own_school": 7,
+    "walk_min_edgerly": 25
+  },
+  {
+    "address": "1 Essex Street, Somerville MA",
+    "street": "Essex Street",
+    "lat": 42.389296,
+    "lon": -71.098193,
+    "walk_min_own_school": 5,
+    "walk_min_edgerly": 17
+  },
+  {
+    "address": "14 Essex Street, Somerville MA",
+    "street": "Essex Street",
+    "lat": 42.389839,
+    "lon": -71.098295,
+    "walk_min_own_school": 4,
+    "walk_min_edgerly": 17
+  },
+  {
+    "address": "5 Richardson Street, Somerville MA",
+    "street": "Richardson Street",
+    "lat": 42.39558,
+    "lon": -71.104605,
+    "walk_min_own_school": 12,
+    "walk_min_edgerly": 29
+  },
+  {
+    "address": "31 Richardson Street, Somerville MA",
+    "street": "Richardson Street",
+    "lat": 42.396039,
+    "lon": -71.105617,
+    "walk_min_own_school": 14,
+    "walk_min_edgerly": 30
+  },
+  {
+    "address": "2 Wellington Avenue, Somerville MA",
+    "street": "Wellington Avenue",
+    "lat": 42.390121,
+    "lon": -71.091213,
+    "walk_min_own_school": 13,
+    "walk_min_edgerly": 9
+  },
+  {
+    "address": "22 Wellington Avenue, Somerville MA",
+    "street": "Wellington Avenue",
+    "lat": 42.389696,
+    "lon": -71.090208,
+    "walk_min_own_school": 15,
+    "walk_min_edgerly": 9
+  },
+  {
+    "address": "9 Montrose Court, Somerville MA",
+    "street": "Montrose Court",
+    "lat": 42.389008,
+    "lon": -71.099535,
+    "walk_min_own_school": 6,
+    "walk_min_edgerly": 19
+  }
+]

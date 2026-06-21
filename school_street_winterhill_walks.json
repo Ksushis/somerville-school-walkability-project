@@ -1,0 +1,32 @@
+[
+  {
+    "address": "170 School Street, Somerville MA",
+    "street": "School Street",
+    "num": "170",
+    "lat": 42.389011262296926,
+    "lon": -71.09749233547733,
+    "walk_mi": 0.24,
+    "walk_min": 4.6,
+    "walk_min_adj": 6
+  },
+  {
+    "address": "216 School Street, Somerville MA",
+    "street": "School Street",
+    "num": "216",
+    "lat": 42.3910477367469,
+    "lon": -71.0962156039677,
+    "walk_mi": 0.24,
+    "walk_min": 4.7,
+    "walk_min_adj": 6
+  },
+  {
+    "address": "262 School Street, Somerville MA",
+    "street": "School Street",
+    "num": "262",
+    "lat": 42.39289793928532,
+    "lon": -71.09501933879869,
+    "walk_mi": 0.33,
+    "walk_min": 6.4,
+    "walk_min_adj": 8
+  }
+]
