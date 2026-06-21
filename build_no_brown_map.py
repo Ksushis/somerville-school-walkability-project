@@ -24,7 +24,7 @@ WALK_KENNEDY       = "samples_walk_to_kennedy.json"
 WALK_WEST          = "samples_walk_to_west.json"
 WALK_WINTERHILL    = "brown_to_winterhill_walks.json"
 WALK_HEALEY        = "brown_to_healey_walks.json"
-OUTPUT_FILE        = "no_brown_scenario_map.html"
+OUTPUT_FILE        = "brown_catchment_assignment_by_walkability.html"
 
 SCHOOLS = [
     {"name": "Kennedy School",                          "grades": "K-8",  "lat": 42.389388, "lon": -71.115523, "address": "5 Cherry Street",        "key": "Kennedy"},
@@ -36,7 +36,7 @@ SCHOOLS = [
 ]
 
 # Brown shown as ghost/closed marker
-BROWN_SCHOOL = {"name": "Brown School (closed in scenario)", "lat": 42.397302, "lon": -71.114010, "address": "201 Willow Avenue"}
+BROWN_SCHOOL = {"name": "Brown School site", "lat": 42.397302, "lon": -71.114010, "address": "201 Willow Avenue"}
 
 OTHER_SCHOOLS = [
     {"name": "Edgerly (Winter Hill Temporary Location)", "grades": "PK-8 (temporary site)",
@@ -120,9 +120,9 @@ def main():
                 "school_key": new_school,
                 "is_brown":   True,
                 "label":      f"{pt['street']} {pt.get('num','')}",
-                "popup_extra": f"<div style='color:#7c3aed;margin-top:4px'>Formerly Brown zone</div>"
-                               f"<div>Reassigned → {DISPLAY_NAME[new_school]}</div>"
-                               f"<div style='color:#444;font-size:11px'>{walk_mi} mi · {walk_min} min walk</div>",
+                "popup_extra": f"<div style='color:#555;margin-top:4px'>Original zone: Brown</div>"
+                               f"<div>Closest → {DISPLAY_NAME[new_school]}</div>"
+                               f"<div style='color:#444;font-size:11px'>{walk_min} min walk</div>",
             })
         else:
             sk = ZONE_TO_KEY.get(zone)
@@ -159,19 +159,21 @@ def build_html(map_points, total_brown, brown_dest):
         dn = DISPLAY_NAME[s["key"]]
         legend_items += f"""
   <div class="leg-group">
-    <div class="dot" style="background:{c['dark']};border:1px solid {c['dark']}"></div>
-    <span>{dn} (current)</span>
-  </div>
+    <div class="dot" style="background:{c['light']};border:none"></div>
+    <span>{dn}</span>
+  </div>"""
+        if brown_dest.get(s["key"], 0) > 0:
+            legend_items += f"""
   <div class="leg-group">
-    <div class="dot" style="background:{c['light']};border:2.5px solid {c['dark']}"></div>
-    <span>{dn} (ex-Brown)</span>
+    <div class="dot" style="background:{c['light']};border:2px solid {c['dark']}"></div>
+    <span>{dn} (Brown catchment)</span>
   </div>"""
 
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Somerville — No Brown Scenario</title>
+<title>Assigning Brown School Catchment to Closest School by Walkability</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"/>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <style>
@@ -192,19 +194,22 @@ body {{font-family:system-ui,sans-serif;background:#f5f4f0;display:flex;flex-dir
 </head>
 <body>
 <div id="header">
-  <h1>Somerville — What If Brown School Closed?</h1>
-  <p>{total_brown} Brown zone addresses reassigned to nearest school &nbsp;·&nbsp;
-     {kennedy_count} of {total_brown} ({kennedy_count*100//total_brown}%) → Kennedy &nbsp;·&nbsp;
-     Solid dot = current zone &nbsp;·&nbsp; Outlined dot = reassigned Brown student</p>
+  <h1>Assigning Brown School Catchment to Closest School by Walkability</h1>
+  <p>{total_brown} Brown catchment addresses &nbsp;·&nbsp;
+     {brown_dest.get("Kennedy",0)} ({brown_dest.get("Kennedy",0)*100//total_brown}%) → Kennedy &nbsp;·&nbsp;
+     {brown_dest.get("WestSomerville",0)} ({brown_dest.get("WestSomerville",0)*100//total_brown}%) → West Somerville &nbsp;·&nbsp;
+     {brown_dest.get("WinterHill",0)} ({brown_dest.get("WinterHill",0)*100//total_brown}%) → Winter Hill</p>
 </div>
 <div id="map"></div>
 <div id="legend">
-  <span class="leg-section">Current zone</span>
-  <span class="leg-section">Ex-Brown reassigned</span>
   {legend_items}
   <div class="leg-group">
-    <div class="dot" style="background:#d1d5db;border:2px dashed #6b7280"></div>
-    <span>Brown (closed)</span>
+    <svg width="12" height="12" viewBox="0 0 24 24" style="flex-shrink:0"><polygon points="12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26" fill="#7c3aed" stroke="#4c1d95" stroke-width="1.5"/></svg>
+    <span>Brown site</span>
+  </div>
+  <div class="leg-group">
+    <svg width="12" height="12" viewBox="0 0 24 24" style="flex-shrink:0"><polygon points="12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26" fill="#94a3b8" stroke="#475569" stroke-width="1.5"/></svg>
+    <span>Other schools (SHS/Next Wave, Capuano, Edgerly)</span>
   </div>
 </div>
 <script>
@@ -248,7 +253,7 @@ const exBrown  = mapPoints.filter(p =>  p.is_brown);
 current.forEach(p => {{
   const c = colors[p.school_key];
   L.circleMarker([p.lat, p.lon], {{
-    radius: 3.5, fillColor: c.light, color: c.dark, weight: 0.8, fillOpacity: 0.45
+    radius: 3.5, fillColor: c.light, color: 'transparent', weight: 0, fillOpacity: 0.5
   }}).addTo(map).bindPopup(
     '<div style="font-weight:600;font-size:14px;margin-bottom:4px">' + p.label + '</div>' +
     '<div>Zone: <strong>' + displayName[p.school_key] + '</strong></div>' + p.popup_extra
@@ -285,15 +290,15 @@ schools.forEach(s => {{
   }}).addTo(map);
 }});
 
-// Brown — ghost/closed marker
+// Brown — purple star marker
 L.marker([brownSchool.lat, brownSchool.lon], {{
-  icon: starIcon('#d1d5db', '#9ca3af', 26), zIndexOffset: 1000, opacity: 0.5
+  icon: starIcon('#7c3aed', '#4c1d95', 26), zIndexOffset: 1000
 }}).addTo(map)
   .bindPopup('<strong>' + brownSchool.name + '</strong><br>' + brownSchool.address);
 L.marker([brownSchool.lat, brownSchool.lon], {{
   icon: L.divIcon({{
     html: '<div style="font-size:11px;font-weight:600;white-space:nowrap;margin-left:15px;margin-top:-6px;' +
-          'color:#9ca3af;text-shadow:0 0 3px #fff,0 0 3px #fff">Brown (closed)</div>',
+          'color:#4c1d95;text-shadow:0 0 3px #fff,0 0 3px #fff,0 0 3px #fff">Brown site</div>',
     className:'', iconAnchor:[0,6]
   }}),
   zIndexOffset: 999, interactive: false
