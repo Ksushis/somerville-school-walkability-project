@@ -1,0 +1,14 @@
+# Scripts with hardcoded API keys — keep local only
+fetch_*.py
+reroute_*.py
+calibrate_walk.py
+verify_*.py
+diagnose_ors.py
+fetch_census_age*.py
+audit_winterhill.py
+analyze_*.py
+breakdown_mismatches_by_zone.py
+
+# Python
+__pycache__/
+*.pyc
