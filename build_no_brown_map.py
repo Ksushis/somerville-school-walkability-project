@@ -151,6 +151,9 @@ def main():
 
 
 def build_html(map_points, total_brown, brown_dest):
+    with open("boundaries.json") as f:
+        _b = json.load(f)
+    border_coords = json.dumps(_b["Somerville"])
     kennedy_count = brown_dest.get("Kennedy", 0)
 
     legend_items = ""
@@ -225,20 +228,6 @@ L.tileLayer('https://{{s}}.basemaps.cartocdn.com/light_all/{{z}}/{{x}}/{{y}}{{r}
   attribution: '&copy; OpenStreetMap contributors &copy; CARTO', maxZoom: 19
 }}).addTo(map);
 
-async function addSomervilleBorder() {{
-  try {{
-    const url = "https://nominatim.openstreetmap.org/search?q=" +
-      encodeURIComponent("Somerville, Massachusetts, USA") +
-      "&polygon_geojson=1&format=json&limit=1";
-    const resp = await fetch(url, {{headers:{{"User-Agent":"somerville-school-map/1.0"}}}});
-    const data = await resp.json();
-    if (data.length && data[0].geojson) {{
-      L.geoJSON(data[0].geojson, {{style:{{color:"#6366f1",weight:2.5,opacity:0.9,fill:false}}}}).addTo(map);
-    }}
-  }} catch(e) {{ console.warn('Border fetch failed', e); }}
-}}
-addSomervilleBorder();
-
 function starIcon(fill, stroke, size) {{
   const svg = '<svg xmlns="http://www.w3.org/2000/svg" width="'+size+'" height="'+size+'" viewBox="0 0 24 24">' +
     '<polygon points="12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26" ' +
@@ -310,6 +299,10 @@ otherSchools.forEach(s => {{
     .addTo(map)
     .bindPopup('<strong>' + s.name + '</strong>' + (s.grades ? ' (' + s.grades + ')' : '') + '<br>' + s.address);
 }});
+
+// Somerville border — drawn last so it appears on top
+L.geoJSON({{type:"Feature",geometry:{{type:"MultiLineString",coordinates:{border_coords}}}}},
+  {{style:{{color:"#6366f1",weight:2.5,opacity:0.9,fill:false}}}}).addTo(map);
 </script>
 </body>
 </html>"""

@@ -134,7 +134,7 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{
 async function addSomervilleBorder() {
   try {
     const url = "https://nominatim.openstreetmap.org/search?q=" + encodeURIComponent("Somerville, Massachusetts, USA") + "&polygon_geojson=1&format=json&limit=1";
-    const resp = await fetch(url, {headers:{"User-Agent":"somerville-school-map/1.0"}});
+    const resp = await fetch(url);
     const data = await resp.json();
     if (data.length && data[0].geojson) {
       L.geoJSON(data[0].geojson, {
