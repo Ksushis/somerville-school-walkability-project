@@ -39,6 +39,13 @@ body { font-family: system-ui, sans-serif; background: #f5f4f0; display: flex; f
   margin-bottom: -2px;
   transition: background 0.1s;
 }
+.tab-short { display: none; }
+@media (max-width: 640px) {
+  .tab { padding: 8px 10px; font-size: 11px; white-space: normal; text-align: left; }
+  #site-header p { display: none; }
+  .tab-long { display: none; }
+  .tab-short { display: inline; }
+}
 .tab:hover { background: #e9eaf0; color: #1e3a5f; }
 .tab.active {
   background: #fff;
@@ -64,13 +71,16 @@ body { font-family: system-ui, sans-serif; background: #f5f4f0; display: flex; f
 
 <div id="tab-bar">
   <button class="tab active" onclick="switchTab(this, 'side_by_side_comparison.html')">
-    Side-by-Side: Current vs. Brown → Winter Hill
+    <span class="tab-long">Side-by-Side: Current vs. Brown → Winter Hill</span>
+    <span class="tab-short">Side-by-Side</span>
   </button>
   <button class="tab" onclick="switchTab(this, 'brown_catchment_assignment_by_walkability.html')">
-    Brown Catchment: Closest School by Walkability
+    <span class="tab-long">Brown Catchment: Closest School by Walkability</span>
+    <span class="tab-short">Brown Catchment</span>
   </button>
   <button class="tab" onclick="switchTab(this, 'current_and_planned_displacement_comparison.html')">
-    Displacement: Winter Hill (now) vs. Brown (proposed)
+    <span class="tab-long">Displacement: Winter Hill (now) vs. Brown (proposed)</span>
+    <span class="tab-short">Displacement</span>
   </button>
 </div>
 
