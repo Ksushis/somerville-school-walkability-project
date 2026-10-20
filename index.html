@@ -70,25 +70,25 @@ body { font-family: system-ui, sans-serif; background: #f5f4f0; display: flex; f
 </div>
 
 <div id="tab-bar">
-  <button class="tab active" onclick="switchTab(this, 'side_by_side_comparison.html')">
+  <button class="tab active" onclick="switchTab(this, 'side_by_side_comparison.html?v=20261020')">
     <span class="tab-long">Side-by-Side: Current vs. Brown → Winter Hill</span>
     <span class="tab-short">Side-by-Side</span>
   </button>
-  <button class="tab" onclick="switchTab(this, 'wards_brown_catchment_map.html')">
+  <button class="tab" onclick="switchTab(this, 'wards_brown_catchment_map.html?v=20261020')">
     <span class="tab-long">Current Proximity Schools</span>
     <span class="tab-short">Current Proximity</span>
   </button>
-  <button class="tab" onclick="switchTab(this, 'brown_catchment_assignment_by_walkability.html')">
+  <button class="tab" onclick="switchTab(this, 'brown_catchment_assignment_by_walkability.html?v=20261020')">
     <span class="tab-long">Brown Catchment: Closest School by Walkability</span>
     <span class="tab-short">Brown Catchment</span>
   </button>
-  <button class="tab" onclick="switchTab(this, 'current_and_planned_displacement_comparison.html')">
+  <button class="tab" onclick="switchTab(this, 'current_and_planned_displacement_comparison.html?v=20261020')">
     <span class="tab-long">Displacement: Winter Hill (now) vs. Brown (proposed)</span>
     <span class="tab-short">Displacement</span>
   </button>
 </div>
 
-<iframe id="map-frame" src="side_by_side_comparison.html"></iframe>
+<iframe id="map-frame" src="side_by_side_comparison.html?v=20261020"></iframe>
 
 <script>
 function switchTab(btn, src) {
