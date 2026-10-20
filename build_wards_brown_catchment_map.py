@@ -152,8 +152,11 @@ const wardLabels = {json.dumps(ward_labels)};
 const somervilleCoords = {somerville_coords};
 
 const map = L.map('map').setView([42.392, -71.103], 13);
-L.tileLayer('https://{{s}}.basemaps.cartocdn.com/light_all/{{z}}/{{x}}/{{y}}{{r}}.png', {{
-  attribution: '&copy; OpenStreetMap contributors &copy; CARTO', maxZoom: 19
+L.tileLayer('https://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{{z}}/{{y}}/{{x}}', {{
+  attribution: '&copy; Esri', maxZoom: 19
+}}).addTo(map);
+L.tileLayer('https://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Reference/MapServer/tile/{{z}}/{{y}}/{{x}}', {{
+  maxZoom: 19
 }}).addTo(map);
 
 function starIcon(fill, stroke, size) {{

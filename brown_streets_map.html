@@ -117,9 +117,11 @@ const BROWN = [42.3892, -71.1087];
 
 const map = L.map('map').setView([42.396, -71.113], 14);
 
-L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-  attribution: '© OpenStreetMap contributors © CARTO',
-  maxZoom: 18
+L.tileLayer('https://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}',{
+  attribution:'&copy; Esri', maxZoom:19
+}).addTo(map);
+L.tileLayer('https://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}',{
+  maxZoom:19
 }).addTo(map);
 
 // 2-mile radius circle

@@ -66,8 +66,11 @@ function starIcon(fill,stroke,size) {
 
 function makeMap(id) {
   const map = L.map(id, {zoomControl:true}).setView([42.394,-71.100],13);
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{
-    attribution:'&copy; OSM &copy; CARTO', maxZoom:19
+  L.tileLayer('https://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}',{
+    attribution:'&copy; Esri', maxZoom:19
+  }).addTo(map);
+  L.tileLayer('https://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}',{
+    maxZoom:19
   }).addTo(map);
   return map;
 }

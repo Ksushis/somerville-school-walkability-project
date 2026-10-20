@@ -76,7 +76,12 @@ function addSchools(map, targets) {
 }
 
 const map = L.map('map').setView([42.392, -71.101], 14);
-L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', { attribution: '\u00a9 OpenStreetMap contributors \u00a9 CARTO', maxZoom: 19 }).addTo(map);
+L.tileLayer('https://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}',{
+  attribution:'&copy; Esri', maxZoom:19
+}).addTo(map);
+L.tileLayer('https://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}',{
+  maxZoom:19
+}).addTo(map);
 samples.forEach(s => {
   if (!s.walk_min_adj) return;
   L.circleMarker([s.lat, s.lon], { radius: 7, fillColor: walkColor(s.walk_min_adj), color: '#fff', weight: 1.5, fillOpacity: 0.92 })

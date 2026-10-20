@@ -115,8 +115,11 @@ function addSchools(map, targetName) {
 const mapBrown = L.map('mapBrown').setView([42.394, -71.108], 14);
 const mapWH    = L.map('mapWH').setView([42.394, -71.108], 14);
 [mapBrown, mapWH].forEach(m => {
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-    attribution: '\u00a9 OpenStreetMap contributors \u00a9 CARTO', maxZoom: 19
+  L.tileLayer('https://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
+    attribution: '&copy; Esri', maxZoom: 19
+  }).addTo(m);
+  L.tileLayer('https://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}', {
+    maxZoom: 19
   }).addTo(m);
 });
 let syncing = false;

@@ -134,8 +134,11 @@ async function addSomervilleBorder(map) {
 
 function buildMap(elementId, samples, isProposed) {
   const map = L.map(elementId, {zoomControl:true}).setView([42.392,-71.100],13);
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{
-    attribution:'&copy; OSM &copy; CARTO', maxZoom:19
+  L.tileLayer('https://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}',{
+    attribution:'&copy; Esri', maxZoom:19
+  }).addTo(map);
+  L.tileLayer('https://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}',{
+    maxZoom:19
   }).addTo(map);
 
   addSomervilleBorder(map);
